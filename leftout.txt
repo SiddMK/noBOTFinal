@@ -1,0 +1,11 @@
+| Column                    | What to Add                                     | Suggested Range / Logic                                    |
+| ------------------------- | ----------------------------------------------- | ---------------------------------------------------------- |
+| **Week_number**           | The week of the semester (for tracking trends). | 1–15 or 1–20                                               |
+| **Attendance_rate**       | % of classes attended (scaled 0–1).             | e.g. `=RAND() * 0.5 + 0.5` (to get 0.5–1 range)            |
+| **Participation_score**   | Engagement in class (derived).                  | Average of Math + Science participation, e.g. `=(F2+G2)/2` |
+| **Assignment_submission** | Fraction of assignments submitted.              | Random 0.6–1.0 or real submission rates                    |
+| **Questions_asked**       | How many questions a student asks per week.     | Integer 0–10                                               |
+| **Interaction_count**     | Total teacher-student interactions.             | Integer 0–20 (higher = more active)                        |
+| **Feedback_rating**       | Teacher’s engagement rating.                    | 0–1 scaled score (or 1–5 raw then scale later)             |
+| **Engagement_category**   | Final target (Low/Medium/High).                 | Derived from participation + attendance, e.g.:             |
+

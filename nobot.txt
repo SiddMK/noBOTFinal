@@ -1,0 +1,191 @@
+import streamlit as st
+import sys
+import os
+from pathlib import Path
+
+# Add your code path
+sys.path.append(str(Path(__file__).parent))
+from unifyllm import UnifiedRetriever, RAGPipeline
+
+# Page config
+st.set_page_config(
+    page_title="noBOT - RNS Institute of Technology",
+    page_icon="🎓",
+    layout="centered"
+)
+
+# Initialize session state
+if 'messages' not in st.session_state:
+    st.session_state.messages = []
+if 'rag' not in st.session_state:
+    st.session_state.rag = None
+if 'dark_mode' not in st.session_state:
+    st.session_state.dark_mode = False
+
+# Dynamic CSS (same as before - keeping your excellent styling)
+def get_css():
+    if st.session_state.dark_mode:
+        bg_gradient = "linear-gradient(135deg, #1a1a2e 0%, #16213e 100%)"
+        header_bg = "linear-gradient(135deg, #0f3460 0%, #16213e 100%)"
+        header_border = "#e94560"
+        text_primary = "#eaeaea"
+        text_secondary = "#a0a0a0"
+        bot_title_color = "#e94560"
+        input_bg = "#16213e"
+        input_border = "#e94560"
+        input_text = "#eaeaea"
+        chat_bg = "#0f3460"
+        empty_text = "#a0a0a0"
+        bot_msg_bg = "linear-gradient(135deg, #16213e 0%, #1a1a2e 100%)"
+        bot_msg_border = "#0f3460"
+        bot_msg_text = "#eaeaea"
+        user_msg_bg = "linear-gradient(135deg, #e94560 0%, #c43f56 100%)"
+        button_bg = "linear-gradient(135deg, #e94560 0%, #c43f56 100%)"
+    else:
+        bg_gradient = "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+        header_bg = "linear-gradient(135deg, #ffffff 0%, #f8f9ff 100%)"
+        header_border = "#667eea"
+        text_primary = "#1a202c"
+        text_secondary = "#4a5568"
+        bot_title_color = "#667eea"
+        input_bg = "white"
+        input_border = "#667eea"
+        input_text = "#1a202c"
+        chat_bg = "white"
+        empty_text = "#718096"
+        bot_msg_bg = "linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%)"
+        bot_msg_border = "#e2e8f0"
+        bot_msg_text = "#1a202c"
+        user_msg_bg = "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+        button_bg = "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+    
+    return f"""
+<style>
+    .main {{
+        background: {bg_gradient};
+        padding: 20px;
+    }}
+    .stChatMessage {{
+        border-radius: 15px;
+        padding: 12px;
+        margin: 8px 0;
+    }}
+    .stChatMessage[data-testid="user-message"] {{
+        background: {user_msg_bg};
+        color: white;
+    }}
+    .stChatMessage[data-testid="assistant-message"] {{
+        background: {bot_msg_bg};
+        border: 2px solid {bot_msg_border};
+        color: {bot_msg_text};
+    }}
+</style>
+"""
+
+st.markdown(get_css(), unsafe_allow_html=True)
+
+# Initialize system (cached)
+@st.cache_resource
+def load_system():
+    base_path = os.getenv('BASE_PATH')
+    retriever = UnifiedRetriever(base_path)
+    return RAGPipeline(retriever)
+
+# Header
+st.markdown("""
+<div style="background: linear-gradient(135deg, #ffffff 0%, #f8f9ff 100%); 
+     padding: 30px; border-radius: 20px; text-align: center; margin-bottom: 25px;
+     box-shadow: 0 8px 32px rgba(0,0,0,0.2); border: 3px solid #667eea;">
+    <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+        <div style="font-size: 56px;">🎓</div>
+        <div>
+            <p style="font-size: 34px; font-weight: 800; color: #1a202c; margin: 0;">
+                RNS INSTITUTE OF TECHNOLOGY
+            </p>
+            <p style="font-size: 16px; color: #4a5568; margin-top: 8px;">
+                Channasandra, Bangalore - 560098
+            </p>
+        </div>
+    </div>
+    <div style="margin-top: 18px; padding-top: 18px; border-top: 3px solid #e2e8f0;">
+        <h2 style="color: #667eea; margin: 12px 0 0 0; font-size: 26px;">
+            🤖 noBOT - Your Intelligent Campus Assistant
+        </h2>
+    </div>
+</div>
+""", unsafe_allow_html=True)
+
+# Sidebar
+with st.sidebar:
+    st.markdown("### 🌓 Dark Mode")
+    if st.button("🔄 Toggle Theme"):
+        st.session_state.dark_mode = not st.session_state.dark_mode
+        st.rerun()
+    
+    st.markdown("---")
+    st.markdown("### ℹ️ What can I help with?")
+    st.markdown("""
+    - 📍 Campus Locations
+    - 📅 Events & Programs
+    - 🗓️ Class Schedules
+    - 🎯 Student Clubs
+    - 🍽️ Dining Services
+    - 📚 Academic Info
+    """)
+    
+    st.markdown("---")
+    st.markdown("### 💡 Quick Questions")
+    
+    questions = [
+        "Where is the principal's office?",
+        "What events are happening?",
+        "Show me Monday's schedule",
+        "What clubs can I join?",
+        "Where is the cafeteria?"
+    ]
+    
+    for q in questions:
+        if st.button(f"💬 {q}", key=q):
+            st.session_state.messages.append({"role": "user", "content": q})
+            st.rerun()
+    
+    st.markdown("---")
+    if st.button("🗑️ Clear Chat History"):
+        st.session_state.messages = []
+        if st.session_state.rag:
+            st.session_state.rag.clear_history()
+        st.rerun()
+
+# Initialize RAG
+if st.session_state.rag is None:
+    with st.spinner("Loading noBOT..."):
+        st.session_state.rag = load_system()
+
+# Display chat messages
+for message in st.session_state.messages:
+    with st.chat_message(message["role"], avatar="🤖" if message["role"] == "assistant" else "👤"):
+        st.markdown(message["content"])
+
+# Chat input
+if prompt := st.chat_input("Type your question here..."):
+    # Add user message
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    with st.chat_message("user", avatar="👤"):
+        st.markdown(prompt)
+    
+    # Generate response with streaming
+    with st.chat_message("assistant", avatar="🤖"):
+        response_placeholder = st.empty()
+        full_response = ""
+        
+        try:
+            for chunk in st.session_state.rag.ask_stream(prompt):
+                full_response += chunk
+                response_placeholder.markdown(full_response + "▌")
+            response_placeholder.markdown(full_response)
+        except Exception as e:
+            full_response = f"⚠️ Error: {str(e)}"
+            response_placeholder.markdown(full_response)
+    
+    st.session_state.messages.append({"role": "assistant", "content": full_response})
+    st.rerun()

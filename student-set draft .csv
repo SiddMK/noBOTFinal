@@ -1,0 +1,2001 @@
+student_id,names ,gender,age,gpa ,attendance_rate,absences,study_hours_per_day,math_score,science_score,extracurricular
+23CS0001,Janardhan,Female,19,3.45,0.81,2,1.17,78,77,Arts
+23CS0002,Basanti,Male,21,3.52,0.61,0,1.19,86,72,
+23CS0003,Lata,Male,21,3.46,0.89,0,2.44,89,93,STEM Club
+23CS0004,Trisha,Male,20,2.96,0.58,3,1.03,77,99,STEM Club
+23CS0005,Lalit,Female,20,3.55,0.98,3,1.79,85,83,Sports
+23CS0006,Himanshi,Female,22,3.76,0.59,6,0.14,82,76,
+23CS0007,Vishakha,Female,22,3.93,0.85,2,2.52,100,100,STEM Club
+23CS0008,Garima,Male,22,3.56,0.64,1,2.66,99,92,Volunteer
+23CS0009,Siddharth,Male,20,3.41,0.77,1,1.22,82,74,
+23CS0010,Lata,Male,21,2.15,0.79,1,2.36,100,94,Sports
+23CS0011,Dharani,Female,21,3.77,0.99,3,1.83,81,86,
+23CS0012,Yamini,Nonbinary,22,2.31,0.84,2,0.65,91,71,Arts
+23CS0013,Vishnu,Male,19,2.84,0.97,3,1.94,94,99,
+23CS0014,Jatin,Female,20,2.43,0.99,0,0.5,83,93,Sports
+23CS0015,Jaswant,Female,21,2.7,0.95,5,2.13,83,94,Arts
+23CS0016,Anirban,Female,19,2.15,0.98,2,0.91,89,94,Arts
+23CS0017,Sachin,Female,21,2.64,0.65,0,2.37,100,100,Sports
+23CS0018,Ajeet,Male,19,3.79,1,2,1.64,100,89,Sports
+23CS0019,Ajeet,Female,22,3.14,0.74,2,2.94,100,100,Arts
+23CS0020,Manav,Female,19,3.57,0.78,2,1.48,98,85,
+23CS0021,Gokul,Male,21,3.25,0.83,4,1.01,75,75,
+23CS0022,Rajendra,Female,20,3.98,0.99,0,2.54,97,91,Volunteer
+23CS0023,Hemant,Female,21,2.05,0.95,4,1.56,82,82,
+23CS0024,Tanvi,Female,19,3.09,0.94,0,3,100,100,STEM Club
+23CS0025,Pranitha,Female,19,3.14,0.55,3,2.14,85,100,Volunteer
+23CS0026,Smita,Male,22,3.93,0.72,2,0.91,100,84,Sports
+23CS0027,Tanmay,Female,19,3.83,0.63,1,2.54,100,93,Sports
+23CS0028,Keshav,Male,20,3.16,0.82,1,2.23,100,93,Arts
+23CS0029,Gaurav,Male,20,2.32,0.85,4,0.92,86,92,Volunteer
+23CS0030,Trilok,Female,19,3.82,0.87,2,1.44,99,92,Volunteer
+23CS0031,Shabnam,Male,19,3.98,0.77,0,2.12,100,100,STEM Club
+23CS0032,Pavitra,Female,19,3.96,0.77,4,1.37,84,63,
+23CS0033,Ramesh,Female,19,3.56,0.94,2,2.08,81,70,Arts
+23CS0034,Diya,Male,19,2.3,0.89,2,3.58,91,100,Sports
+23CS0035,Pradeep,Nonbinary,21,2.03,0.94,2,2.16,100,100,Sports
+23CS0036,Udayan,Male,21,2.46,0.94,2,1.11,76,77,
+23CS0037,Anupama,Female,20,3.34,0.91,3,2.64,99,69,
+23CS0038,Nandan,Female,21,3.27,0.65,1,2.7,100,100,STEM Club
+23CS0039,Anupama,Male,21,2.96,0.62,0,1.81,94,92,Sports
+23CS0040,Ishita,Female,20,2.48,0.66,1,2.66,100,85,Sports
+23CS0041,Ishani,Female,22,3.87,0.94,1,3.96,100,98,Sports
+23CS0042,Bindu,Male,19,3.12,0.68,4,2.96,100,91,Volunteer
+23CS0043,Kalyan,Female,21,2.25,0.71,4,1.74,83,91,STEM Club
+23CS0044,Harsha,Male,19,3.05,0.69,1,2.44,90,87,Sports
+23CS0045,Omkar,Female,19,2.31,0.97,0,1.97,89,99,
+23CS0046,Rituraj,Male,20,2.41,0.87,1,2.38,100,71,Sports
+23CS0047,Yamini,Female,22,2.37,0.94,3,1.1,97,77,Volunteer
+23CS0048,Radhika,Male,20,3.38,0.9,2,2.3,96,77,Arts
+23CS0049,Namrata,Male,20,2.47,0.83,3,1.67,100,94,Arts
+23CS0050,Girish,Female,20,3.44,1,1,2.82,87,90,Arts
+23CS0051,Jaya,Nonbinary,20,2.15,0.9,2,1.08,98,87,Sports
+23CS0052,Bhargavi,Male,21,2.89,0.71,2,1.16,100,75,STEM Club
+23CS0053,Ranjit,Male,21,2.57,0.69,3,2.14,100,95,Arts
+23CS0054,Dharitri,Male,20,2.61,0.73,2,0.29,100,92,
+23CS0055,Feroza,Male,22,2.41,0.88,3,2.87,89,100,
+23CS0056,Chandrika,Male,22,2.37,0.66,3,2.3,91,88,Arts
+23CS0057,Vikrant,Female,22,3.24,0.93,0,1.07,82,90,Volunteer
+23CS0058,Smita,Female,22,2.53,0.96,3,1.31,95,67,Sports
+23CS0059,Usha,Female,19,2.77,0.56,3,3.57,96,79,Volunteer
+23CS0060,Jatin,Female,19,3.23,0.89,3,1.14,97,95,STEM Club
+23CS0061,Yamini,Female,22,2.28,0.72,1,1.35,100,94,
+23CS0062,Ananya,Female,20,3.19,0.9,2,2.48,100,100,
+23CS0063,Yamini,Male,22,2.07,0.78,3,2.4,93,73,
+23CS0064,Urmila,Female,19,3.92,0.69,0,1.84,86,98,STEM Club
+23CS0065,Rachna,Female,20,2.56,0.9,0,1.89,81,100,
+23CS0066,Nikhil,Male,21,3.9,0.81,2,2.86,100,100,Sports
+23CS0067,Kumud,Female,20,3.86,0.78,6,1.23,100,93,Arts
+23CS0068,Suresh,Male,21,2.18,0.76,0,2,100,98,STEM Club
+23CS0069,Madhav,Female,20,3.59,0.98,2,2.57,93,78,
+23CS0070,Suhas,Nonbinary,19,2.85,0.67,1,2.94,79,100,Sports
+23CS0071,Bhargavi,Male,20,3.83,0.92,3,1.99,83,85,Sports
+23CS0072,Jyoti,Female,19,2.38,0.98,1,1.26,100,96,Arts
+23CS0073,Ramesh,Female,22,2.69,1,3,3.61,94,87,STEM Club
+23CS0074,Yash,Male,22,2.05,0.67,2,0.58,84,68,
+23CS0075,Yatindra,Male,22,2.33,0.73,2,1.14,98,100,STEM Club
+23CS0076,Rekha,Male,22,3.78,0.83,3,1.61,78,84,Arts
+23CS0077,Radhika,Male,22,3.48,0.85,2,2.67,98,100,Arts
+23CS0078,Rohan,Female,19,3.3,0.79,1,3.08,100,100,Arts
+23CS0079,Vikram,Female,20,2.54,0.94,2,1.85,93,72,Sports
+23CS0080,Suhas,Female,20,2.26,0.89,2,1.66,100,96,
+23CS0081,Farhan,Male,19,2.54,0.97,0,1.66,76,84,Arts
+23CS0082,Jyoti,Male,21,2.33,0.82,4,3.16,100,100,Arts
+23CS0083,Rakesh,Female,20,2.49,0.88,0,0,84,84,Arts
+23CS0084,Qamar,Female,20,3.66,0.91,2,1.49,100,75,Sports
+23CS0085,Vishnu,Female,21,2.33,0.71,3,2.16,100,97,Volunteer
+23CS0086,Kiran,Female,22,2.69,0.66,3,0.79,82,100,Arts
+23CS0087,Parvati,Male,19,2.29,1,2,1.75,94,94,
+23CS0088,Jatin,Male,19,2.17,0.8,1,1.66,76,91,Sports
+23CS0089,Pranitha,Male,19,3.31,0.96,4,1.35,83,85,STEM Club
+23CS0090,Falguni,Female,21,3.13,0.96,0,3.07,100,100,STEM Club
+23CS0091,Tanuja,Female,21,3.16,0.9,4,0.81,91,84,Sports
+23CS0092,Keshav,Male,20,3.01,0.96,2,0.76,92,68,Volunteer
+23CS0093,Reena,Male,21,3.09,0.67,3,1.55,96,92,Sports
+23CS0094,Sharvani,Male,19,3.35,0.8,1,1.83,100,100,Sports
+23CS0095,Yogesh,Male,19,3.64,0.96,0,2.38,93,90,Volunteer
+23CS0096,Tapan,Male,21,3.32,0.83,3,1.45,88,100,Volunteer
+23CS0097,Damini,Male,20,2.91,0.72,4,1.65,100,97,Arts
+23CS0098,Anjali,Female,20,3.78,0.69,2,2.16,100,84,Volunteer
+23CS0099,Padma,Female,21,3.22,0.9,1,2.5,98,100,
+23CS0100,Umesh,Female,22,2.89,0.79,2,1.13,92,86,Volunteer
+23CS0101,Kalyani,Female,22,2.15,0.62,1,1.86,81,94,Sports
+23CS0102,Dinesh,Male,19,2.49,0.97,4,0.32,91,74,
+23CS0103,Harshita,Female,22,2.02,0.89,1,1.48,96,86,
+23CS0104,Padmini,Male,20,3.96,0.96,1,1.44,100,87,Sports
+23CS0105,Yashika,Male,19,3.78,0.83,3,2.24,93,100,Sports
+23CS0106,Jatin,Female,21,2.36,0.98,2,1.65,86,67,Sports
+23CS0107,Madhuri,Female,21,3.73,0.94,4,0.89,88,72,
+23CS0108,Gokul,Male,19,3.78,0.91,3,1.48,99,99,Sports
+23CS0109,Gulab,Female,21,3.74,0.8,1,1.97,97,95,Arts
+23CS0110,Kalpana,Female,19,3.13,0.98,1,2.26,98,98,Sports
+23CS0111,Keshav,Female,22,2.76,0.9,4,1.33,99,74,Sports
+23CS0112,Tanya,Female,20,3.64,0.54,2,0.99,100,81,STEM Club
+23CS0113,Neelam,Male,20,2.89,0.87,1,0.96,78,64,Volunteer
+23CS0114,Saanvi,Male,19,3.81,0.9,5,0.67,95,78,STEM Club
+23CS0115,Chand,Male,22,3.25,0.73,1,1.58,100,85,Sports
+23CS0116,Nagma,Male,21,3.23,0.86,4,2.12,100,89,STEM Club
+23CS0117,Sanjay,Male,21,2,0.97,1,0.99,85,81,
+23CS0118,Sanjana,Female,22,3.18,0.88,0,1.66,95,91,
+23CS0119,Ragini,Male,19,2.43,0.87,5,1.85,81,100,Sports
+23CS0120,Omkar,Male,20,3.82,1,3,1.11,90,72,STEM Club
+23CS0121,Namratha,Male,22,3.56,0.89,1,0,56,88,
+23CS0122,Nagma,Male,21,3.43,0.98,2,0.97,100,98,
+23CS0123,Gaurav,Female,22,3.4,0.73,5,1.29,76,81,
+23CS0124,Bhanu,Female,22,3.6,0.85,2,0.77,98,83,Volunteer
+23CS0125,Pritam,Female,22,3.51,0.95,1,1.14,88,84,Arts
+23CS0126,Tejas,Female,22,2.83,0.98,2,0.39,82,84,Sports
+23CS0127,Asha,Male,20,3,0.63,1,1.71,91,100,Arts
+23CS0128,Diya,Male,19,3.67,0.79,0,2.76,100,100,Arts
+23CS0129,Zainab,Female,19,3.03,0.96,0,1.07,95,83,Arts
+23CS0130,Zubin,Male,19,3.4,0.79,1,1.06,64,82,
+23CS0131,Yamini,Female,19,2.29,0.82,2,1.45,100,76,Volunteer
+23CS0132,Ramesh,Female,20,3.76,0.62,3,1.62,100,94,Sports
+23CS0133,Bharti,Female,22,3.47,0.74,3,1.66,81,100,Arts
+23CS0134,Vandana,Female,22,3.06,0.73,1,1.21,82,75,
+23CS0135,Nargis,Male,22,3.65,0.68,2,1.47,100,73,Sports
+23CS0136,Meenal,Female,21,2.42,0.93,0,0.33,78,86,Sports
+23CS0137,Ishaan,Male,22,2.16,0.81,0,1.98,89,87,Arts
+23CS0138,Ranjit,Male,22,2.17,0.9,5,1.62,100,80,
+23CS0139,Isha,Female,21,3.96,0.8,0,2.49,100,96,STEM Club
+23CS0140,Jagruti,Nonbinary,22,3.64,0.97,3,3.76,94,86,
+23CS0141,Nivedita,Nonbinary,20,3.28,0.54,2,1.36,89,74,Arts
+23CS0142,Nihar,Female,21,2.72,0.74,2,0.29,71,86,STEM Club
+23CS0143,Anup,Male,22,3.4,0.59,0,0.41,87,61,Arts
+23CS0144,Nisha,Female,20,2.32,0.62,0,0,90,62,STEM Club
+23CS0145,Ravindra,Female,21,2.45,0.78,1,1.25,93,79,Arts
+23CS0146,Waman,Female,22,3.51,0.88,2,1.62,100,100,Sports
+23CS0147,Ranjan,Male,19,2.33,0.87,2,1.81,100,84,STEM Club
+23CS0148,Chandramani,Male,20,2.62,0.61,0,1.77,99,91,Sports
+23CS0149,Kamala,Female,21,3.73,0.89,3,1.53,80,90,Arts
+23CS0150,Bhavana,Female,20,3.62,0.64,0,1.01,93,69,STEM Club
+23CS0151,Diya,Male,19,2.71,0.74,2,3.26,100,100,Sports
+23CS0152,Chand,Female,21,2.46,0.67,1,1.73,86,97,Sports
+23CS0153,Farida,Female,21,3.61,0.79,1,2.78,92,89,Sports
+23CS0154,Wajid,Male,21,3.93,0.92,2,1.81,94,97,STEM Club
+23CS0155,Ishita,Nonbinary,19,2.89,0.8,2,1.38,85,72,Volunteer
+23CS0156,Lalit,Female,20,3.57,0.67,2,1.37,77,95,Arts
+23CS0157,Wali,Male,21,2.53,0.88,3,1.79,100,91,Arts
+23CS0158,Shalini,Male,19,2.36,0.63,4,0,100,75,Volunteer
+23CS0159,Kalyani,Female,19,2.16,0.82,1,1.35,93,88,
+23CS0160,Irfan,Male,21,2.5,0.9,1,2.42,89,94,
+23CS0161,Malini,Female,21,3.82,0.91,1,1.48,76,100,STEM Club
+23CS0162,Devansh,Male,20,2.42,0.83,0,0.56,90,75,STEM Club
+23CS0163,Chandrika,Male,22,3.64,0.98,2,1.63,100,83,Volunteer
+23CS0164,Sneha,Male,19,2.6,0.69,1,2.57,99,100,Sports
+23CS0165,Fazal,Female,19,3.43,0.99,4,1.84,87,78,
+23CS0166,Lalitha,Male,19,3.3,0.92,3,1.92,91,100,Sports
+23CS0167,Neelam,Female,20,3.14,0.94,2,1.83,78,100,
+23CS0168,Zubeda,Female,22,3.65,0.76,1,0.95,94,79,Sports
+23CS0169,Priya,Female,21,3.12,0.93,3,0.29,95,91,STEM Club
+23CS0170,Fazila,Male,20,2.11,0.94,1,1.35,80,81,
+23CS0171,Chandrika,Male,20,3.41,0.98,5,2.68,100,100,STEM Club
+23CS0172,Bhanu,Female,20,3.23,0.92,3,1.92,100,98,Sports
+23CS0173,Damini,Male,21,2.57,0.95,1,0.98,99,88,Arts
+23CS0174,Nirmala,Female,19,2.22,0.99,1,1.73,83,87,
+23CS0175,Dharitri,Male,20,3.97,0.91,2,2.28,75,69,Sports
+23CS0176,Gulshan,Female,20,2.82,0.62,1,2.98,99,100,
+23CS0177,Omkari,Male,20,2.87,0.96,3,2.94,100,72,Volunteer
+23CS0178,Deepthi,Female,22,2.78,0.83,2,1.41,100,85,STEM Club
+23CS0179,Pritam,Male,21,2.16,0.81,1,2.16,100,100,Sports
+23CS0180,Fahim,Female,19,2.14,0.54,2,0.19,81,83,
+23CS0181,Meenal,Female,20,2.45,0.93,2,2.61,86,100,Volunteer
+23CS0182,Ranjana,Female,19,2.3,0.95,2,1.12,100,100,Sports
+23CS0183,Nivedh,Male,20,3.18,0.65,7,1.62,81,82,
+23CS0184,Amrita,Male,21,2.37,0.84,1,0.42,100,82,Arts
+23CS0185,Lalit,Female,22,2.84,0.92,1,2.39,100,100,Volunteer
+23CS0186,Meera,Male,19,2.96,0.9,3,0.87,100,70,
+23CS0187,Fahim,Male,19,2.37,0.86,1,1.76,100,87,
+23CS0188,Neelam,Male,21,2.18,0.79,3,1.39,92,85,Volunteer
+23CS0189,Manoj,Male,19,2.1,0.97,0,1.66,92,74,
+23CS0190,Harsha,Female,21,2.81,0.77,1,2.69,98,99,
+23CS0191,Trilok,Female,22,2.37,0.86,2,0.15,84,75,Arts
+23CS0192,Yashoda,Male,22,2.38,0.85,4,1.92,96,76,Volunteer
+23CS0193,Manoj,Male,21,3.73,0.6,0,3.35,100,100,Sports
+23CS0194,Chinmay,Male,21,3.37,0.82,3,0.57,80,86,Volunteer
+23CS0195,Darshan,Female,21,3.1,0.94,3,1.45,96,95,Arts
+23CS0196,Rohan,Female,22,2.7,0.84,2,1.54,72,87,
+23CS0197,Yamini,Male,19,2.66,0.98,4,2.54,100,100,Volunteer
+23CS0198,Namrata,Male,22,3.26,0.88,1,2.04,87,100,Sports
+23CS0199,Waman,Male,22,3.52,0.82,3,1.27,80,92,Sports
+23CS0200,Trisha,Male,22,2.83,0.75,3,2.06,79,84,Arts
+23CS0201,Bharat,Male,22,3.86,0.98,3,1.15,76,94,Sports
+23CS0202,Zeenat,Female,20,3.59,0.84,1,0.98,65,88,
+23CS0203,Chandresh,Female,19,2.87,0.91,2,2.71,98,96,
+23CS0204,Farhan,Male,22,2.1,0.97,0,0.52,99,98,Sports
+23CS0205,Waseem,Male,21,2.31,0.67,3,1.03,85,82,STEM Club
+23CS0206,Elina,Female,19,2.28,0.74,3,2.13,100,100,Arts
+23CS0207,Gulshan,Female,20,2.05,0.99,4,1.84,96,82,Volunteer
+23CS0208,Arjun,Male,20,3.64,0.9,0,3,100,100,Sports
+23CS0209,Rekha,Female,21,2.76,0.96,4,1.01,88,69,Sports
+23CS0210,Radhika,Female,19,2.6,0.94,4,1.83,81,84,
+23CS0211,Dharani,Male,19,3.87,0.83,1,0.42,100,77,
+23CS0212,Vasundhara,Male,19,3.43,0.96,1,1.7,100,96,Sports
+23CS0213,Chaitanya,Male,22,2.47,0.76,0,2.4,87,100,STEM Club
+23CS0214,Nikhita,Female,22,3.03,0.73,0,1.52,87,100,Volunteer
+23CS0215,Taraksh,Male,21,3.54,0.72,2,0.72,84,61,Volunteer
+23CS0216,Manorama,Female,22,2.91,0.83,4,1.45,85,100,
+23CS0217,Kamala,Female,21,3.3,0.81,2,1.33,92,87,Volunteer
+23CS0218,Pooja,Male,19,2.21,0.88,2,1.55,86,82,Sports
+23CS0219,Omisha,Male,22,2.71,0.77,4,0.52,100,92,
+23CS0220,Hitesh,Male,19,3.04,0.91,3,1.26,100,100,Volunteer
+23CS0221,Ramesh,Male,22,2.29,0.72,1,0.88,89,77,Arts
+23CS0222,Hemant,Male,19,3.5,0.67,3,1.28,95,84,
+23CS0223,Rakesh,Female,20,2.34,0.84,3,0,93,74,Sports
+23CS0224,Usha,Female,22,2.41,0.67,2,1.56,90,89,Sports
+23CS0225,Manorama,Female,22,2.23,0.84,2,1.41,85,84,STEM Club
+23CS0226,Satyam,Female,20,2.78,0.81,4,2.94,100,84,Sports
+23CS0227,Ojas,Nonbinary,21,3.26,0.85,1,0.94,94,85,Volunteer
+23CS0228,Maitreyi,Female,19,2.2,0.97,0,2.56,100,100,
+23CS0229,Neha,Male,20,2.41,0.99,3,1.72,77,95,Sports
+23CS0230,Uday,Male,22,2.33,0.91,2,0,76,90,Sports
+23CS0231,Feroza,Male,20,3.14,0.94,4,1.76,89,90,Arts
+23CS0232,Ranjan,Male,22,3.57,0.83,3,2.11,97,90,Sports
+23CS0233,Isha,Male,20,3.65,0.99,2,1.92,100,99,STEM Club
+23CS0234,Falguni,Male,20,3.59,0.72,4,4.4,90,86,Volunteer
+23CS0235,Ranjit,Female,20,3.61,0.78,2,0.04,90,74,Volunteer
+23CS0236,Kavya,Male,20,2.48,0.95,2,4.15,100,100,STEM Club
+23CS0237,Ramesh,Female,21,3.91,0.84,2,1.62,100,100,Volunteer
+23CS0238,Farida,Female,20,3.62,0.86,2,2.08,93,100,Arts
+23CS0239,Kalpana,Male,22,2.61,0.92,3,1.65,98,95,STEM Club
+23CS0240,Rakesh,Female,21,3.99,0.76,1,1.17,95,97,Sports
+23CS0241,Saira,Male,20,2.48,0.92,2,1.47,97,83,Sports
+23CS0242,Lingaraj,Male,19,2.01,0.56,2,1.78,92,93,Sports
+23CS0243,Laxman,Male,21,3.95,1,0,0.7,95,87,Sports
+23CS0244,Leela,Female,21,2.03,0.6,0,2.8,79,100,Sports
+23CS0245,Zainab,Female,22,2.55,0.78,4,0.28,84,74,Volunteer
+23CS0246,Ovi,Male,19,2.39,0.92,1,0.76,90,82,Sports
+23CS0247,Jaya,Female,22,3.1,0.92,1,1.11,86,92,
+23CS0248,Kalyani,Nonbinary,20,2.86,0.8,3,2.54,100,100,Arts
+23CS0249,Kunal,Nonbinary,19,3.16,0.92,0,2.32,99,96,
+23CS0250,Feroza,Male,20,2.79,0.71,0,2.94,100,100,
+23CS0251,Chandramani,Female,19,2.22,0.79,4,1.14,100,78,
+23CS0252,Suhas,Female,21,2.34,0.96,3,2.53,92,72,Sports
+23CS0253,Lalith,Male,21,3.08,0.97,1,1.56,82,86,Sports
+23CS0254,Urmila,Female,22,3.07,0.87,2,2.68,93,97,STEM Club
+23CS0255,Prakash,Female,22,2.78,0.7,2,0.96,93,85,STEM Club
+23CS0256,Rituparna,Male,20,2.26,0.67,1,2.02,96,71,Sports
+23CS0257,Yamini,Male,20,3.88,0.92,2,1.8,82,88,Sports
+23CS0258,Chandni,Male,20,2.9,0.88,5,2.32,88,68,Sports
+23CS0259,Gulab,Male,20,3.33,0.98,1,0.71,79,96,STEM Club
+23CS0260,Varsha,Female,19,3.82,0.73,0,2.62,100,87,
+23CS0261,Zohra,Male,21,2.86,0.87,3,1.13,92,97,
+23CS0262,Saira,Nonbinary,20,3.67,0.99,3,1.65,98,100,STEM Club
+23CS0263,Shabnam,Female,22,2.93,0.79,4,2.09,81,87,Sports
+23CS0264,Himanshi,Male,20,3.56,0.82,1,1.41,99,74,
+23CS0265,Manav,Male,19,2.51,0.66,2,0.11,75,74,
+23CS0266,Rekha,Male,21,2,0.81,2,2.14,100,87,Volunteer
+23CS0267,Om,Male,22,3.94,0.84,0,3.85,100,100,Volunteer
+23CS0268,Urmila,Male,20,2.71,0.8,2,3.47,100,100,STEM Club
+23CS0269,Sachin,Female,22,2.45,0.78,2,1.72,93,67,Sports
+23CS0270,Jaswant,Female,19,3.12,0.97,1,1.88,100,74,Arts
+23CS0271,Jatin,Male,22,3.88,0.78,3,0.89,94,89,Volunteer
+23CS0272,Kamala,Male,20,3.09,0.99,3,2.63,99,91,Volunteer
+23CS0273,Vikram,Male,20,3.41,0.58,1,3.07,100,98,
+23CS0274,Yogesh,Male,20,2.98,0.95,3,2.03,97,92,STEM Club
+23CS0275,Vandana,Male,19,3.48,0.81,2,1.68,100,100,
+23CS0276,Chandrika,Male,22,2.47,0.95,1,1.23,76,83,
+23CS0277,Rachit,Male,20,3.49,0.68,3,0.69,78,85,Arts
+23CS0278,Chinmay,Male,20,3.4,0.9,2,1.56,98,97,Sports
+23CS0279,Ekansh,Male,21,3.34,0.76,0,2.62,100,83,Volunteer
+23CS0280,Dinesh,Male,22,3.35,0.66,0,1.12,83,89,
+23CS0281,Umesh,Male,21,2.55,1,4,2.36,100,100,Arts
+23CS0282,Tanya,Female,20,3.77,0.7,1,1.53,100,97,Volunteer
+23CS0283,Meghna,Female,20,2.47,0.8,4,2.08,100,74,Volunteer
+23CS0284,Madhav,Female,19,3.54,0.69,2,0.45,73,74,
+23CS0285,Vandana,Male,22,2.51,0.84,1,1.61,91,80,Sports
+23CS0286,Ranjana,Female,21,2.82,1,1,0,82,89,Arts
+23CS0287,Hema,Female,19,3.56,0.99,2,2.12,97,100,
+23CS0288,Padma,Male,21,2.64,0.93,3,0.44,83,100,Volunteer
+23CS0289,Bharat,Female,19,2.84,0.78,4,1.73,81,78,Volunteer
+23CS0290,Yamini,Male,21,3.82,0.88,3,3.35,99,100,
+23CS0291,Darshan,Female,22,3.64,0.77,3,1.16,82,92,
+23CS0292,Feroza,Female,19,3.29,0.85,4,2.9,94,100,
+23CS0293,Malini,Male,20,3.95,0.54,1,0.9,60,99,Volunteer
+23CS0294,Akhil,Female,19,3.23,0.64,0,3.37,100,100,
+23CS0295,Udayan,Female,21,2.14,0.64,3,1,88,63,Sports
+23CS0296,Ramesh,Male,21,2.68,0.94,1,2.83,100,95,Sports
+23CS0297,Rajeev,Male,20,2.28,0.84,1,3.22,100,88,Arts
+23CS0298,Sunita,Female,19,3.33,0.85,1,1.11,82,97,
+23CS0299,Ravina,Male,19,2.23,0.76,2,1.2,100,100,
+23CS0300,Gauri,Female,19,3.15,0.57,1,1.69,100,100,Volunteer
+23CS0301,Zubin,Female,21,2.11,0.99,1,1.64,98,100,Volunteer
+23CS0302,Suhas,Male,21,2.47,0.76,4,0.72,98,97,STEM Club
+23CS0303,Padma,Male,21,3.76,0.98,1,2.68,100,90,
+23CS0304,Parvati,Male,21,3.92,0.79,1,1.65,82,81,Sports
+23CS0305,Isha,Male,19,3.72,0.95,2,1.57,85,95,Arts
+23CS0306,Jaswant,Nonbinary,21,3.88,1,3,1.14,91,92,Sports
+23CS0307,Juhi,Male,19,3.76,0.73,1,0.65,87,91,Volunteer
+23CS0308,Shabnam,Female,22,3.85,0.99,2,2.64,100,100,Arts
+23CS0309,Harshal,Male,22,2.23,0.75,0,0.8,94,95,
+23CS0310,Sanjana,Female,22,3.78,0.91,0,0.48,76,88,Volunteer
+23CS0311,Falguni,Female,19,2.83,0.9,2,1.3,98,100,Volunteer
+23CS0312,Dinesh,Female,22,3.18,0.97,2,3.47,94,100,
+23CS0313,Anirudh,Female,22,3.96,0.89,1,2.03,85,97,Arts
+23CS0314,Basanti,Nonbinary,19,3.22,0.6,1,1.92,83,98,Sports
+23CS0315,Rakesh,Male,19,2.54,0.81,3,3.13,100,97,Sports
+23CS0316,Nitin,Male,20,2.57,0.78,0,1.59,77,100,
+23CS0317,Abhay,Female,22,3.42,0.71,4,2.17,100,80,Arts
+23CS0318,Dharani,Female,21,2.57,0.73,0,1.9,100,100,Volunteer
+23CS0319,Zoya,Female,19,3.31,0.94,2,1.2,82,70,Arts
+23CS0320,Rahul,Female,21,2.34,0.87,0,1.94,62,88,
+23CS0321,Rohan,Male,22,3.88,0.64,0,2.06,90,82,Arts
+23CS0322,Manisha,Male,21,2.13,0.94,3,1.95,95,98,Sports
+23CS0323,Dinesh,Male,19,2.53,0.99,3,0.62,80,88,Volunteer
+23CS0324,Sundar,Female,21,2.1,0.9,1,0.93,85,71,Sports
+23CS0325,Devendra,Male,19,2.77,0.9,2,1.8,100,97,
+23CS0326,Ishita,Male,22,3.2,0.71,2,2.57,100,96,
+23CS0327,Suresh,Male,20,2.57,0.99,2,0.35,74,89,STEM Club
+23CS0328,Mohan,Male,20,3.66,0.89,7,3.46,86,98,Sports
+23CS0329,Ananya,Female,20,2.36,0.98,1,2.98,98,100,STEM Club
+23CS0330,Eshwar,Female,21,3.07,0.74,3,2.62,100,90,
+23CS0331,Deepthi,Female,19,2.53,0.75,3,1.73,99,85,Sports
+23CS0332,Tanuja,Male,22,2.71,0.72,0,1.73,90,88,Sports
+23CS0333,Zoya,Female,22,2.2,0.82,3,1.17,98,99,Volunteer
+23CS0334,Poojani,Female,22,3.21,0.8,1,2.18,100,100,Volunteer
+23CS0335,Fazila,Female,22,2.65,0.68,3,1.57,98,79,
+23CS0336,Karthik,Female,22,3.46,0.97,4,0.68,88,97,Sports
+23CS0337,Vasundhara,Male,22,2.68,0.91,1,2.17,96,73,
+23CS0338,Sharanya,Male,22,3.35,0.9,1,1.19,84,73,Arts
+23CS0339,Nagma,Female,22,2.52,0.79,1,0,95,72,Sports
+23CS0340,Rituraj,Female,22,3.88,0.71,1,0.94,83,73,Volunteer
+23CS0341,Chandni,Male,21,2.43,0.98,1,0.79,84,66,Volunteer
+23CS0342,Fazila,Female,22,2.68,0.61,3,3,99,99,Sports
+23CS0343,Mohan,Female,20,2.8,0.86,5,1.03,76,76,Sports
+23CS0344,Aditi,Female,20,2.77,0.78,2,1.15,82,97,Volunteer
+23CS0345,Yuvika,Female,22,3.2,0.93,0,1.74,94,95,STEM Club
+23CS0346,Manoj,Male,19,3.73,0.98,1,0,80,81,
+23CS0347,Janardhan,Male,22,3.93,0.78,3,2.42,100,100,Sports
+23CS0348,Usha,Female,19,3.5,0.81,3,1.85,94,96,Sports
+23CS0349,Gokul,Female,20,2.66,0.87,2,1.09,98,72,
+23CS0350,Pritam,Male,22,3.01,0.92,2,2.42,86,100,
+23CS0351,Saraswati,Male,19,3.55,0.6,1,0.49,100,78,
+23CS0352,Ishani,Male,22,3.74,0.77,2,0.25,66,72,Arts
+23CS0353,Mahesh,Male,21,3.93,0.58,2,1.12,94,85,Sports
+23CS0354,Chitra,Female,20,2.15,0.56,1,2.45,100,85,
+23CS0355,Omkari,Female,19,3.78,0.77,1,0.03,73,75,
+23CS0356,Sachin,Male,20,2.82,0.65,9,0,78,75,STEM Club
+23CS0357,Nagma,Female,22,3.32,0.88,2,1.64,100,97,Volunteer
+23CS0358,Rakesh,Male,20,3.99,0.68,4,1.29,62,73,Sports
+23CS0359,Ranjana,Male,22,3.34,0.74,2,2.46,100,88,Sports
+23CS0360,Leela,Male,19,3.21,0.72,0,1.19,65,98,Volunteer
+23CS0361,Vishal,Female,19,3.79,0.8,1,2.26,95,100,
+23CS0362,Deepa,Male,21,2.45,0.71,2,1.88,100,100,
+23CS0363,Priya,Female,21,2.57,0.89,3,0,68,84,Sports
+23CS0364,Chandni,Male,20,3.71,0.96,1,1.4,81,100,
+23CS0365,Gitanjali,Male,21,3.55,1,1,2.25,98,83,Sports
+23CS0366,Yamini,Female,20,2.41,0.81,1,2.41,100,100,Volunteer
+23CS0367,Diya,Nonbinary,20,2.85,0.92,0,1.43,75,90,Arts
+23CS0368,Himanshi,Male,19,3.47,0.83,4,1.03,74,76,Sports
+23CS0369,Ramesh,Female,20,3.39,0.79,1,0.58,100,95,Volunteer
+23CS0370,Nisha,Female,19,2.76,0.83,4,1.15,100,98,
+23CS0371,Madhuri,Female,22,2.59,0.85,2,1.91,93,96,
+23CS0372,Ranjana,Female,22,3.48,0.74,3,1.41,84,85,Arts
+23CS0373,Nivedh,Female,19,3.56,0.92,3,2.07,100,100,Arts
+23CS0374,Umesh,Male,20,3.92,0.86,3,3.02,100,99,
+23CS0375,Wali,Female,19,3.07,0.92,1,1.62,100,94,Sports
+23CS0376,Nivedh,Female,20,2.53,0.95,1,1.32,79,82,Arts
+23CS0377,Gulshan,Male,22,2.75,0.68,5,1.42,96,92,Arts
+23CS0378,Lakshya,Female,21,2.47,0.93,3,0.75,80,87,Arts
+23CS0379,Harshal,Male,22,3.75,0.91,4,1.55,91,74,Sports
+23CS0380,Upasana,Female,20,2.78,0.99,2,1.15,99,100,
+23CS0381,Amar,Female,20,2.8,0.85,2,0.78,94,64,Sports
+23CS0382,Uma,Male,21,2.57,0.72,2,2.32,90,92,
+23CS0383,Janardhan,Male,19,3.3,0.8,0,1.37,98,85,Volunteer
+23CS0384,Rameshwar,Male,21,2.79,0.6,2,0.41,93,94,Sports
+23CS0385,Maitreyi,Male,20,2.07,0.87,2,2.61,100,94,Sports
+23CS0386,Smita,Male,22,3.51,0.9,3,1.16,100,85,STEM Club
+23CS0387,Madhav,Female,19,2.57,0.86,1,1.97,83,96,Sports
+23CS0388,Asha,Female,21,2.96,1,0,2.6,98,92,Sports
+23CS0389,Pritam,Male,19,2.94,0.69,5,0.77,85,100,STEM Club
+23CS0390,Keshav,Male,20,2.74,0.95,5,0.36,64,86,Volunteer
+23CS0391,Shalini,Nonbinary,20,2.11,0.78,0,1.13,91,94,Arts
+23CS0392,Komal,Female,21,3.62,0.97,1,1.13,100,79,
+23CS0393,Imran,Female,22,3.96,0.7,2,2.48,74,88,Arts
+23CS0394,Uday,Male,22,3.72,0.84,1,0.47,82,77,STEM Club
+23CS0395,Rachna,Female,20,2.33,0.84,6,1.52,100,82,
+23CS0396,Rajeev,Male,21,3.37,0.8,2,1.89,96,96,
+23CS0397,Fahim,Male,19,3.51,0.95,1,0.86,89,83,Volunteer
+23CS0398,Garima,Female,22,2.69,0.77,1,1.6,82,99,
+23CS0399,Leelavati,Male,21,2.39,0.9,3,2.26,100,86,STEM Club
+23CS0400,Isha,Male,22,3.74,0.97,3,1.11,80,100,Sports
+23CS0401,Bhargavi,Female,19,2.06,0.82,3,1.29,67,77,Sports
+23CS0402,Ovi,Male,21,3.08,0.69,1,0.99,99,87,
+23CS0403,Anirban,Male,19,3.08,0.99,4,0.45,96,93,STEM Club
+23CS0404,Ayush,Male,20,3.82,0.95,3,1.59,91,82,Sports
+23CS0405,Nivedh,Female,22,2.49,0.88,4,1.85,86,89,Arts
+23CS0406,Ranjan,Male,20,3.67,0.75,1,1.96,100,82,Arts
+23CS0407,Harshita,Female,21,2.58,0.85,0,2.53,100,100,STEM Club
+23CS0408,Nivedita,Female,22,3.7,0.99,2,2.76,100,100,Volunteer
+23CS0409,Namita,Male,19,3.66,0.7,1,1.4,95,90,Arts
+23CS0410,Ekta,Female,20,3.76,0.87,3,3.29,100,97,Sports
+23CS0411,Anjali,Female,20,2.62,0.89,3,1.98,99,100,Volunteer
+23CS0412,Pranav,Male,20,3.9,0.91,1,2.82,100,89,Arts
+23CS0413,Chandramani,Male,22,2.36,0.86,0,1.04,77,80,Sports
+23CS0414,Fazal,Male,22,2.76,0.86,4,2.75,99,90,
+23CS0415,Akhila,Male,19,2.22,0.54,0,2.39,90,83,STEM Club
+23CS0416,Mohan,Female,19,3.55,0.87,1,2.47,94,100,Sports
+23CS0417,Meghna,Female,22,2.12,0.93,2,2.01,88,88,Arts
+23CS0418,Harshal,Female,19,3.41,0.89,0,1.65,84,100,Sports
+23CS0419,Tanya,Male,20,3.89,0.81,1,2.64,100,97,
+23CS0420,Pranati,Male,21,3.3,0.78,2,1.74,100,81,Arts
+23CS0421,Neelam,Male,20,3.04,0.79,2,0,100,80,
+23CS0422,Asha,Male,22,2.25,0.91,1,0,63,81,Sports
+23CS0423,Imran,Female,19,2.84,0.94,1,1.45,92,87,Arts
+23CS0424,Taraksh,Male,21,2.96,0.78,5,1.53,76,98,Sports
+23CS0425,Esha,Female,20,3.71,0.95,4,1.36,82,97,STEM Club
+23CS0426,Pritam,Male,21,3.98,0.94,3,2.19,83,98,STEM Club
+23CS0427,Madhukar,Female,19,3.11,0.89,3,0,95,76,STEM Club
+23CS0428,Manisha,Male,21,3.77,0.88,1,2.78,100,94,
+23CS0429,Ojas,Female,20,3.42,0.9,0,0.96,100,88,
+23CS0430,Omkar,Female,20,2.89,0.74,2,2.55,100,99,Arts
+23CS0431,Girish,Female,22,3.43,0.87,1,1.38,100,93,Volunteer
+23CS0432,Akhila,Male,22,3.86,0.74,3,1.84,78,68,STEM Club
+23CS0433,Yogita,Male,20,3.84,0.84,0,2.11,100,100,STEM Club
+23CS0434,Ashok,Female,22,2.36,0.89,4,2.67,100,97,Sports
+23CS0435,Bhavana,Female,20,3.1,0.84,4,2.2,84,88,Sports
+23CS0436,Charan,Male,21,3.95,0.83,1,1.38,95,95,Sports
+23CS0437,Ayush,Female,20,3.57,0.95,1,0.69,84,82,
+23CS0438,Zubin,Male,20,2.74,0.62,2,3.03,100,100,
+23CS0439,Gopal,Male,20,2.37,0.75,6,1.06,81,85,Volunteer
+23CS0440,Malini,Female,19,3.8,0.89,1,2.04,85,99,
+23CS0441,Ranjana,Female,19,3.99,0.73,3,2.21,100,100,
+23CS0442,Pavitra,Nonbinary,21,2.03,0.79,3,3,100,100,
+23CS0443,Kumari,Female,19,2.93,0.77,3,1.11,99,77,Volunteer
+23CS0444,Kalyani,Female,20,2.62,0.98,2,2.91,100,100,Arts
+23CS0445,Brijesh,Male,21,2.47,0.73,2,0.13,73,75,Arts
+23CS0446,Zulekha,Male,21,2.01,0.88,5,2.36,100,100,Volunteer
+23CS0447,Manav,Nonbinary,21,2.19,0.55,1,1.38,73,90,Sports
+23CS0448,Ashok,Male,20,3.2,0.99,0,0.93,92,85,Arts
+23CS0449,Chandresh,Female,22,3.58,0.67,1,0.77,89,87,
+23CS0450,Ramesh,Female,22,3.18,0.66,6,1.54,95,71,
+23CS0451,Ramesh,Male,19,3.47,0.86,2,1.61,93,100,STEM Club
+23CS0452,Chandrika,Male,20,2.64,0.87,1,0.55,90,79,STEM Club
+23CS0453,Ramesh,Female,22,2.55,0.92,1,1.97,100,92,Sports
+23CS0454,Laxman,Male,20,2.5,0.94,1,1.97,100,90,Sports
+23CS0455,Chaitanya,Female,21,2.04,0.85,4,1.67,85,100,Arts
+23CS0456,Kunal,Male,19,3.66,0.98,2,0.67,82,54,
+23CS0457,Karthik,Female,22,3.01,0.98,1,1.31,93,78,
+23CS0458,Nikhil,Female,21,3.43,0.94,0,2.48,100,89,
+23CS0459,Urmila,Female,21,3.1,0.81,0,2.03,88,94,Sports
+23CS0460,Hema,Female,20,2.26,0.72,1,1.49,99,100,STEM Club
+23CS0461,Aditi,Female,20,2.56,0.59,2,2.04,75,83,Sports
+23CS0462,Anjali,Male,21,3.14,0.73,0,1.74,97,100,
+23CS0463,Urmila,Male,21,3.13,0.69,2,1.11,100,88,Arts
+23CS0464,Ravikiran,Male,21,3.45,0.98,2,2.64,92,100,Volunteer
+23CS0465,Zohra,Nonbinary,22,3,0.68,1,0,71,71,
+23CS0466,Jatin,Female,19,3.56,0.9,1,2.77,100,89,
+23CS0467,Yogita,Female,22,3.88,0.86,3,1.94,81,100,Sports
+23CS0468,Ashok,Male,20,2.82,0.84,2,1.9,93,100,STEM Club
+23CS0469,Saanvi,Female,19,3.21,0.92,2,1.91,100,79,Arts
+23CS0470,Omisha,Nonbinary,19,3.28,0.98,2,1.38,83,82,STEM Club
+23CS0471,Indira,Female,20,3.08,0.75,2,0.86,92,96,Volunteer
+23CS0472,Hemant,Nonbinary,21,2.46,0.91,1,3.28,100,100,STEM Club
+23CS0473,Rakesh,Female,19,3.66,0.7,0,1.49,95,81,Arts
+23CS0474,Ramesh,Male,19,3.45,0.93,1,1.78,94,60,Sports
+23CS0475,Urmila,Male,19,3.64,0.76,2,2.41,94,99,
+23CS0476,Ayush,Nonbinary,22,2.63,0.96,0,1.5,100,83,Volunteer
+23CS0477,Pranav,Female,22,2.16,0.99,3,1.94,93,71,Sports
+23CS0478,Tanveer,Male,22,2.05,0.9,2,0.63,85,50,
+23CS0479,Madhukar,Nonbinary,19,3.46,0.75,0,2.56,95,100,Arts
+23CS0480,Tanuja,Male,19,3.52,0.86,2,0.33,88,89,Sports
+23CS0481,Nandan,Male,21,3.24,0.82,4,1.6,83,88,Arts
+23CS0482,Zubin,Male,22,3.54,0.6,2,1.48,95,100,Arts
+23CS0483,Nikhil,Female,19,3.23,0.81,4,1.91,86,97,Sports
+23CS0484,Ranjana,Male,22,3.21,0.8,3,2.32,88,100,STEM Club
+23CS0485,Gauri,Male,20,3.67,0.78,3,0.46,84,65,Sports
+23CS0486,Namrata,Male,21,2.6,0.94,4,0.57,85,80,Sports
+23CS0487,Pranati,Female,19,3.48,0.75,2,1.68,100,75,Arts
+23CS0488,Chitra,Female,19,3.65,0.88,1,0.32,76,76,Arts
+23CS0489,Shyam,Male,19,3.1,0.82,6,1.92,95,86,STEM Club
+23CS0490,Nargis,Male,19,2.19,0.83,0,2.71,100,100,Sports
+23CS0491,Pranati,Female,19,3.38,0.95,1,0,93,87,Arts
+23CS0492,Rituparna,Male,19,2.44,0.79,0,1.63,87,99,
+23CS0493,Zohra,Female,22,2.6,0.91,3,0.17,81,85,Volunteer
+23CS0494,Nirmala,Female,21,2.47,1,1,0.71,95,100,Sports
+23CS0495,Chinmay,Female,20,3,0.63,3,0.88,91,85,STEM Club
+23CS0496,Anirudh,Female,22,2.97,0.7,2,1.35,67,76,
+23CS0497,Pavitra,Male,21,3.81,0.94,1,3.44,100,100,
+23CS0498,Yuvraj,Female,22,3.05,0.88,1,1.64,100,80,Sports
+23CS0499,Falguni,Nonbinary,21,3.49,0.94,4,1.13,86,100,Volunteer
+23CS0500,Aditya,Nonbinary,22,3.86,0.91,1,2.32,92,93,Arts
+23CS0501,Bharti,Male,19,3.01,1,1,0.83,93,74,Sports
+23CS0502,Chand,Female,19,3.98,0.92,1,0,70,76,Sports
+23CS0503,Oviya,Female,22,2.95,0.98,3,3.75,92,100,Volunteer
+23CS0504,Omprakash,Male,22,3.83,0.9,3,1.89,77,93,Sports
+23CS0505,Shyam,Male,22,3.88,0.78,2,1.45,88,93,Arts
+23CS0506,Nandan,Female,21,3.91,0.75,2,1.83,91,94,Arts
+23CS0507,Poojani,Nonbinary,21,3.62,0.83,4,0.77,81,92,Volunteer
+23CS0508,Meenal,Male,21,3.79,0.88,3,2.17,95,94,Sports
+23CS0509,Lakshya,Male,20,2.01,0.98,2,3.56,100,100,Volunteer
+23CS0510,Kavya,Female,20,2.74,0.62,2,1.94,94,100,Sports
+23CS0511,Harshita,Female,22,3.29,0.97,6,1.16,92,84,Arts
+23CS0512,Dinesh,Male,21,2.93,0.98,5,1.42,84,79,Sports
+23CS0513,Sundar,Female,19,3.14,0.94,2,2.83,100,100,Sports
+23CS0514,Ayush,Female,21,2.22,0.7,4,2.39,89,94,None
+23CS0515,Nikhil,Female,19,3.19,0.76,2,1.18,69,94,None
+23CS0516,Rituparna,Male,22,2.44,0.93,2,2.88,100,100,Sports
+23CS0517,Yatindra,Female,19,2.26,0.69,2,0.62,76,87,STEM Club
+23CS0518,Yash,Female,22,3.28,0.73,2,3.11,100,100,Arts
+23CS0519,Chaitanya,Male,22,3.47,0.82,3,1.51,84,83,None
+23CS0520,Yogita,Male,19,2.02,0.84,3,1.09,88,97,Sports
+23CS0521,Gulab,Male,20,3.15,0.99,1,2.47,86,98,None
+23CS0522,Omisha,Male,21,3.57,0.98,0,1.75,100,100,Arts
+23CS0523,Udayan,Male,20,2.55,0.65,4,2.2,100,93,Sports
+23CS0524,Leelavati,Male,22,3.58,0.83,2,0.06,85,80,Sports
+23CS0525,Vishnu,Male,20,2.6,0.6,1,2.04,100,89,Volunteer
+23CS0526,Shalini,Female,19,2.93,0.78,3,1.77,79,66,STEM Club
+23CS0527,Rajendra,Female,21,2.78,0.99,1,1.4,98,99,Arts
+23CS0528,Wali,Female,20,2.94,0.96,4,1.04,83,100,Arts
+23CS0529,Amrita,Female,19,3.75,0.72,0,1.27,100,100,Arts
+23CS0530,Kavitha,Male,19,3.46,0.91,2,0.93,86,90,Volunteer
+23CS0531,Rekha,Female,21,2.02,0.95,2,2.11,100,100,Sports
+23CS0532,Ravindra,Female,19,2.06,0.94,1,1.19,96,92,Volunteer
+23CS0533,Ujjwal,Female,20,3.29,0.97,1,0.57,71,95,Sports
+23CS0534,Keshav,Male,21,3.87,0.7,4,1.43,78,77,Sports
+23CS0535,Vasundhara,Female,19,2.3,0.7,1,0.27,83,91,Arts
+23CS0536,Nagma,Female,19,3.48,0.61,3,1.45,100,95,None
+23CS0537,Isha,Female,21,3.07,0.82,4,2.41,95,85,Arts
+23CS0538,Ravindra,Male,19,3.6,0.92,3,2.57,99,84,Arts
+23CS0539,Yamini,Male,21,3.45,0.96,2,1.32,92,65,Sports
+23CS0540,Tanmay,Male,22,2.79,0.88,1,1.55,94,80,Sports
+23CS0541,Darshan,Male,19,2.4,0.76,1,0.69,98,81,Arts
+23CS0542,Diya,Female,22,3.46,0.96,2,2.94,100,91,Arts
+23CS0543,Jatin,Female,21,3,0.66,3,2.5,83,86,Volunteer
+23CS0544,Madhav,Female,19,3,0.85,3,2.92,100,100,Sports
+23CS0545,Eklavya,Male,22,3.13,0.68,1,0.6,92,85,None
+23CS0546,Vandana,Female,22,2.13,0.74,3,2.3,76,72,None
+23CS0547,Ranjit,Male,22,3.91,0.93,2,1.75,100,95,Sports
+23CS0548,Falguni,Nonbinary,20,3.29,0.73,1,0.21,85,79,STEM Club
+23CS0549,Kalyani,Male,22,2.64,0.85,3,0.65,100,91,Arts
+23CS0550,Ramesh,Male,19,3.89,0.79,1,2.06,100,95,Volunteer
+23CS0551,Bharat,Female,21,2.6,1,1,0.47,100,90,Sports
+23CS0552,Leela,Male,20,3.15,0.8,4,1.61,75,90,Sports
+23CS0553,Zoya,Male,19,3.39,0.91,3,1.55,61,86,Volunteer
+23CS0554,Rakesh,Male,20,3.88,0.87,0,1.9,77,91,Volunteer
+23CS0555,Basanti,Female,21,3.72,0.64,1,1.22,100,94,Arts
+23CS0556,Taraksh,Female,21,2.59,0.77,3,1.35,100,87,Volunteer
+23CS0557,Vandana,Female,21,2.42,0.68,1,0.76,76,95,Sports
+23CS0558,Yash,Male,19,2.17,0.77,1,2.59,100,100,None
+23CS0559,Mohan,Male,20,2.8,0.93,0,1.8,100,100,Sports
+23CS0560,Varun,Male,20,3.7,0.86,5,1.64,90,95,None
+23CS0561,Sachin,Male,19,3.28,0.9,0,3.13,100,100,Sports
+23CS0562,Ekansh,Male,19,3.13,0.99,1,1.7,79,97,None
+23CS0563,Omisha,Male,21,3.24,0.61,3,1.58,77,84,None
+23CS0564,Eklavya,Male,22,3.57,0.85,4,1.51,88,83,Arts
+23CS0565,Dharitri,Male,21,3.22,0.79,1,0.56,91,80,None
+23CS0566,Ishita,Female,20,2.46,0.71,1,2.01,89,100,Sports
+23CS0567,Oorja,Male,19,2.53,0.96,3,2.92,96,100,None
+23CS0568,Gulzar,Female,20,3.75,0.78,2,1.4,100,79,Volunteer
+23CS0569,Nikhil,Female,21,3.19,0.98,1,1.31,85,94,None
+23CS0570,Laxman,Male,21,2.01,0.95,1,1.67,100,80,Arts
+23CS0571,Jatin,Female,20,3.68,0.74,3,3.07,100,70,Sports
+23CS0572,Aditya,Male,21,2.36,0.88,3,1.99,96,100,Sports
+23CS0573,Basanti,Male,19,2.19,0.91,3,0,73,58,Volunteer
+23CS0574,Chandrika,Male,22,2.91,0.96,4,2.32,84,100,None
+23CS0575,Jaya,Female,20,3.65,0.53,1,2.58,100,90,Arts
+23CS0576,Yogita,Male,19,3.43,0.99,2,1.98,81,81,None
+23CS0577,Amar,Male,21,3.88,0.97,2,1.39,81,81,Volunteer
+23CS0578,Fazal,Female,22,2.03,0.83,3,0.69,73,99,None
+23CS0579,Tushar,Female,19,3.44,0.72,1,1.08,100,84,Sports
+23CS0580,Dharam,Male,22,3.07,0.8,4,1.88,100,80,Arts
+23CS0581,Ovi,Female,22,2.97,0.98,4,1.72,83,80,Sports
+23CS0582,Jagdish,Male,21,3.83,0.95,0,1.18,96,85,STEM Club
+23CS0583,Suresh,Male,20,3.96,0.95,1,1.28,78,83,Volunteer
+23CS0584,Gopal,Female,21,3.34,0.69,3,1.61,100,94,STEM Club
+23CS0585,Vishnu,Male,21,2.77,0.66,0,1.7,89,100,Sports
+23CS0586,Gauri,Male,19,2.71,0.7,0,2.77,95,84,Sports
+23CS0587,Trisha,Female,22,2.12,0.81,3,2.03,89,85,Arts
+23CS0588,Laxmi,Female,22,2.46,0.83,4,2.29,100,100,None
+23CS0589,Farhan,Female,21,2.73,0.92,2,1.38,95,100,Sports
+23CS0590,Vandana,Female,21,2.54,0.65,3,2.98,87,100,Arts
+23CS0591,Ananya,Male,19,2.89,0.75,1,1.59,100,92,None
+23CS0592,Ila,Nonbinary,19,3.7,0.86,1,2.59,100,100,Volunteer
+23CS0593,Amar,Female,22,2.16,0.62,4,2.35,80,77,Volunteer
+23CS0594,Yamini,Male,19,2.04,0.85,0,2.24,100,90,Sports
+23CS0595,Varsha,Male,22,2.81,0.61,5,2.25,100,82,Sports
+23CS0596,Vandana,Male,22,3.72,0.87,4,1.84,87,100,Arts
+23CS0597,Gaurav,Female,21,3.4,0.73,3,2.19,73,91,None
+23CS0598,Zulekha,Female,22,2.55,0.75,4,2.63,92,100,Arts
+23CS0599,Harish,Female,19,3.62,0.97,0,1.63,95,72,Sports
+23CS0600,Pranitha,Female,21,3.65,0.94,3,2.12,95,100,Arts
+23CS0601,Saira,Male,22,2.73,0.93,0,1.6,95,99,None
+23CS0602,Zarina,Male,20,3.53,0.64,3,0.97,85,89,Arts
+23CS0603,Chitra,Female,22,3.71,0.78,0,0.74,81,87,None
+23CS0604,Rajendra,Female,21,2.98,0.79,2,3.01,100,97,None
+23CS0605,Ujjwal,Female,19,3.96,0.56,3,2.05,100,100,Sports
+23CS0606,Akhil,Male,22,3.5,0.61,3,1.42,100,77,STEM Club
+23CS0607,Usha,Male,20,2.14,0.95,2,1.04,83,88,None
+23CS0608,Riya,Male,20,3.58,0.75,3,1.66,93,99,None
+23CS0609,Omprakash,Male,19,2.42,0.91,0,2.52,100,95,STEM Club
+23CS0610,Falguni,Female,22,3.68,0.67,2,3.56,98,100,Sports
+23CS0611,Chinmay,Female,22,2.71,0.9,3,1.72,92,100,Arts
+23CS0612,Hemant,Female,19,2.79,0.93,1,2.56,98,83,Volunteer
+23CS0613,Pranati,Female,21,3.06,0.67,1,1.05,99,93,Sports
+23CS0614,Ajeet,Male,20,2.58,0.98,4,1.59,100,77,None
+23CS0615,Ojaswini,Female,19,3.9,0.63,0,1.62,97,93,Sports
+23CS0616,Kalpana,Male,22,3.91,0.76,4,0.1,87,84,Sports
+23CS0617,Dinesh,Male,21,3.14,0.8,0,2.95,100,92,Volunteer
+23CS0618,Omisha,Male,19,3.72,0.85,5,0.82,83,75,Sports
+23CS0619,Ravina,Female,19,3.12,0.8,0,2.24,93,98,Sports
+23CS0620,Indira,Nonbinary,21,3.21,0.93,1,1.41,97,91,Arts
+23CS0621,Harsha,Male,20,3.47,0.87,0,1.52,92,85,Sports
+23CS0622,Siddharth,Female,20,2.73,0.98,3,2.13,97,91,None
+23CS0623,Neelam,Female,21,3.66,0.99,3,1.82,100,89,Sports
+23CS0624,Gaurav,Male,19,2.23,0.9,3,2.11,94,100,Volunteer
+23CS0625,Yatindra,Male,20,2.2,0.9,2,1.43,100,86,None
+23CS0626,Aarti,Nonbinary,20,2.18,0.84,1,1.08,79,90,Sports
+23CS0627,Rachna,Female,19,2.95,0.96,1,0.47,75,79,None
+23CS0628,Dinesh,Male,19,3.63,0.71,1,3.48,91,100,Arts
+23CS0629,Zeenat,Male,21,2.92,0.71,1,0.68,74,86,Arts
+23CS0630,Rajendra,Female,21,3.41,0.74,0,1.8,96,95,Arts
+23CS0631,Trisha,Male,19,2.11,0.73,1,1.11,100,100,Volunteer
+23CS0632,Juhi,Female,21,3.27,0.68,2,1.8,90,93,None
+23CS0633,Ramesh,Male,22,2.03,0.96,1,0.82,94,87,Sports
+23CS0634,Radhika,Male,21,3.42,0.99,2,0.69,53,82,Sports
+23CS0635,Urmil,Nonbinary,20,3.03,0.92,5,1.43,78,83,STEM Club
+23CS0636,Lalith,Female,19,3.06,0.59,1,1.32,84,87,None
+23CS0637,Malini,Female,22,3.74,0.83,0,1.35,92,90,Arts
+23CS0638,Ishwar,Female,21,2.21,0.66,2,2.36,100,97,STEM Club
+23CS0639,Gulshan,Female,19,3.82,0.76,1,1.93,100,100,Sports
+23CS0640,Bhavana,Male,21,2.5,0.92,3,0.03,94,97,Volunteer
+23CS0641,Vinod,Female,19,2.15,0.91,0,2.06,100,93,None
+23CS0642,Omisha,Female,22,3.56,0.95,1,2.83,100,100,STEM Club
+23CS0643,Indira,Male,20,3.52,0.97,2,2.31,100,89,Volunteer
+23CS0644,Rohan,Male,20,2.95,0.91,0,2.09,90,99,Arts
+23CS0645,Pallavi,Female,19,2.69,0.82,0,1.46,93,93,None
+23CS0646,Sakshi,Male,20,2.13,0.94,0,3.22,100,90,Arts
+23CS0647,Manorama,Male,19,3.3,0.64,2,2.85,100,100,None
+23CS0648,Eshwar,Female,22,2.89,0.98,1,1.95,95,96,STEM Club
+23CS0649,Malini,Male,22,3.85,0.9,2,2.41,100,90,None
+23CS0650,Madhukar,Male,19,3.94,0.63,0,2.78,100,96,Sports
+23CS0651,Umesh,Female,22,2.81,0.89,2,1.97,100,96,STEM Club
+23CS0652,Radhika,Male,20,3.31,0.77,2,0.98,100,100,Volunteer
+23CS0653,Hemal,Female,20,2.77,0.7,0,1.59,97,97,Volunteer
+23CS0654,Tanmay,Female,22,3.83,0.6,0,1.22,87,95,Sports
+23CS0655,Rakesh,Male,20,2.49,0.65,2,1.77,100,92,None
+23CS0656,Ranjan,Female,21,2.69,0.95,1,1.68,92,100,Volunteer
+23CS0657,Ramesh,Male,20,2.53,0.87,0,2.96,91,89,Sports
+23CS0658,Harsha,Male,22,2.51,0.98,0,1.63,87,100,None
+23CS0659,Zohra,Male,19,3.6,0.95,1,1.36,79,96,Volunteer
+23CS0660,Chitra,Female,19,3.27,0.95,2,1.67,92,81,Arts
+23CS0661,Omkar,Female,19,3,0.86,3,1.08,85,84,Sports
+23CS0662,Siddharth,Male,21,2.51,0.77,3,0.58,91,87,STEM Club
+23CS0663,Gokul,Male,22,3.62,0.74,2,2.66,100,100,Arts
+23CS0664,Ramesh,Female,19,2.61,0.95,5,2.89,81,87,None
+23CS0665,Amar,Male,20,3.25,0.88,1,1.1,93,86,Arts
+23CS0666,Dharitri,Male,20,2.4,0.77,3,1.38,88,99,None
+23CS0667,Vandita,Female,19,3.08,0.98,1,1.49,90,88,STEM Club
+23CS0668,Dharam,Male,20,3.65,0.9,2,1.31,80,100,STEM Club
+23CS0669,Rameshwar,Male,19,3.15,0.85,1,1.64,100,94,Arts
+23CS0670,Tanmay,Male,21,3.9,0.67,2,2.14,99,100,Volunteer
+23CS0671,Ishwar,Male,19,3.63,0.81,2,3.13,100,100,Volunteer
+23CS0672,Priya,Female,19,3.39,0.78,4,0.36,86,89,STEM Club
+23CS0673,Ishaan,Male,20,3.38,0.94,3,2.73,95,100,Arts
+23CS0674,Hema,Male,20,2.96,0.76,2,0.41,100,74,Sports
+23CS0675,Zoya,Male,19,2.89,0.94,3,1.88,98,86,None
+23CS0676,Pallavi,Female,20,3.87,0.96,2,2.69,85,91,None
+23CS0677,Yamini,Female,19,2.51,0.66,1,1.93,97,94,Volunteer
+23CS0678,Zohra,Female,21,2.01,0.71,3,1.03,71,86,Arts
+23CS0679,Gauri,Female,22,3.24,0.74,1,2.34,100,88,STEM Club
+23CS0680,Prakash,Female,20,3.15,0.68,2,2.44,100,85,None
+23CS0681,Anup,Male,21,2.93,0.97,2,1.67,99,100,Sports
+23CS0682,Falguni,Female,22,3.53,0.71,2,1.44,87,88,None
+23CS0683,Mahesh,Female,19,3.03,0.9,6,0.21,91,60,Arts
+23CS0684,Uma,Male,21,3.67,0.82,6,1.3,89,93,Sports
+23CS0685,Eshan,Female,19,2.46,0.86,3,2.73,100,100,STEM Club
+23CS0686,Zulekha,Male,21,3.97,0.82,1,1.73,100,89,Sports
+23CS0687,Jaswant,Female,19,3.78,0.97,1,0.62,75,82,Sports
+23CS0688,Pradeep,Male,20,2.37,0.62,2,3.37,96,99,Arts
+23CS0689,Gopal,Male,19,3.38,0.99,2,0.54,95,76,Volunteer
+23CS0690,Omisha,Male,20,2.36,0.88,1,1.21,83,93,Arts
+23CS0691,Deepa,Female,22,2.15,0.84,3,1.52,86,87,Arts
+23CS0692,Faiyaz,Male,19,3.01,0.97,1,1.96,100,74,Arts
+23CS0693,Rahul,Female,22,3.02,0.78,1,1.88,99,81,None
+23CS0694,Fazal,Male,22,3.79,0.71,1,1.16,88,88,Sports
+23CS0695,Rameshwar,Female,21,3.8,0.82,2,2.18,84,100,Sports
+23CS0696,Ravina,Male,19,3.02,1,6,3.02,100,96,Sports
+23CS0697,Hemal,Female,19,2.71,0.93,1,0.77,72,76,None
+23CS0698,Sanjay,Male,20,3.69,0.97,3,1.1,76,83,STEM Club
+23CS0699,Vishnu,Female,21,3.52,0.9,3,2.45,100,100,Sports
+23CS0700,Gaurav,Female,21,3.62,0.92,4,2.16,100,91,Volunteer
+23CS0701,Ranjana,Male,22,2.19,0.89,5,1.64,100,92,Arts
+23CS0702,Rameshwar,Female,20,3.23,0.93,2,0,65,88,STEM Club
+23CS0703,Gulab,Male,22,3.7,0.77,6,2.16,88,84,None
+23CS0704,Dinesh,Nonbinary,20,2.65,0.86,1,1.88,90,80,STEM Club
+23CS0705,Pranitha,Male,22,2.34,0.85,2,1.9,79,89,STEM Club
+23CS0706,Jagdish,Male,22,2.71,0.69,1,1.42,74,100,None
+23CS0707,Falguni,Female,22,2.1,0.98,1,3.5,92,89,Sports
+23CS0708,Keshav,Male,20,2.53,0.89,6,2.39,100,90,None
+23CS0709,Shalini,Male,22,3.32,0.82,1,0.07,76,90,Sports
+23CS0710,Oviya,Female,19,2.72,0.75,1,1.58,87,78,Arts
+23CS0711,Juhi,Male,22,3.34,0.75,0,1.6,90,95,STEM Club
+23CS0712,Janardhan,Male,22,2.97,0.69,2,3.76,100,100,None
+23CS0713,Harish,Female,22,2.73,0.93,0,2.5,95,92,Volunteer
+23CS0714,Yogesh,Male,20,2.14,0.68,3,0.38,78,70,None
+23CS0715,Yashoda,Female,22,2.96,0.91,2,0.12,66,63,Arts
+23CS0716,Ragini,Male,20,2.07,0.63,1,0.16,75,83,None
+23CS0717,Charan,Female,20,2.01,0.76,6,2.11,100,100,Arts
+23CS0718,Elina,Female,20,3.39,0.74,3,0.14,88,54,STEM Club
+23CS0719,Vikrant,Male,21,3.92,0.7,2,0.32,100,100,Volunteer
+23CS0720,Satyam,Female,22,2.66,0.97,3,0.72,81,79,STEM Club
+23CS0721,Lakshya,Female,19,2.37,0.78,2,0.8,85,92,None
+23CS0722,Diya,Nonbinary,21,3.32,0.96,1,1.74,99,93,Sports
+23CS0723,Lingaraj,Female,21,3.57,0.97,2,0,70,85,Sports
+23CS0724,Tarak,Male,22,3.76,0.67,3,1.31,100,74,Sports
+23CS0725,Nivedh,Male,19,3.14,0.98,5,1.66,86,85,None
+23CS0726,Rituparna,Female,22,2.32,0.93,2,0.79,99,79,Arts
+23CS0727,Himanshi,Female,22,3.88,0.69,3,0.57,83,81,Sports
+23CS0728,Anirban,Male,22,3.05,0.86,3,1.9,100,93,STEM Club
+23CS0729,Nihar,Female,21,3.83,0.79,1,2.03,94,100,Sports
+23CS0730,Vinod,Female,21,2.53,0.83,5,0.06,83,99,Volunteer
+23CS0731,Fahim,Female,22,3.04,0.74,0,1.63,100,91,None
+23CS0732,Zeba,Female,21,3.39,0.77,3,0,81,78,STEM Club
+23CS0733,Falguni,Female,21,2.43,0.99,2,1.89,73,92,Arts
+23CS0734,Hitesh,Male,22,2.95,0.82,0,1.63,100,95,Sports
+23CS0735,Yogesh,Male,21,3.47,0.86,2,1.22,86,78,None
+23CS0736,Lokesh,Female,22,3.39,0.99,1,0.65,86,84,Sports
+23CS0737,Vandana,Female,21,2.72,0.89,0,2.43,97,93,Sports
+23CS0738,Zarina,Nonbinary,21,2.29,0.87,2,1.75,84,90,Volunteer
+23CS0739,Vikram,Male,22,2,0.81,2,2.99,95,83,Sports
+23CS0740,Indira,Male,19,3.86,0.94,3,1.62,95,92,STEM Club
+23CS0741,Triveni,Female,19,3.91,0.84,3,1.99,92,100,Sports
+23CS0742,Udayan,Male,20,3.73,0.92,1,4.27,80,95,None
+23CS0743,Gauri,Nonbinary,20,2.44,0.93,4,0.22,86,82,Sports
+23CS0744,Trisha,Female,21,3.26,0.75,0,2.23,100,98,None
+23CS0745,Bhanu,Female,19,2.09,0.95,3,1.18,85,98,STEM Club
+23CS0746,Satyam,Female,19,3.62,0.95,1,1.11,100,83,STEM Club
+23CS0747,Elina,Nonbinary,21,3.16,0.97,1,1.3,91,70,Arts
+23CS0748,Karthik,Female,22,2.1,0.84,3,1.89,85,96,Arts
+23CS0749,Tanu,Male,21,2.99,1,1,0.08,100,82,Arts
+23CS0750,Bindu,Male,21,2.07,0.96,6,1.07,81,88,STEM Club
+23CS0751,Aarav,Female,21,2.56,0.75,1,1.23,100,89,Arts
+23CS0752,Himanshi,Female,20,3.85,0.9,4,0.18,72,100,None
+23CS0753,Ranjit,Male,22,3.27,0.95,2,1.97,89,96,None
+23CS0754,Dinesh,Female,22,3.71,0.75,0,2.25,99,95,Sports
+23CS0755,Lalit,Female,22,3.13,0.98,1,2.02,100,100,Volunteer
+23CS0756,Nagma,Nonbinary,21,3.45,0.95,1,0.97,93,100,STEM Club
+23CS0757,Waris,Male,21,3.41,0.86,0,2.67,100,100,STEM Club
+23CS0758,Ramesh,Male,19,3.59,0.89,3,2.11,100,83,STEM Club
+23CS0759,Girish,Female,19,2.63,0.97,1,3.66,100,99,None
+23CS0760,Nandan,Female,21,2.84,0.78,1,2.48,100,100,Volunteer
+23CS0761,Priya,Male,21,2.53,0.8,3,2.88,90,96,Volunteer
+23CS0762,Harshita,Female,22,2.22,0.91,2,2.27,92,92,None
+23CS0763,Ujjwal,Nonbinary,19,2.7,0.86,3,0,88,88,Volunteer
+23CS0764,Anirudh,Female,19,3.08,0.7,2,0.65,92,82,Arts
+23CS0765,Fazal,Female,21,2.7,0.76,5,1.83,99,95,Sports
+23CS0766,Jaya,Female,20,2.79,1,0,1.91,100,99,None
+23CS0767,Kalyan,Female,20,2.32,0.8,3,1,100,90,Arts
+23CS0768,Taraksh,Female,19,3.41,0.9,1,1.23,84,80,Volunteer
+23CS0769,Malini,Female,20,3.68,0.83,3,0.82,88,79,None
+23CS0770,Zeenat,Male,19,3.57,1,1,1.74,100,100,Volunteer
+23CS0771,Jagruti,Female,20,3.06,0.96,1,2.63,88,100,None
+23CS0772,Kiran,Female,21,2.6,0.96,0,1.54,78,75,Volunteer
+23CS0773,Radhika,Female,21,3.44,0.88,1,2.79,96,98,None
+23CS0774,Uday,Female,22,3.98,0.67,2,1,76,83,STEM Club
+23CS0775,Trisha,Male,22,3.84,0.96,8,0.38,90,98,STEM Club
+23CS0776,Jyoti,Female,20,3.13,0.89,2,2.15,100,92,Arts
+23CS0777,Harini,Male,19,2.97,0.98,1,3.74,100,100,Arts
+23CS0778,Udayan,Female,20,3.36,0.81,3,3.12,99,92,None
+23CS0779,Tanveer,Male,21,2.11,0.95,2,1.65,99,90,Arts
+23CS0780,Leela,Female,22,2.6,0.96,2,0.01,100,81,Sports
+23CS0781,Pavitra,Male,19,2.05,0.99,2,0.24,97,89,Arts
+23CS0782,Indira,Female,21,3.82,1,1,1.44,100,88,STEM Club
+23CS0783,Chitra,Female,19,2.58,0.96,3,2.81,100,100,Arts
+23CS0784,Vandana,Male,22,2.4,0.81,2,3.53,100,84,STEM Club
+23CS0785,Aditya,Female,21,3.26,0.72,4,0.41,87,72,Volunteer
+23CS0786,Anirban,Male,22,3.45,0.99,0,2.5,100,100,None
+23CS0787,Kunal,Nonbinary,19,3.56,0.71,4,1.65,100,98,Sports
+23CS0788,Girish,Male,20,2.18,0.87,1,1.6,100,93,Sports
+23CS0789,Kalyan,Male,22,3.3,0.71,2,0.97,100,83,STEM Club
+23CS0790,Amrita,Male,19,3.22,0.74,0,2.8,100,100,Sports
+23CS0791,Sanjay,Female,20,2.84,0.85,0,2.68,75,99,None
+23CS0792,Ashok,Male,20,3.03,0.96,2,0.04,77,81,Volunteer
+23CS0793,Yashika,Female,20,3.08,0.96,3,1.25,80,100,Volunteer
+23CS0794,Dharitri,Male,22,2.68,0.95,1,1.83,82,87,STEM Club
+23CS0795,Kunal,Female,21,3.7,0.97,1,3.23,100,100,Sports
+23CS0796,Lalit,Male,20,3.24,0.8,4,1.97,91,77,Sports
+23CS0797,Siddharth,Male,20,3.32,0.71,2,1.64,85,74,Arts
+23CS0798,Tapan,Male,19,2.79,0.85,2,0.53,97,88,Arts
+23CS0799,Harshal,Female,22,2.7,0.87,0,1.4,89,87,Volunteer
+23CS0800,Padma,Male,20,3.74,0.8,1,0.54,84,100,Arts
+23CS0801,Waseem,Female,19,2.39,0.69,2,0,98,76,Volunteer
+23CS0802,Diya,Male,19,2.88,0.93,3,1.34,90,83,Sports
+23CS0803,Fazal,Female,22,3.7,0.99,2,1.91,79,82,Volunteer
+23CS0804,Gitanjali,Female,19,3.59,0.59,4,1.29,100,99,Volunteer
+23CS0805,Varun,Female,21,2.25,0.94,1,1.31,85,100,STEM Club
+23CS0806,Pavitra,Male,19,2.81,0.88,1,1.29,93,95,Sports
+23CS0807,Rachna,Female,19,3.08,0.8,2,2.16,86,90,None
+23CS0808,Girish,Male,21,2.08,0.87,1,1.04,96,100,STEM Club
+23CS0809,Chandrika,Male,22,3.59,0.69,0,1.28,78,80,STEM Club
+23CS0810,Yamini,Female,22,2.07,0.83,2,3.03,100,91,Arts
+23CS0811,Nikhil,Male,19,3.3,0.98,6,2.02,83,92,Arts
+23CS0812,Damini,Male,19,3.63,0.91,3,0.51,92,74,Arts
+23CS0813,Ayush,Female,22,2.37,0.93,4,1.91,86,96,None
+23CS0814,Urmila,Female,22,2.9,0.76,0,2,100,78,None
+23CS0815,Bhavesh,Female,19,2.39,0.84,2,1.76,90,80,None
+23CS0816,Yamini,Male,20,2.66,0.94,2,1.21,88,98,None
+23CS0817,Farhan,Male,19,2.75,0.94,0,1.38,97,87,Volunteer
+23CS0818,Fahim,Male,21,3.49,0.89,3,0.86,80,66,Sports
+23CS0819,Eshwar,Male,20,2.73,0.95,2,1.31,94,98,Volunteer
+23CS0820,Nagma,Male,20,3.76,0.73,2,0.9,93,97,None
+23CS0821,Darshan,Female,21,3.84,0.98,3,0.69,71,94,Arts
+23CS0822,Varun,Male,19,3.17,0.63,4,2.59,100,100,Sports
+23CS0823,Harsha,Male,20,2.37,0.98,0,1.32,100,100,Sports
+23CS0824,Asha,Female,20,2.11,0.65,2,2.79,84,100,STEM Club
+23CS0825,Sundar,Female,19,2.58,0.7,1,1.9,97,98,None
+23CS0826,Zubeda,Female,21,3.49,0.58,2,0,88,74,None
+23CS0827,Harshita,Female,22,3.69,0.81,4,2.42,100,100,None
+23CS0828,Aditya,Male,22,2.06,0.96,2,3.61,100,100,Sports
+23CS0829,Nikhita,Female,19,2.82,0.9,1,1.52,100,75,Volunteer
+23CS0830,Jaya,Male,22,3.18,0.69,2,2.62,100,91,Arts
+23CS0831,Yatindra,Male,21,3.69,0.75,3,1.11,87,91,Arts
+23CS0832,Kalyani,Male,22,3.61,0.78,6,0.87,82,73,Arts
+23CS0833,Rituparna,Male,20,3.05,0.84,3,3.35,100,98,Sports
+23CS0834,Vandana,Male,19,3.78,0.64,2,1.02,80,63,None
+23CS0835,Madhav,Female,20,3.28,0.99,0,1.61,85,90,Volunteer
+23CS0836,Taraksh,Female,21,2.6,0.62,2,2.44,100,100,Arts
+23CS0837,Zohra,Female,19,3.19,0.9,2,3.3,100,96,Arts
+23CS0838,Trisha,Male,20,3.49,0.88,1,1.14,100,100,STEM Club
+23CS0839,Ravindra,Female,21,2.19,0.96,3,3.64,100,98,Volunteer
+23CS0840,Yatindra,Female,22,2.56,0.97,1,2.27,100,83,Sports
+23CS0841,Vandita,Male,19,2.11,0.81,3,3.54,100,100,Arts
+23CS0842,Meera,Male,20,2.07,0.68,2,2.68,100,100,STEM Club
+23CS0843,Devika,Female,20,2.77,0.9,2,2.28,100,100,Volunteer
+23CS0844,Sharanya,Male,19,2.91,0.98,3,2.91,100,100,STEM Club
+23CS0845,Padma,Female,21,3.63,0.9,1,1.72,99,89,None
+23CS0846,Nivedh,Female,21,3.09,0.9,0,0.46,86,68,Arts
+23CS0847,Poojani,Female,21,2.83,1,0,0.22,87,99,None
+23CS0848,Darshan,Female,19,3.15,0.84,5,1.44,81,69,Sports
+23CS0849,Ramesh,Male,21,3.61,0.92,2,0.97,89,75,Sports
+23CS0850,Yamini,Male,19,3.74,0.82,0,2.74,100,95,Sports
+23CS0851,Saraswati,Male,22,3.85,0.93,2,0.77,89,85,Sports
+23CS0852,Madhav,Male,22,3.76,0.99,1,0.5,82,95,STEM Club
+23CS0853,Riya,Female,22,2.17,0.69,2,1.35,86,99,Volunteer
+23CS0854,Suresh,Female,19,2.49,0.68,2,2.25,85,76,Sports
+23CS0855,Trisha,Female,19,3.56,0.6,2,1.36,76,93,STEM Club
+23CS0856,Zainab,Female,19,2.32,0.84,1,0.41,64,67,STEM Club
+23CS0857,Devendra,Female,20,3.8,0.91,2,0.87,80,99,Arts
+23CS0858,Tanveer,Female,21,3.41,0.88,0,2.1,100,90,Arts
+23CS0859,Ekta,Male,19,3.59,0.86,1,1.42,83,94,Sports
+23CS0860,Lalitha,Female,22,3.02,0.85,2,2.09,100,100,Volunteer
+23CS0861,Ila,Male,20,3.13,0.93,2,2.77,99,100,None
+23CS0862,Imran,Female,20,2.72,0.93,3,1.55,86,92,Volunteer
+23CS0863,Siddharth,Male,20,3.22,0.74,0,2.28,96,100,None
+23CS0864,Dinesh,Female,21,2.03,0.98,0,3.04,97,100,None
+23CS0865,Aditya,Female,21,2.41,0.88,1,1.39,97,73,STEM Club
+23CS0866,Kiran,Male,19,2.13,0.74,1,1.32,74,100,Arts
+23CS0867,Harshita,Male,22,3.54,0.81,0,3.01,100,100,Arts
+23CS0868,Omkari,Female,19,3.68,0.92,1,2.44,100,100,Arts
+23CS0869,Arvind,Male,19,3.48,0.82,0,0.44,71,70,Volunteer
+23CS0870,Gauri,Male,20,3.16,0.65,1,2,100,100,Volunteer
+23CS0871,Mohan,Male,20,2.38,0.72,2,2.29,96,97,None
+23CS0872,Aditi,Male,22,3.2,0.92,0,1.03,97,82,Sports
+23CS0873,Harini,Female,19,2.77,0.96,2,0.86,92,100,Volunteer
+23CS0874,Aditi,Male,20,2.09,0.94,1,2.06,100,92,Volunteer
+23CS0875,Nihar,Male,21,3.15,0.81,1,3.31,100,83,Sports
+23CS0876,Lalit,Female,21,2.76,0.92,1,2.15,91,89,Arts
+23CS0877,Vibha,Male,21,2.45,0.94,2,1.37,95,91,Arts
+23CS0878,Neelam,Female,22,3.34,0.88,4,0.9,75,91,Arts
+23CS0879,Anup,Male,20,2.51,0.81,1,2.14,93,98,Volunteer
+23CS0880,Ravindra,Female,20,3.33,0.85,2,1.71,100,91,STEM Club
+23CS0881,Deepthi,Female,22,3.98,0.8,3,1.28,100,94,None
+23CS0882,Namratha,Male,19,3.47,0.84,4,0.68,75,93,None
+23CS0883,Pradeep,Male,21,2.14,0.73,1,1.7,85,90,Volunteer
+23CS0884,Kalyani,Male,22,2.13,0.94,3,0.89,84,90,Sports
+23CS0885,Brijesh,Male,20,2.66,0.81,4,1.15,86,85,None
+23CS0886,Fahim,Female,19,2.53,0.91,5,1.42,100,83,STEM Club
+23CS0887,Ishita,Female,20,3.32,0.93,3,1.74,89,91,STEM Club
+23CS0888,Tanveer,Male,21,2.04,0.71,0,1.5,87,100,Sports
+23CS0889,Akhil,Male,20,2.6,0.86,2,2,90,96,Arts
+23CS0890,Ojas,Female,20,2.44,0.95,3,1.47,75,83,Sports
+23CS0891,Vijay,Female,22,2.91,0.94,0,2.69,100,100,STEM Club
+23CS0892,Nandan,Female,20,3.13,0.78,1,1.22,74,95,Arts
+23CS0893,Jyoti,Male,19,3.33,0.88,3,2.15,96,96,Arts
+23CS0894,Saraswati,Male,22,3.54,0.69,2,1.65,75,79,Sports
+23CS0895,Padmini,Female,22,2.59,0.75,1,2.16,100,74,Arts
+23CS0896,Nivedh,Female,22,3.72,0.59,4,1.47,67,95,None
+23CS0897,Keshav,Female,19,3.81,0.67,1,1.91,97,95,Sports
+23CS0898,Uday,Female,19,3.82,0.68,3,1.45,89,84,Volunteer
+23CS0899,Wajid,Female,21,2.48,0.79,0,1.36,80,83,STEM Club
+23CS0900,Bharat,Male,20,2.95,0.62,1,0.98,97,91,STEM Club
+23CS0901,Ajeet,Female,20,3.02,0.64,4,0,65,73,Volunteer
+23CS0902,Tejas,Female,20,3.33,0.97,4,1.5,97,94,Sports
+23CS0903,Ragini,Male,21,3.32,0.83,3,1,90,91,Sports
+23CS0904,Ujjwal,Female,22,2.37,0.78,1,1.6,100,99,None
+23CS0905,Ishaan,Male,22,2.54,0.81,1,1.98,92,63,None
+23CS0906,Pankaj,Female,20,2.53,0.87,0,2.51,100,100,Sports
+23CS0907,Falguni,Male,22,2.24,1,1,0.67,97,84,STEM Club
+23CS0908,Indira,Male,21,3.55,0.64,4,2.93,100,100,Sports
+23CS0909,Sharanya,Female,19,3.4,0.93,2,2.33,92,98,Sports
+23CS0910,Chandrika,Female,19,3.81,0.59,3,3.26,97,80,Sports
+23CS0911,Eshwar,Female,22,3.71,0.98,1,2.07,93,82,Sports
+23CS0912,Nargis,Female,20,2.83,0.63,1,0.69,83,100,Sports
+23CS0913,Harsh,Male,20,3.53,0.79,2,1.57,100,97,None
+23CS0914,Tanvi,Male,20,2.23,0.82,2,3.92,100,100,STEM Club
+23CS0915,Kalyani,Female,20,2.02,0.85,1,0,89,100,Arts
+23CS0916,Gitanjali,Male,22,2.25,0.64,0,1.93,89,94,Arts
+23CS0917,Yatindra,Female,20,2.47,0.66,1,2.52,81,87,Sports
+23CS0918,Prithvi,Female,19,2.69,0.75,3,2.44,97,88,None
+23CS0919,Falguni,Female,22,3.55,0.81,1,1.05,80,84,Arts
+23CS0920,Devika,Male,20,2.68,0.97,3,1.96,93,93,Volunteer
+23CS0921,Triveni,Male,19,3.83,0.91,3,1.99,93,85,Volunteer
+23CS0922,Rakesh,Female,21,2.35,0.86,2,0.96,93,100,Arts
+23CS0923,Uma,Male,19,3.52,0.95,2,1.68,83,81,Sports
+23CS0924,Lokesh,Male,22,3.61,0.99,4,1.18,97,79,Sports
+23CS0925,Garima,Female,21,3.82,0.87,0,2.91,96,100,Arts
+23CS0926,Chitra,Nonbinary,19,2.53,0.65,2,2.52,100,100,None
+23CS0927,Chand,Nonbinary,21,3.63,0.95,1,1.72,97,82,None
+23CS0928,Ranjani,Female,20,3.68,0.76,3,1.6,82,83,STEM Club
+23CS0929,Amar,Male,19,3.68,0.93,1,1.15,100,88,Volunteer
+23CS0930,Om,Female,19,2.92,0.92,3,1.19,96,89,None
+23CS0931,Siddharth,Female,22,2.84,0.9,2,3.44,100,94,Sports
+23CS0932,Lokesh,Female,19,2.91,0.89,4,2.45,89,100,STEM Club
+23CS0933,Nargis,Female,20,3.26,0.7,2,1.92,100,97,Sports
+23CS0934,Anup,Female,20,2.83,0.77,0,1.62,98,92,None
+23CS0935,Urmil,Female,19,2.91,0.89,1,1.06,90,80,Arts
+23CS0936,Ravindra,Female,19,2.32,0.79,0,2.32,100,89,Arts
+23CS0937,Basanti,Male,20,2.24,0.71,1,1.24,98,97,STEM Club
+23CS0938,Manoj,Female,21,3.28,0.9,3,1.75,100,76,Sports
+23CS0939,Wajid,Male,22,2.09,0.84,2,0.59,77,69,Volunteer
+23CS0940,Jeevan,Female,21,3.64,0.7,1,2.22,80,94,Sports
+23CS0941,Tanu,Female,19,2.41,0.89,4,2.57,82,100,Volunteer
+23CS0942,Bhavesh,Female,20,2.55,0.6,0,2.23,99,85,None
+23CS0943,Lata,Male,20,2.75,0.76,1,2.2,100,84,Arts
+23CS0944,Kiranmayi,Female,21,3.25,0.9,1,1.48,86,100,Arts
+23CS0945,Fazila,Female,22,3.21,0.74,5,1.18,79,79,Sports
+23CS0946,Kalyan,Male,21,3.25,0.66,0,0.51,67,74,None
+23CS0947,Gulshan,Male,22,2.77,0.92,2,1.98,100,100,STEM Club
+23CS0948,Janardhan,Female,21,2.47,0.9,0,0.94,100,99,Sports
+23CS0949,Rahul,Male,21,3.66,0.99,2,2.46,100,75,STEM Club
+23CS0950,Pavitra,Female,19,2.65,0.96,1,1.1,86,80,Sports
+23CS0951,Kumud,Female,22,2.16,0.77,4,2.46,90,100,Arts
+23CS0952,Madhukar,Male,21,2.02,0.79,1,0.11,82,92,Sports
+23CS0953,Ayush,Female,19,3.73,0.77,3,1.17,87,94,Arts
+23CS0954,Dharam,Male,20,3.73,0.94,3,2.31,100,92,STEM Club
+23CS0955,Fahim,Male,22,3.98,0.91,0,1.52,83,91,Volunteer
+23CS0956,Riya,Female,19,3.1,0.83,2,1.57,91,80,Arts
+23CS0957,Oviya,Female,19,3.07,0.96,0,1.87,85,100,Volunteer
+23CS0958,Diya,Female,19,3.15,0.75,3,3.14,100,100,None
+23CS0959,Jaya,Male,21,2.35,0.54,2,2.86,100,100,STEM Club
+23CS0960,Anjali,Male,22,2.15,0.9,2,0.94,95,100,STEM Club
+23CS0961,Nikhita,Female,20,2.59,0.91,2,1.92,92,94,Arts
+23CS0962,Wajid,Female,22,2.33,0.82,0,2.65,87,88,Sports
+23CS0963,Devansh,Male,22,2.99,0.91,2,3.14,100,88,None
+23CS0964,Leela,Male,20,3.32,0.98,1,1.95,92,93,None
+23CS0965,Yamini,Male,22,2.52,0.78,1,1.45,91,100,STEM Club
+23CS0966,Lata,Female,19,3.35,0.97,2,1.52,100,87,None
+23CS0967,Aarti,Male,21,3.47,0.69,2,1.58,89,79,Volunteer
+23CS0968,Oviya,Female,21,3.88,0.76,3,1.84,77,84,Volunteer
+23CS0969,Manisha,Female,22,2.26,0.93,1,1.12,87,100,Volunteer
+23CS0970,Feroz,Male,21,2.03,0.8,1,1.42,100,99,Volunteer
+23CS0971,Usha,Female,19,2.47,0.94,0,2.73,80,86,Sports
+23CS0972,Suresh,Male,19,3.86,0.86,0,0.99,73,72,None
+23CS0973,Urmil,Female,20,2.77,0.97,2,1.65,100,89,None
+23CS0974,Ekansh,Female,21,2.54,0.76,3,1.48,84,69,Volunteer
+23CS0975,Bindu,Nonbinary,22,2.83,0.75,3,1.46,100,97,None
+23CS0976,Trisha,Female,19,2.39,0.57,2,1.02,82,100,Arts
+23CS0977,Feroz,Male,19,3.59,0.62,0,1.76,80,100,Volunteer
+23CS0978,Imran,Female,22,3.41,0.97,1,1.12,94,76,None
+23CS0979,Janardhan,Male,19,2.74,0.74,1,3.36,100,81,None
+23CS0980,Vinod,Female,21,2.26,0.93,4,0,67,80,STEM Club
+23CS0981,Harini,Female,22,3.77,0.73,1,1.95,87,99,Arts
+23CS0982,Saraswati,Male,20,3.05,0.83,2,3.06,100,100,Arts
+23CS0983,Ranjit,Male,21,2.58,0.94,1,0.96,84,100,None
+23CS0984,Devendra,Male,21,2.16,0.91,3,2.04,94,88,Sports
+23CS0985,Fahim,Female,21,2.83,0.76,2,1.63,100,100,None
+23CS0986,Deepa,Female,19,3.54,0.88,2,1.73,100,88,Sports
+23CS0987,Ramesh,Female,19,2.35,0.76,1,2.59,100,100,Sports
+23CS0988,Eesha,Female,19,3.32,0.99,4,1.19,98,74,None
+23CS0989,Waseem,Male,21,2.81,0.68,2,0.39,93,84,None
+23CS0990,Bindu,Female,20,3.81,0.87,0,2.08,95,89,Arts
+23CS0991,Omkari,Male,21,3.01,0.95,1,2.48,100,100,None
+23CS0992,Sharanya,Nonbinary,22,2.18,0.84,1,2.84,100,91,Arts
+23CS0993,Madhukar,Male,20,2.77,0.88,0,0,95,76,Sports
+23CS0994,Amrita,Female,21,2.97,0.93,1,4.18,100,100,Volunteer
+23CS0995,Ojas,Female,19,2.43,0.97,1,2.18,84,85,Sports
+23CS0996,Vandana,Nonbinary,22,2.45,0.79,3,1.01,100,95,None
+23CS0997,Sakshi,Male,22,3.83,0.85,0,0.72,100,80,Arts
+23CS0998,Falguni,Male,21,3.34,0.94,0,1.43,100,78,Arts
+23CS0999,Ravikiran,Female,22,2.5,0.73,2,2.58,100,100,Volunteer
+23CS1000,Tanmay,Male,19,3.5,0.66,1,2.48,94,85,None
+23CS1001,Zubin,Female,19,2.63,0.62,1,1.67,100,86,None
+23CS1002,Neelam,Female,21,3,0.94,2,1.95,83,100,None
+23CS1003,Pritam,Male,21,3.03,0.61,1,2.02,93,67,Sports
+23CS1004,Devendra,Female,21,2.4,0.93,1,1.68,89,93,Arts
+23CS1005,Ranjani,Male,19,3.59,0.98,3,1.19,79,100,None
+23CS1006,Harish,Male,20,3.34,0.57,3,1.28,96,78,None
+23CS1007,Neelam,Female,22,3.42,0.89,3,2.17,100,100,None
+23CS1008,Neelam,Female,20,3,0.6,0,1.45,96,95,Arts
+23CS1009,Ishaan,Male,19,3.58,0.92,5,1.33,92,85,Sports
+23CS1010,Ragini,Male,22,3.58,0.96,0,2.6,88,75,None
+23CS1011,Waman,Male,19,2,0.64,2,0.48,78,69,None
+23CS1012,Aisha,Male,22,2.69,0.87,4,1.76,75,97,None
+23CS1013,Lingaraj,Male,21,2.91,0.78,2,3.43,100,100,Volunteer
+23CS1014,Jatin,Female,20,2.79,0.94,4,2.37,100,100,STEM Club
+23CS1015,Madhukar,Female,19,3.73,0.7,3,1.63,94,80,None
+23CS1016,Bharti,Male,22,3.87,0.86,1,1.39,94,95,Sports
+23CS1017,Qamar,Female,20,3.36,0.65,2,2.51,100,100,STEM Club
+23CS1018,Sanjana,Male,22,3.1,0.75,5,0.4,97,66,Arts
+23CS1019,Ravina,Female,19,3.47,0.76,1,1.04,84,84,Arts
+23CS1020,Gulzar,Female,19,3.32,0.82,2,0.73,100,93,STEM Club
+23CS1021,Zohra,Male,21,3.74,0.88,2,3.8,100,100,Arts
+23CS1022,Kalyan,Female,19,2.73,0.92,1,0.92,100,77,Arts
+23CS1023,Neelam,Nonbinary,21,2.75,0.82,0,1.4,78,79,Sports
+23CS1024,Nutan,Female,21,3.58,0.85,6,2.16,76,87,Sports
+23CS1025,Bharat,Female,22,2.13,0.92,1,2.52,100,86,STEM Club
+23CS1026,Girish,Female,19,3.42,0.84,2,2.86,100,100,Sports
+23CS1027,Saira,Female,19,3.62,0.72,1,0.32,69,68,None
+23CS1028,Gaurav,Female,19,2.98,0.65,3,0.99,100,88,Sports
+23CS1029,Eshita,Male,19,3.26,0.71,1,1.33,83,80,Volunteer
+23CS1030,Charan,Male,22,2.54,0.94,2,1.61,89,94,None
+23CS1031,Yogita,Female,20,3.97,0.89,0,2.24,81,97,None
+23CS1032,Rekha,Nonbinary,20,2.98,0.77,1,0.94,91,80,Arts
+23CS1033,Gulzar,Male,22,3.74,0.69,3,1.54,96,83,Arts
+23CS1034,Amar,Female,21,2.28,0.84,5,2.93,97,95,Sports
+23CS1035,Vasundhara,Male,19,3.79,0.99,2,0,71,63,None
+23CS1036,Damini,Female,21,2.32,0.73,1,2.11,92,82,None
+23CS1037,Pranitha,Female,22,2.72,0.86,3,2.21,100,95,Arts
+23CS1038,Rakesh,Male,21,3.15,0.8,1,3.1,100,99,None
+23CS1039,Zubeda,Male,22,2.14,0.98,2,2.72,96,86,None
+23CS1040,Gitanjali,Male,20,2.1,0.72,2,1.03,92,88,STEM Club
+23CS1041,Lakshya,Female,21,3.7,0.91,2,2.14,87,100,None
+23CS1042,Oorja,Male,19,3.59,0.78,2,2.82,100,81,Sports
+23CS1043,Jaya,Male,20,3.56,0.88,2,1.12,96,80,STEM Club
+23CS1044,Gulshan,Male,20,3.57,0.98,1,0.48,100,79,Arts
+23CS1045,Ovi,Female,19,3.32,0.98,5,0.82,88,97,Sports
+23CS1046,Sachin,Male,20,2.72,0.77,0,2.1,78,99,Sports
+23CS1047,Nikhil,Male,21,2.51,0.69,6,0.53,81,88,Arts
+23CS1048,Dharam,Female,20,3.46,0.91,1,2.9,91,99,Volunteer
+23CS1049,Dharam,Male,22,3.13,0.97,1,1.44,92,100,Arts
+23CS1050,Taraksh,Male,19,2.72,0.89,3,3.79,100,100,STEM Club
+23CS1051,Ranjani,Male,20,2.81,0.65,3,2.61,100,89,None
+23CS1052,Om,Female,19,2.14,0.88,1,2.92,100,100,None
+23CS1053,Ranjana,Male,19,3.76,0.65,4,2.2,100,84,STEM Club
+23CS1054,Kavya,Male,20,3.25,0.58,2,2.45,93,100,Volunteer
+23CS1055,Radhika,Female,21,2.73,0.99,2,1.44,77,76,STEM Club
+23CS1056,Aditi,Male,20,3.47,0.72,0,2.05,100,94,Volunteer
+23CS1057,Maitreyi,Female,19,2.78,0.79,2,3.18,100,100,None
+23CS1058,Tanmay,Male,20,2.11,0.85,1,2.12,100,100,STEM Club
+23CS1059,Zainab,Female,19,2.5,0.71,2,3.19,94,100,Volunteer
+23CS1060,Gopal,Female,21,2.25,0.86,4,2.1,95,100,Arts
+23CS1061,Leela,Male,20,2.77,1,2,2.06,91,88,Sports
+23CS1062,Kunal,Female,20,2.95,0.75,0,2.25,86,96,Sports
+23CS1063,Vandita,Male,21,4,0.89,2,0,86,66,STEM Club
+23CS1064,Kunal,Male,20,3.52,0.98,3,0.84,82,67,None
+23CS1065,Kavitha,Male,21,3.42,0.89,3,2.27,100,91,STEM Club
+23CS1066,Ragini,Male,21,3.61,0.84,4,1.65,98,74,Sports
+23CS1067,Zeenat,Female,21,2.23,0.84,1,1.21,91,100,Arts
+23CS1068,Tanveer,Female,21,3.44,0.81,4,0.38,96,74,None
+23CS1069,Rajendra,Male,19,2.28,0.93,5,0.3,70,87,Volunteer
+23CS1070,Ranjit,Male,19,3.45,0.88,2,1.67,86,100,Sports
+23CS1071,Oviya,Female,19,3.08,0.69,0,3.61,100,100,Sports
+23CS1072,Vijay,Female,21,2.66,0.91,1,0.98,95,92,STEM Club
+23CS1073,Farhan,Female,20,3.9,0.7,1,2.85,99,97,Arts
+23CS1074,Zeba,Nonbinary,22,3.65,0.94,2,1.39,82,91,Arts
+23CS1075,Tarak,Female,21,3.02,0.82,3,2.43,100,97,Sports
+23CS1076,Tarak,Male,22,3.01,0.68,3,2.2,86,91,Sports
+23CS1077,Harini,Male,20,3.52,0.54,3,1.52,100,89,STEM Club
+23CS1078,Padmini,Male,19,3.84,0.79,3,1.23,71,89,Arts
+23CS1079,Jatin,Male,22,2.84,0.85,1,1.24,90,96,Sports
+23CS1080,Laxmi,Male,21,2.22,0.98,3,1.28,88,78,None
+23CS1081,Tushar,Male,22,3.95,0.95,3,1.83,76,92,Arts
+23CS1082,Usha,Male,22,2.64,0.93,3,2.51,97,76,Sports
+23CS1083,Padmini,Male,21,2.73,0.65,2,0.55,91,55,Sports
+23CS1084,Yashoda,Male,21,2.01,0.58,0,2.5,100,100,None
+23CS1085,Jaswant,Male,21,2.69,0.93,1,1.43,86,87,Volunteer
+23CS1086,Ragini,Male,21,3.76,0.83,3,3.04,91,81,STEM Club
+23CS1087,Manoj,Female,21,3.73,0.87,2,1.74,100,89,Arts
+23CS1088,Nirmala,Male,22,3.25,0.87,2,0.91,87,80,Volunteer
+23CS1089,Charan,Male,19,2.06,0.8,3,1.53,100,75,None
+23CS1090,Kalyani,Female,21,3.98,0.92,2,2.44,77,80,Sports
+23CS1091,Kavitha,Female,20,3.4,0.9,0,2.51,85,92,None
+23CS1092,Ashwin,Female,19,3.12,0.91,0,2.51,89,100,Arts
+23CS1093,Jatin,Female,20,3.56,0.81,5,2.47,88,95,Sports
+23CS1094,Komal,Female,22,2.31,0.93,2,1.75,85,86,Volunteer
+23CS1095,Chaitanya,Male,20,3.13,0.83,2,2.45,100,100,None
+23CS1096,Ojas,Female,22,2.41,0.73,2,1.53,81,76,None
+23CS1097,Laxman,Male,21,2.68,0.91,1,3.34,100,100,Arts
+23CS1098,Jaya,Male,20,2.67,0.9,3,2.07,96,80,Sports
+23CS1099,Nikhil,Female,20,2.8,0.85,2,1.4,84,74,Arts
+23CS1100,Tanya,Female,19,2.85,0.99,1,0.95,87,85,STEM Club
+23CS1101,Gitanjali,Male,20,2.58,0.68,0,0.36,92,80,Sports
+23CS1102,Bina,Male,22,2.08,0.97,3,0.54,88,86,STEM Club
+23CS1103,Yash,Male,21,3.74,0.99,2,1.92,100,84,None
+23CS1104,Feroza,Male,21,3.92,0.9,5,1.63,100,91,Volunteer
+23CS1105,Urmila,Female,22,3.82,0.75,0,1.5,100,82,STEM Club
+23CS1106,Omkar,Male,20,2.2,0.6,2,0.66,82,58,Sports
+23CS1107,Ranjana,Female,22,2.76,0.94,2,1.75,95,78,STEM Club
+23CS1108,Yamini,Female,22,3.46,0.65,3,2.71,100,83,Sports
+23CS1109,Ashok,Female,22,2.82,0.78,6,0,91,83,Sports
+23CS1110,Anupama,Female,21,2.09,0.94,2,0.56,100,80,Arts
+23CS1111,Anupama,Male,20,3.09,0.96,3,0.79,90,90,Arts
+23CS1112,Suhas,Female,19,2.22,0.51,4,1.36,89,86,Sports
+23CS1113,Nihar,Female,21,2.51,0.84,2,3.03,93,76,Sports
+23CS1114,Smita,Nonbinary,20,2.66,0.98,3,1.25,69,70,Sports
+23CS1115,Eklavya,Female,22,3.33,0.73,0,0.22,100,80,None
+23CS1116,Yash,Female,19,2.08,0.6,1,1.96,100,100,STEM Club
+23CS1117,Rahul,Female,19,3.43,0.86,0,1.92,100,100,Arts
+23CS1118,Sharvani,Male,20,3.97,0.95,2,2.13,93,82,STEM Club
+23CS1119,Namrata,Male,19,2.29,0.72,1,2.29,100,100,Sports
+23CS1120,Rekha,Female,21,2.17,0.95,2,1.5,97,80,Arts
+23CS1121,Kumari,Nonbinary,19,2.09,0.73,4,0.32,83,100,Sports
+23CS1122,Namrata,Male,21,3.62,0.78,0,0.7,83,84,Sports
+23CS1123,Chandresh,Male,21,2.43,0.87,2,0.51,88,85,STEM Club
+23CS1124,Bharat,Male,19,3.29,0.52,2,0.92,85,85,STEM Club
+23CS1125,Harish,Male,19,3.86,0.95,4,1.13,75,93,Volunteer
+23CS1126,Ramesh,Female,22,2.05,0.75,2,2.72,100,100,Sports
+23CS1127,Oviya,Male,20,3.08,0.84,2,1.73,99,85,STEM Club
+23CS1128,Amrita,Male,20,2.15,0.67,1,2,79,75,Sports
+23CS1129,Lakshya,Female,20,3.77,0.82,3,1.13,93,83,Sports
+23CS1130,Urmila,Female,21,3.86,0.68,6,2,96,97,Sports
+23CS1131,Rachit,Female,21,3.05,0.81,2,1.19,100,89,Sports
+23CS1132,Ranjana,Female,19,3.78,0.87,1,0.75,82,100,STEM Club
+23CS1133,Wajid,Female,21,2.58,0.98,2,1.09,64,94,STEM Club
+23CS1134,Uday,Male,19,2.86,0.72,2,1.84,88,72,Sports
+23CS1135,Manoj,Female,20,2.34,0.93,3,0.96,96,89,Volunteer
+23CS1136,Ragini,Male,22,2.1,0.94,3,1.32,93,90,STEM Club
+23CS1137,Yuvraj,Female,20,3.54,0.84,0,3.2,100,100,STEM Club
+23CS1138,Lalith,Nonbinary,22,2.42,0.81,2,1.17,93,75,STEM Club
+23CS1139,Dinesh,Male,22,2.64,0.98,1,1.82,92,74,None
+23CS1140,Farhan,Female,19,2.31,0.96,2,2.28,85,100,None
+23CS1141,Aditya,Female,22,2.49,0.58,1,1.61,96,94,Arts
+23CS1142,Zarina,Male,22,3.55,0.88,1,1.35,100,94,None
+23CS1143,Yash,Male,22,2.12,0.97,1,2.29,100,90,None
+23CS1144,Basanti,Male,21,2.79,0.66,2,2.15,90,94,Arts
+23CS1145,Ishani,Female,20,3.81,0.97,5,1.32,89,91,STEM Club
+23CS1146,Ragini,Female,22,2.13,0.89,2,2.04,92,100,STEM Club
+23CS1147,Devika,Male,21,3.72,0.92,3,1.61,96,100,None
+23CS1148,Basanti,Male,22,2.57,0.95,2,0.77,83,86,None
+23CS1149,Prakash,Female,20,3.75,0.81,0,2.88,95,86,STEM Club
+23CS1150,Lokesh,Female,21,3.81,0.88,1,0.28,99,81,Arts
+23CS1151,Chandresh,Female,20,3.29,0.87,0,2.15,92,85,Arts
+23CS1152,Feroza,Female,19,3.28,0.92,4,1.6,82,90,Arts
+23CS1153,Bina,Female,19,3.74,0.99,0,3.2,100,100,None
+23CS1154,Zubeda,Male,21,2.99,0.67,4,0,61,84,Sports
+23CS1155,Laxman,Male,20,3.47,0.62,4,1.79,77,98,Arts
+23CS1156,Pranati,Female,22,3.11,0.85,1,1.59,100,88,Arts
+23CS1157,Gauri,Female,20,3.33,0.96,5,3.06,100,100,Arts
+23CS1158,Varun,Male,21,3.81,0.87,2,2,98,100,Arts
+23CS1159,Kunal,Male,21,3.97,0.75,3,1.66,82,89,Volunteer
+23CS1160,Nitin,Male,21,2.09,0.8,0,1.01,75,73,STEM Club
+23CS1161,Zulekha,Female,20,2.88,0.65,1,1.01,79,89,STEM Club
+23CS1162,Manisha,Nonbinary,21,3.6,0.71,1,0.43,64,73,Volunteer
+23CS1163,Ananya,Female,20,2.13,0.66,2,0.94,81,88,Arts
+23CS1164,Ajeet,Male,22,3.12,0.88,3,2.08,100,100,Arts
+23CS1165,Rajendra,Male,19,2.88,0.95,1,1.73,94,77,Arts
+23CS1166,Nisha,Nonbinary,22,3.68,0.87,4,1.52,87,95,None
+23CS1167,Amar,Male,21,3.72,0.84,1,2.3,90,99,Volunteer
+23CS1168,Gopal,Male,19,3.72,0.96,5,0.78,86,87,None
+23CS1169,Irfan,Male,21,2.89,0.84,5,1.88,87,100,None
+23CS1170,Ravina,Male,22,3.07,0.77,0,1.46,89,82,STEM Club
+23CS1171,Hema,Female,20,3.14,0.92,0,2.15,73,100,Sports
+23CS1172,Jayant,Female,20,2.96,0.68,3,1.1,100,95,None
+23CS1173,Pavitra,Male,21,3.27,0.9,1,2.16,96,95,Volunteer
+23CS1174,Fazal,Male,20,2.16,0.98,0,0.9,97,93,Arts
+23CS1175,Ramesh,Female,20,3.75,0.92,1,1.51,100,80,Sports
+23CS1176,Anupama,Female,20,3.31,0.76,3,2.23,84,100,STEM Club
+23CS1177,Yuvraj,Male,22,3.03,0.9,6,2.01,83,78,Sports
+23CS1178,Chandrika,Female,20,2.49,0.54,0,1.15,99,83,None
+23CS1179,Neha,Male,21,3.85,0.67,3,3.37,91,98,STEM Club
+23CS1180,Falguni,Female,20,3.49,0.99,0,2.34,95,100,Arts
+23CS1181,Yash,Male,21,2.45,0.83,0,0.92,89,94,Sports
+23CS1182,Imran,Female,22,2.79,0.81,1,1.17,77,92,None
+23CS1183,Shyam,Male,19,3.12,0.81,2,1.17,87,91,STEM Club
+23CS1184,Sachin,Female,19,3.98,0.91,2,1.08,100,60,STEM Club
+23CS1185,Zoya,Female,19,3.23,0.91,2,3.18,98,97,None
+23CS1186,Ajeet,Male,19,3.53,0.84,2,1.15,91,93,Volunteer
+23CS1187,Imran,Male,21,2.55,0.96,1,0.91,93,92,Volunteer
+23CS1188,Tanya,Female,20,3.93,0.96,0,1.52,91,92,Sports
+23CS1189,Nitin,Female,22,3.85,1,0,1.71,100,89,Arts
+23CS1190,Ranjani,Female,21,2.39,0.94,4,2.17,100,100,None
+23CS1191,Usha,Female,21,2.08,0.78,1,0,100,88,None
+23CS1192,Darshan,Male,19,2.53,0.86,6,0.47,91,89,Sports
+23CS1193,Vikrant,Female,22,3.28,0.51,2,2.38,100,96,Arts
+23CS1194,Tanya,Male,19,2.14,0.65,2,3.28,93,99,Sports
+23CS1195,Taraksh,Female,19,3.85,0.97,0,2.63,100,100,Sports
+23CS1196,Saraswati,Male,22,3.32,0.75,1,1.15,85,99,Arts
+23CS1197,Jayant,Nonbinary,21,3.15,0.89,4,1.8,88,100,STEM Club
+23CS1198,Usha,Female,19,3.11,0.79,4,2.65,100,100,Arts
+23CS1199,Shalini,Male,21,3.71,0.72,2,1.81,90,83,STEM Club
+23CS1200,Amar,Male,22,3.31,1,2,2.97,100,86,None
+23CS1201,Ashok,Male,19,3.18,0.74,2,2.36,83,100,Arts
+23CS1202,Basanti,Female,21,3.94,0.71,1,3.47,87,100,STEM Club
+23CS1203,Nisha,Male,21,3.1,0.94,5,0.49,99,85,None
+23CS1204,Harini,Female,22,2.4,0.79,0,0.44,89,71,Sports
+23CS1205,Vandita,Male,22,3.52,0.7,1,2.09,86,92,Volunteer
+23CS1206,Ayush,Female,20,3.95,0.82,1,0.56,83,87,None
+23CS1207,Rameshwar,Male,19,3.78,0.82,2,2.22,86,100,Sports
+23CS1208,Tanmay,Nonbinary,21,2.69,0.77,2,0.14,90,67,STEM Club
+23CS1209,Bhanu,Male,19,3.94,0.98,0,2.69,100,100,Arts
+23CS1210,Gitanjali,Female,22,2.34,0.9,2,1.95,96,79,Arts
+23CS1211,Rameshwar,Male,22,2.81,0.92,2,2.08,84,87,Sports
+23CS1212,Ramesh,Male,19,3.86,0.71,4,1.39,80,91,None
+23CS1213,Jatin,Male,19,2.07,0.77,1,1.21,81,81,Arts
+23CS1214,Ekta,Female,19,3.84,0.77,2,2.86,97,78,Sports
+23CS1215,Sunita,Male,19,3.25,0.89,3,2.59,86,100,Sports
+23CS1216,Aditya,Male,19,3,0.93,2,0.13,88,85,Sports
+23CS1217,Chitra,Female,21,3.07,0.71,2,2.56,100,88,Arts
+23CS1218,Ravikiran,Male,19,2.86,0.98,0,1.49,93,85,None
+23CS1219,Neelam,Female,20,2.83,0.93,3,1.35,91,82,Arts
+23CS1220,Vijay,Female,19,2.89,0.73,2,1.26,100,89,None
+23CS1221,Ishaan,Male,22,2.88,0.71,2,1.41,76,87,Arts
+23CS1222,Eesha,Male,22,3.24,0.76,3,0,74,86,Sports
+23CS1223,Damini,Male,19,2.1,0.86,1,1.81,95,100,Sports
+23CS1224,Aditya,Female,20,3.4,0.9,0,2.08,100,100,Volunteer
+23CS1225,Dinesh,Male,22,3,0.78,5,0.6,86,69,None
+23CS1226,Ekta,Male,20,3.81,0.87,2,0.22,91,81,Sports
+23CS1227,Bindu,Female,19,2.28,0.77,3,1.43,97,72,None
+23CS1228,Fazila,Nonbinary,22,2.87,0.6,1,1.39,100,90,STEM Club
+23CS1229,Mohan,Female,21,2.14,0.88,4,0.41,92,79,None
+23CS1230,Tushar,Female,20,3.51,0.62,2,2.66,100,100,Sports
+23CS1231,Zubin,Male,20,3.97,0.86,1,0.9,100,79,Sports
+23CS1232,Kavya,Male,21,3.69,0.93,2,0.86,57,91,Volunteer
+23CS1233,Taraksh,Female,20,3.54,0.67,2,1.53,87,72,Arts
+23CS1234,Harsh,Female,19,3.78,0.88,3,0.1,83,91,None
+23CS1235,Bindu,Male,21,3.84,0.9,1,0.42,89,88,STEM Club
+23CS1236,Ravindra,Male,20,3.25,0.91,2,1.89,94,92,Volunteer
+23CS1237,Jaya,Male,20,3.76,0.87,1,3.17,100,100,None
+23CS1238,Nargis,Female,22,3.78,0.84,1,2.71,100,100,Sports
+23CS1239,Madhuri,Female,19,3.46,0.98,3,1.5,100,100,Sports
+23CS1240,Ramesh,Male,21,3.18,0.94,0,1.09,94,100,None
+23CS1241,Smita,Male,22,3.82,0.81,2,1.01,100,92,STEM Club
+23CS1242,Elina,Male,22,2.96,0.76,0,1.86,100,100,None
+23CS1243,Rituraj,Male,20,3.62,0.94,0,0.1,73,77,Volunteer
+23CS1244,Sachin,Male,21,3.36,0.78,0,2.51,95,100,Arts
+23CS1245,Urmila,Male,20,2.14,0.64,2,0.56,70,86,Volunteer
+23CS1246,Parvati,Male,20,3.63,0.99,4,0.46,79,76,Sports
+23CS1247,Gitanjali,Male,19,2.39,0.82,0,1.73,100,100,Arts
+23CS1248,Esha,Male,19,3.92,0.68,3,2.02,88,84,Sports
+23CS1249,Madhuri,Male,19,3.65,0.95,2,3.22,100,100,Sports
+23CS1250,Hemal,Male,22,3.92,0.94,3,1.14,74,66,Volunteer
+23CS1251,Yashoda,Female,20,4,0.87,2,1.07,84,86,Volunteer
+23CS1252,Irfan,Female,19,2.24,0.92,2,1.7,91,88,Sports
+23CS1253,Ojas,Female,20,3.29,1,0,2.67,100,100,Sports
+23CS1254,Dinesh,Male,20,2.44,0.96,2,2.23,80,100,Sports
+23CS1255,Devendra,Female,19,3.83,0.85,0,3.07,100,94,STEM Club
+23CS1256,Nivedh,Male,20,3.39,0.92,0,3.36,100,91,Volunteer
+23CS1257,Wali,Female,19,2.89,0.77,3,2.38,87,91,Sports
+23CS1258,Nitin,Male,22,3.84,0.67,0,1.87,87,92,Sports
+23CS1259,Feroza,Male,20,3.74,0.71,1,1.23,74,65,None
+23CS1260,Kalyani,Male,21,3.21,0.72,2,0.82,98,82,Sports
+23CS1261,Chitra,Female,22,2.07,0.88,3,0.1,77,88,None
+23CS1262,Varsha,Male,21,2.63,0.73,6,1.26,100,88,Arts
+23CS1263,Jaswant,Male,21,3.38,0.78,2,2.62,100,96,None
+23CS1264,Sanjana,Nonbinary,22,2.71,0.9,3,1.96,100,100,STEM Club
+23CS1265,Eshwar,Male,19,3.63,0.85,0,2.25,94,100,STEM Club
+23CS1266,Padma,Male,19,2.66,0.81,0,2.49,94,100,Arts
+23CS1267,Anupama,Female,19,3.9,0.72,3,2.02,100,100,Volunteer
+23CS1268,Kanta,Male,21,2.37,0.86,0,1.44,83,72,Arts
+23CS1269,Komal,Female,20,3.8,0.81,1,1.36,100,100,Sports
+23CS1270,Isha,Male,21,2.57,0.75,3,1.26,82,77,Arts
+23CS1271,Nitin,Male,19,3.49,0.76,0,0.82,79,93,Sports
+23CS1272,Shweta,Female,19,2.78,0.83,1,2.45,100,92,Volunteer
+23CS1273,Harsha,Female,21,2.82,0.96,3,0.94,80,87,STEM Club
+23CS1274,Amar,Male,22,2.35,0.98,2,0.38,68,73,None
+23CS1275,Abhay,Male,21,2.57,0.9,2,1.18,83,84,Arts
+23CS1276,Jatin,Female,22,2.57,0.86,0,2.38,100,87,Arts
+23CS1277,Falguni,Female,22,2.88,0.69,2,0.32,89,100,STEM Club
+23CS1278,Ritu,Female,21,3.48,0.79,1,2.57,100,90,STEM Club
+23CS1279,Devika,Nonbinary,19,3.08,0.93,1,1.14,87,100,Volunteer
+23CS1280,Chitra,Male,19,3.22,0.89,2,1.86,89,96,Arts
+23CS1281,Dinesh,Male,20,3.26,0.89,1,2.6,100,100,Arts
+23CS1282,Janardhan,Male,19,2.68,0.69,4,1.9,100,77,None
+23CS1283,Rituparna,Female,20,2.2,0.71,0,1.24,90,100,STEM Club
+23CS1284,Mohan,Female,21,3.19,0.89,2,2.92,100,100,Sports
+23CS1285,Harshal,Female,19,3.71,0.98,1,2.17,100,100,STEM Club
+23CS1286,Rahul,Male,19,3.17,0.99,0,2.36,100,99,Arts
+23CS1287,Ranjana,Male,21,3.48,0.82,3,1.2,93,84,Volunteer
+23CS1288,Ranjani,Male,20,3.55,0.94,2,1.87,94,91,Arts
+23CS1289,Brijesh,Female,22,3.4,0.94,2,3.16,100,88,Volunteer
+23CS1290,Gulshan,Female,21,3.64,0.54,1,1.53,88,70,None
+23CS1291,Eshita,Female,19,3.42,0.74,0,2.1,70,85,Arts
+23CS1292,Jayant,Female,21,2.21,0.9,4,3.38,99,100,Sports
+23CS1293,Uday,Male,22,3.68,0.94,1,1.86,96,89,None
+23CS1294,Ishwar,Male,19,3.68,0.87,3,1.8,95,85,Sports
+23CS1295,Dharam,Female,22,3.94,0.55,3,2.81,97,97,Volunteer
+23CS1296,Ojaswini,Female,20,2.56,0.99,4,1.86,94,100,None
+23CS1297,Bhavesh,Male,22,2.97,0.83,0,1.02,100,86,STEM Club
+23CS1298,Zubin,Female,21,2.95,0.84,3,1.28,96,57,Sports
+23CS1299,Waliullah,Female,19,2.16,0.81,3,1.21,98,69,Arts
+23CS1300,Vandita,Female,21,3.9,0.69,2,2.69,98,88,STEM Club
+23CS1301,Meenal,Female,22,2.3,0.91,1,1.26,95,100,STEM Club
+23CS1302,Nandini,Male,21,3,0.84,2,0.93,72,61,STEM Club
+23CS1303,Yogesh,Female,19,2.51,0.95,2,1.97,100,99,Sports
+23CS1304,Eklavya,Male,22,2.14,0.91,0,2.38,85,100,Arts
+23CS1305,Vikram,Male,20,3.92,0.78,2,2.93,100,100,None
+23CS1306,Anupama,Male,22,3.79,0.86,4,2.16,100,94,Volunteer
+23CS1307,Eesha,Female,21,3.01,0.86,4,2.59,91,95,STEM Club
+23CS1308,Trilok,Nonbinary,20,3.64,0.94,2,2.49,100,100,STEM Club
+23CS1309,Sachin,Female,19,3.37,0.84,2,1.47,93,100,None
+23CS1310,Hemal,Male,21,2.71,0.75,1,1.8,100,87,Sports
+23CS1311,Poojani,Male,22,2.82,0.98,1,1.41,91,79,None
+23CS1312,Laxman,Female,22,2.7,0.93,2,3.04,100,100,Sports
+23CS1313,Ragini,Female,19,2.58,0.94,5,2.81,96,96,Sports
+23CS1314,Gulzar,Nonbinary,19,2.27,0.71,5,0.48,67,75,Arts
+23CS1315,Smita,Female,21,2.5,0.97,2,1.61,90,66,None
+23CS1316,Rameshwar,Male,20,2.24,0.93,2,2.93,94,94,None
+23CS1317,Ramesh,Female,21,3.36,0.99,1,4.6,100,100,None
+23CS1318,Neha,Female,21,2.69,0.82,3,2.32,96,91,Sports
+23CS1319,Vandana,Male,21,3.4,0.58,1,1.75,100,97,Sports
+23CS1320,Tushar,Female,21,3.46,0.63,1,1.05,94,83,Arts
+23CS1321,Fazal,Female,20,3.61,0.97,0,1.97,90,100,None
+23CS1322,Wajid,Female,22,2.62,0.68,2,0,80,84,Sports
+23CS1323,Jaya,Male,22,2.4,0.88,1,2.73,100,96,Volunteer
+23CS1324,Wali,Nonbinary,21,2.12,0.63,1,1.05,82,100,Sports
+23CS1325,Omkari,Female,20,3.62,0.88,3,1.02,100,87,Sports
+23CS1326,Om,Male,22,2.01,0.8,1,1.8,100,99,STEM Club
+23CS1327,Padmini,Female,20,3.07,0.91,2,2.54,87,100,None
+23CS1328,Vishal,Male,21,3.47,0.93,1,0.84,85,87,None
+23CS1329,Laxman,Female,20,2.68,0.95,1,1.3,82,90,STEM Club
+23CS1330,Leelavati,Male,19,2.7,0.88,0,1.8,97,87,Volunteer
+23CS1331,Trilok,Female,19,3.58,0.72,3,1.71,100,65,Volunteer
+23CS1332,Anjali,Male,19,2.86,0.9,2,3.34,87,100,Volunteer
+23CS1333,Deepthi,Male,19,2.85,0.75,2,1.99,82,96,Sports
+23CS1334,Basanti,Female,20,3.79,0.93,4,2.07,93,91,Volunteer
+23CS1335,Omkari,Male,22,2.11,0.99,4,0.7,93,97,Volunteer
+23CS1336,Pranav,Female,19,3.92,0.81,0,1.13,100,84,Volunteer
+23CS1337,Vandana,Female,20,3.26,0.83,2,3.17,100,100,Volunteer
+23CS1338,Gokul,Female,19,2.85,0.76,3,1.87,84,98,Arts
+23CS1339,Yuvika,Male,22,3.63,0.97,4,2.5,96,95,Volunteer
+23CS1340,Kalyan,Male,22,3.5,0.85,3,2.69,100,96,Sports
+23CS1341,Ravikiran,Male,20,2.33,0.61,4,0.22,79,76,Arts
+23CS1342,Janardhan,Female,19,2.42,0.92,4,2.05,100,91,Volunteer
+23CS1343,Maitreyi,Male,20,3.69,0.94,2,2.49,94,91,Sports
+23CS1344,Anirban,Male,22,2.6,0.88,4,2.08,89,95,None
+23CS1345,Ishita,Nonbinary,21,3.72,0.68,0,1.88,100,93,None
+23CS1346,Vikram,Male,19,3.62,0.82,1,0.66,89,85,None
+23CS1347,Bhavesh,Female,21,3.79,0.99,2,2.16,66,76,Sports
+23CS1348,Gulab,Female,21,3.94,0.92,5,1.56,87,88,Sports
+23CS1349,Damini,Female,22,3.37,0.74,3,3.13,92,100,Sports
+23CS1350,Eshita,Female,22,3.83,0.73,1,1.13,100,89,Sports
+23CS1351,Ravina,Female,19,2.29,0.96,3,1.05,100,100,Sports
+23CS1352,Nutan,Male,19,3.84,0.83,2,2.88,100,98,None
+23CS1353,Zubin,Male,20,2.97,0.98,2,2.16,100,90,None
+23CS1354,Esha,Female,22,2.41,0.79,0,2.47,100,100,Arts
+23CS1355,Ranjani,Male,21,3.21,0.91,3,0.27,90,86,Sports
+23CS1356,Jayant,Male,22,3.96,0.72,3,0.62,88,77,Volunteer
+23CS1357,Darshan,Male,20,2.46,0.88,2,2.27,100,99,Volunteer
+23CS1358,Ravina,Female,22,2.12,0.78,2,0.13,70,90,Arts
+23CS1359,Gitanjali,Male,22,2.53,0.92,1,3.52,100,100,Sports
+23CS1360,Rekha,Male,21,3.99,0.99,0,2.26,89,94,None
+23CS1361,Harsha,Male,21,3.75,0.86,2,1.35,88,72,STEM Club
+23CS1362,Ujjwal,Nonbinary,22,3.57,0.75,2,0.39,78,75,Arts
+23CS1363,Gauri,Male,22,3.34,0.98,2,1.63,90,91,None
+23CS1364,Gaurav,Male,19,3.2,0.59,4,3.42,94,93,Sports
+23CS1365,Ojaswini,Female,21,2.6,0.98,0,1.72,92,75,None
+23CS1366,Saira,Male,20,2.37,1,2,1.4,90,77,None
+23CS1367,Ashwin,Male,19,2.32,0.99,3,1.04,83,77,Sports
+23CS1368,Waman,Female,19,2.69,0.6,1,0.73,83,96,STEM Club
+23CS1369,Vandita,Male,20,3.09,0.6,2,2.67,98,100,None
+23CS1370,Dinesh,Male,20,2.98,0.93,4,0.88,99,89,Arts
+23CS1371,Saanvi,Female,21,3.33,0.99,5,1.4,82,89,Volunteer
+23CS1372,Lingaraj,Male,19,3.55,0.91,1,0.97,96,77,Arts
+23CS1373,Ritu,Female,20,3.3,0.91,1,1.21,78,64,STEM Club
+23CS1374,Sachin,Female,19,3.95,0.99,3,0.58,73,82,Sports
+23CS1375,Manorama,Female,22,2.48,0.84,3,1.39,88,86,STEM Club
+23CS1376,Akhil,Female,21,3,0.85,3,0,82,68,Arts
+23CS1377,Harshal,Male,19,3.78,0.73,0,2.7,91,74,Volunteer
+23CS1378,Faiyaz,Female,22,2.72,0.87,1,1.75,83,80,STEM Club
+23CS1379,Kalpana,Female,21,2.22,0.85,3,0.88,100,75,Arts
+23CS1380,Omkari,Male,21,2.28,0.99,1,0.77,89,90,Volunteer
+23CS1381,Ovi,Male,21,2.65,0.73,0,1.66,88,100,None
+23CS1382,Meghna,Male,22,2.97,0.92,0,1.55,100,76,Arts
+23CS1383,Chaitanya,Female,22,3.98,0.89,1,1.1,100,84,Volunteer
+23CS1384,Mohan,Male,19,3.71,0.6,1,2.39,100,92,Sports
+23CS1385,Fazila,Male,19,3.37,0.89,6,2.93,86,97,Sports
+23CS1386,Lalith,Male,20,3.75,0.98,3,1.98,90,100,Sports
+23CS1387,Chaitanya,Male,21,3.91,0.83,0,1.71,91,99,None
+23CS1388,Omisha,Female,20,2.57,0.87,1,1.89,100,91,Arts
+23CS1389,Zubin,Female,21,3.13,0.99,1,1.39,90,86,Sports
+23CS1390,Uday,Male,21,3.35,0.78,3,1.82,82,90,None
+23CS1391,Jaya,Male,19,3.78,0.88,1,2.04,78,76,Sports
+23CS1392,Zulekha,Male,19,3.79,0.73,1,2.78,100,93,Sports
+23CS1393,Ranjit,Female,19,3.86,0.98,2,2.15,78,82,STEM Club
+23CS1394,Nargis,Female,20,3.23,0.79,2,2.32,100,92,Arts
+23CS1395,Bindu,Female,21,3.55,0.86,2,2.27,99,95,STEM Club
+23CS1396,Pankaj,Female,21,2.41,0.91,4,1.58,91,95,None
+23CS1397,Indu,Female,20,3.31,0.81,6,1.64,100,100,None
+23CS1398,Ravindra,Male,22,2.17,0.78,4,2.25,79,100,STEM Club
+23CS1399,Bharti,Female,21,3.57,0.59,2,1.86,95,82,STEM Club
+23CS1400,Namratha,Female,19,3.32,0.56,3,2.17,100,82,Volunteer
+23CS1401,Pranitha,Male,20,3.17,0.96,1,1.43,96,81,Sports
+23CS1402,Uma,Female,22,3.48,0.99,2,1.23,100,78,Sports
+23CS1403,Tarak,Female,19,2.45,0.87,1,2.23,87,100,Arts
+23CS1404,Kiran,Female,19,3.86,0.53,2,0.12,75,76,STEM Club
+23CS1405,Aarti,Nonbinary,21,2.33,0.98,5,0.25,79,69,None
+23CS1406,Pritam,Female,20,3.64,0.78,0,0.78,81,66,None
+23CS1407,Asha,Male,20,3.29,0.75,3,1.91,87,100,None
+23CS1408,Namratha,Male,19,3.91,0.79,2,0.36,90,100,None
+23CS1409,Lalit,Male,20,2.81,0.75,4,1.06,81,90,Volunteer
+23CS1410,Eshan,Male,22,2.17,0.84,4,0.91,83,72,None
+23CS1411,Pavitra,Female,21,3.14,0.88,2,4.87,100,100,None
+23CS1412,Zohra,Male,19,2.49,0.93,3,1.75,100,95,Sports
+23CS1413,Kalpana,Male,22,2.22,1,1,2.5,99,91,Volunteer
+23CS1414,Udayan,Female,21,2.48,0.97,0,1.74,90,97,Sports
+23CS1415,Ananya,Male,21,2.66,0.73,5,1.39,71,77,Sports
+23CS1416,Dharitri,Male,21,4,0.79,1,1.06,100,86,STEM Club
+23CS1417,Arvind,Male,22,3.89,0.85,1,1.97,87,92,Sports
+23CS1418,Rahul,Male,22,3.69,0.82,2,3.36,100,84,Volunteer
+23CS1419,Yamini,Male,19,2.62,0.94,4,2.14,95,96,None
+23CS1420,Ranjana,Male,20,3.93,0.65,2,1.86,100,100,Sports
+23CS1421,Laxman,Female,19,3.87,0.73,6,1.77,100,100,None
+23CS1422,Yogesh,Female,22,3.91,0.88,2,1.86,86,86,Arts
+23CS1423,Urmila,Male,21,3.85,0.99,0,0.27,90,68,None
+23CS1424,Karthik,Female,19,2.85,0.75,2,1.46,98,90,Sports
+23CS1425,Ananya,Female,19,2.6,0.94,0,1.9,79,71,Volunteer
+23CS1426,Ravikiran,Female,19,2.29,0.85,1,2.32,92,100,None
+23CS1427,Sharvani,Female,21,2.41,0.85,1,0.89,90,100,None
+23CS1428,Gaurav,Female,20,2.53,0.98,1,1.61,89,78,Sports
+23CS1429,Pranitha,Nonbinary,22,2.94,0.98,1,1.48,91,80,None
+23CS1430,Laxman,Female,19,2.28,0.95,3,3.02,100,98,Volunteer
+23CS1431,Fazal,Female,21,3.26,0.96,4,2.12,100,100,STEM Club
+23CS1432,Chitra,Female,20,3.84,0.67,2,0.34,79,84,Arts
+23CS1433,Kalpana,Female,22,2.61,0.91,3,2.97,100,100,Volunteer
+23CS1434,Satyam,Female,19,2.12,0.93,2,1.46,75,77,Volunteer
+23CS1435,Shyam,Female,22,2.65,1,1,1.79,100,100,STEM Club
+23CS1436,Yamini,Female,22,3.88,0.8,3,1.02,72,84,Sports
+23CS1437,Ayush,Male,20,2.24,0.79,1,2.25,100,92,Arts
+23CS1438,Nandan,Female,19,2.25,0.91,1,1.62,98,97,STEM Club
+23CS1439,Kavitha,Female,22,2.66,0.63,3,3.38,100,100,None
+23CS1440,Chandresh,Female,22,3.76,0.95,1,1.5,93,80,None
+23CS1441,Diya,Male,19,2.4,0.91,1,1.9,94,100,Sports
+23CS1442,Sanjay,Male,21,3.44,0.76,2,1.44,100,79,None
+23CS1443,Isha,Male,22,3.54,0.86,0,1.03,100,70,Sports
+23CS1444,Devika,Female,22,3.35,0.8,1,1.09,100,92,Arts
+23CS1445,Yuvika,Female,22,2.01,0.91,6,0.77,100,88,None
+23CS1446,Gopal,Male,21,3.74,0.63,3,0.93,86,60,Arts
+23CS1447,Jagdish,Female,20,2.65,0.84,2,1.93,100,100,Sports
+23CS1448,Suresh,Male,19,3.69,0.74,1,1.87,99,89,STEM Club
+23CS1449,Gulzar,Male,22,3.84,0.93,2,1.38,79,84,Sports
+23CS1450,Meghna,Female,20,3.43,0.91,0,1.95,66,100,Volunteer
+23CS1451,Chandni,Female,19,2.57,0.6,2,3.08,100,89,Sports
+23CS1452,Anjali,Female,20,3.24,0.87,1,1.27,89,85,None
+23CS1453,Ravindra,Male,21,3.75,0.96,1,1.63,88,79,Sports
+23CS1454,Ramesh,Female,21,3.56,0.76,2,1.62,79,100,Arts
+23CS1455,Sharvani,Nonbinary,20,3.69,1,1,2.88,100,97,None
+23CS1456,Kumud,Female,21,3.27,0.67,5,0.42,76,86,Sports
+23CS1457,Zainab,Female,21,3.29,0.6,2,1.7,97,99,Sports
+23CS1458,Tanu,Female,21,3.73,0.99,1,1.3,93,100,STEM Club
+23CS1459,Komal,Female,22,3.92,0.91,1,1.49,100,83,Sports
+23CS1460,Anup,Male,21,3.77,0.7,2,2.23,100,100,STEM Club
+23CS1461,Ila,Female,20,3.77,0.94,1,1.12,100,97,STEM Club
+23CS1462,Vasundhara,Male,22,3.73,0.99,4,1.74,91,100,Volunteer
+23CS1463,Anirban,Female,22,2.66,0.62,7,1.59,91,81,STEM Club
+23CS1464,Kanta,Female,19,2.85,0.83,2,1.7,100,100,None
+23CS1465,Hemal,Male,20,2.38,0.93,4,1.76,100,88,STEM Club
+23CS1466,Urmila,Female,22,2.1,0.83,2,0.48,88,81,None
+23CS1467,Brijesh,Male,21,3.15,0.83,1,0.39,71,85,None
+23CS1468,Sachin,Female,20,3.61,0.87,1,2.03,100,96,None
+23CS1469,Vasundhara,Female,19,3.3,0.98,4,3.27,100,97,Arts
+23CS1470,Asha,Female,21,2.78,0.92,2,1.39,87,93,Sports
+23CS1471,Yuvraj,Male,22,3.17,0.81,2,2.83,92,100,Volunteer
+23CS1472,Vishnu,Male,21,2.38,0.7,0,0.71,100,89,None
+23CS1473,Falguni,Female,19,2.66,0.9,0,2.44,97,97,Sports
+23CS1474,Sanjana,Male,20,3.48,0.98,1,0.65,73,86,None
+23CS1475,Eshan,Male,19,2.94,0.86,3,2.61,94,100,None
+23CS1476,Jeevan,Female,22,2.01,0.91,2,0,77,80,None
+23CS1477,Asha,Male,20,2.26,0.82,3,3.23,100,100,Sports
+23CS1478,Waris,Female,21,2.63,0.93,1,2.35,90,89,None
+23CS1479,Gulshan,Female,21,2.58,0.84,2,0,92,79,None
+23CS1480,Ojas,Male,21,2.47,0.86,2,0.14,74,58,STEM Club
+23CS1481,Uma,Female,19,2.49,1,3,0.67,76,81,STEM Club
+23CS1482,Yogesh,Male,20,2.6,0.99,1,0.68,93,100,None
+23CS1483,Udayan,Female,22,3.7,0.68,2,0.91,65,87,Volunteer
+23CS1484,Yuvika,Female,21,3.24,0.87,4,3.03,100,90,None
+23CS1485,Nisha,Male,19,2.54,0.87,3,2.72,90,93,None
+23CS1486,Ramesh,Female,19,2.63,1,1,3.27,99,100,STEM Club
+23CS1487,Tushar,Female,20,3.06,0.95,0,0,91,70,STEM Club
+23CS1488,Nivedita,Female,21,3.51,0.81,5,0.78,100,96,STEM Club
+23CS1489,Meghna,Male,22,3.23,0.77,1,1.55,88,82,Arts
+23CS1490,Poojani,Female,19,2.78,0.95,2,2.83,100,100,Arts
+23CS1491,Ishani,Female,20,2.01,0.85,1,2.61,100,98,None
+23CS1492,Faiyaz,Female,22,2.57,0.94,3,0.77,81,88,None
+23CS1493,Madhukar,Male,19,2.93,0.82,3,1.71,99,100,Sports
+23CS1494,Oorja,Female,20,2.22,0.54,3,1.24,100,83,STEM Club
+23CS1495,Yogita,Male,22,2.48,0.66,4,3.02,84,90,Sports
+23CS1496,Gauri,Female,22,3.4,0.82,1,2.52,84,84,Arts
+23CS1497,Waris,Male,19,2.09,0.73,2,1.55,93,80,None
+23CS1498,Ramesh,Female,22,3.69,0.93,3,0.7,93,85,None
+23CS1499,Hemal,Female,22,3.6,0.85,1,0.09,100,83,None
+23CS1500,Rameshwar,Female,20,3.33,0.75,5,2.77,100,95,Arts
+23CS1501,Ekansh,Female,22,2.45,0.99,1,1.46,92,84,Volunteer
+23CS1502,Bindu,Male,22,2.81,0.74,1,2.54,100,100,Arts
+23CS1503,Chitra,Female,21,3.59,0.84,2,2.4,100,100,None
+23CS1504,Kalyani,Male,22,2.56,0.98,1,2.2,91,100,Sports
+23CS1505,Kumud,Male,19,3.77,0.99,3,2.94,100,94,None
+23CS1506,Sharvani,Female,19,3.9,0.96,8,3.16,94,96,None
+23CS1507,Nandan,Female,21,2.87,0.83,1,0.94,100,81,None
+23CS1508,Rachit,Male,20,3.34,0.99,0,2.07,100,100,Volunteer
+23CS1509,Hemal,Male,20,3.31,0.72,0,2.64,100,100,None
+23CS1510,Varun,Female,22,3.45,0.9,3,1.87,93,100,None
+23CS1511,Falguni,Male,21,2.21,0.69,2,2.27,74,86,Volunteer
+23CS1512,Tanveer,Female,22,3.84,0.88,6,1.59,100,99,Arts
+23CS1513,Lingaraj,Female,20,3.2,0.89,0,2.49,97,74,Arts
+23CS1514,Zubeda,Male,21,2.06,0.92,1,0,96,73,Sports
+23CS1515,Eshwar,Female,21,2.68,0.85,2,1.43,71,94,Sports
+23CS1516,Shabnam,Male,19,3.28,0.8,3,2.14,97,93,Volunteer
+23CS1517,Udayan,Male,21,3.28,0.89,2,1.16,84,70,Arts
+23CS1518,Varun,Female,22,3.68,0.94,2,0.95,68,84,None
+23CS1519,Sanjana,Female,20,3.88,0.82,2,3.03,93,96,None
+23CS1520,Gopal,Female,19,3.16,0.9,1,1.72,69,100,Sports
+23CS1521,Jatin,Male,20,2.48,0.73,1,1.13,95,79,Sports
+23CS1522,Zubin,Male,21,3.34,0.63,0,1.03,92,100,None
+23CS1523,Chandni,Male,20,3.27,0.88,5,2.15,86,74,Arts
+23CS1524,Zarina,Female,19,2.18,0.9,2,2.16,92,100,Arts
+23CS1525,Laxmi,Female,20,3.56,0.75,2,1.22,90,88,Volunteer
+23CS1526,Garima,Male,19,3.29,0.94,2,1.85,100,87,None
+23CS1527,Zubin,Female,22,2.83,0.85,5,0.96,90,82,Sports
+23CS1528,Kalyani,Female,22,3.36,0.68,2,0.48,100,100,Volunteer
+23CS1529,Ramesh,Female,19,3.49,0.99,1,2.07,100,100,Arts
+23CS1530,Sunita,Nonbinary,20,2.15,0.98,9,0.82,86,81,Sports
+23CS1531,Ranjana,Female,22,3.33,0.96,0,0.97,100,100,STEM Club
+23CS1532,Komal,Female,19,3.76,0.75,0,2.43,100,100,Arts
+23CS1533,Shabnam,Female,21,3.02,0.95,0,1.64,83,94,None
+23CS1534,Gulshan,Female,20,3.4,0.89,3,0.64,79,79,None
+23CS1535,Chandrika,Female,21,3.5,0.95,3,2.6,84,100,Sports
+23CS1536,Ekta,Male,22,2,0.68,4,0.51,92,100,STEM Club
+23CS1537,Trilok,Male,21,2.01,0.79,3,0.81,83,89,Arts
+23CS1538,Pradeep,Female,22,2.66,0.97,3,0.67,100,78,Sports
+23CS1539,Kumud,Male,21,2.8,0.99,6,2.85,100,92,Volunteer
+23CS1540,Kiran,Female,20,3.73,0.99,3,2.52,100,100,STEM Club
+23CS1541,Saanvi,Female,22,3.97,0.81,1,3.05,100,83,Arts
+23CS1542,Upasana,Male,22,3.45,0.69,2,1.33,79,91,STEM Club
+23CS1543,Rachna,Male,19,3.63,0.97,0,1.5,100,86,Arts
+23CS1544,Nisha,Female,21,2.76,0.79,4,1.33,100,99,STEM Club
+23CS1545,Faiyaz,Male,21,2.05,0.69,2,0.62,86,91,STEM Club
+23CS1546,Sneha,Female,21,3.18,0.66,3,3.56,100,99,STEM Club
+23CS1547,Veena,Male,20,3.47,0.88,1,0.51,91,80,None
+23CS1548,Tarak,Male,20,2.66,0.92,2,1.16,75,94,Sports
+23CS1549,Dinesh,Female,22,3.16,0.82,1,1.92,100,89,Sports
+23CS1550,Keshav,Female,19,3.59,0.79,4,2.05,100,94,Sports
+23CS1551,Kunal,Male,20,2.14,0.91,1,1.54,94,98,Volunteer
+23CS1552,Saraswati,Female,20,2.2,0.76,2,3.39,100,100,Sports
+23CS1553,Meera,Male,20,3.16,0.76,2,2.05,93,80,Sports
+23CS1554,Neha,Female,22,2.96,0.84,0,1.02,84,87,Arts
+23CS1555,Fahim,Male,22,2.13,0.76,0,3.32,100,100,Sports
+23CS1556,Zubin,Female,22,3.7,0.97,0,2.72,100,90,Volunteer
+23CS1557,Lalit,Female,19,2.34,0.89,3,2.45,97,100,Volunteer
+23CS1558,Fazal,Female,21,2.14,0.89,0,1.05,82,99,Arts
+23CS1559,Aditi,Female,22,3.7,0.6,1,2.78,100,100,STEM Club
+23CS1560,Akhila,Female,22,2.32,0.97,3,2.16,100,98,Sports
+23CS1561,Namrata,Male,22,2.29,0.96,2,2.49,93,98,None
+23CS1562,Ritu,Male,21,2.39,0.67,2,1.77,93,83,None
+23CS1563,Aditya,Male,20,3.2,0.83,4,1.9,100,99,Arts
+23CS1564,Zulekha,Male,21,2.8,0.99,2,1.32,87,86,None
+23CS1565,Neha,Female,21,2.95,0.8,3,1.55,100,75,None
+23CS1566,Aditi,Female,22,2.41,0.91,2,1.84,98,91,None
+23CS1567,Neelam,Nonbinary,20,2.35,0.94,0,0.97,96,97,None
+23CS1568,Tanya,Male,22,3.87,0.94,2,2.07,90,100,Volunteer
+23CS1569,Zeba,Male,19,2.25,0.89,0,0.91,86,99,Volunteer
+23CS1570,Yashoda,Female,19,2.2,0.88,2,2.31,93,100,Volunteer
+23CS1571,Radhika,Female,20,2.51,0.98,5,0.07,78,73,None
+23CS1572,Anjali,Female,19,3.41,0.64,2,1.78,95,100,None
+23CS1573,Zeba,Female,20,2.32,0.58,2,2.28,100,94,Sports
+23CS1574,Aisha,Male,20,3.79,0.98,2,1.23,71,89,None
+23CS1575,Feroza,Female,21,3.01,0.9,0,3.28,100,96,STEM Club
+23CS1576,Tanveer,Nonbinary,21,3.8,0.84,3,0.62,90,90,Volunteer
+23CS1577,Nikhil,Male,21,3.01,0.98,3,0.86,75,90,Volunteer
+23CS1578,Neelam,Female,19,3.61,0.72,2,0.61,76,85,Sports
+23CS1579,Nikhita,Nonbinary,22,2.38,0.89,1,3.6,100,100,Sports
+23CS1580,Waman,Male,21,2.64,0.95,0,2.05,100,100,None
+23CS1581,Udayan,Female,19,3.02,0.81,4,2.73,100,100,Volunteer
+23CS1582,Anirudh,Female,19,2.17,0.8,1,0.81,93,79,STEM Club
+23CS1583,Rajendra,Male,20,2.22,0.93,1,0.82,68,100,None
+23CS1584,Falguni,Female,22,2.73,0.82,1,1.65,97,92,STEM Club
+23CS1585,Pooja,Male,19,3.16,0.95,0,2.17,79,95,STEM Club
+23CS1586,Aarti,Female,22,2.15,0.73,2,0,66,63,Volunteer
+23CS1587,Zarina,Female,19,2.51,0.93,3,2.49,94,95,Arts
+23CS1588,Nikhita,Male,19,3.71,0.91,4,1.78,100,90,None
+23CS1589,Zoya,Male,20,3.6,0.96,3,1.63,97,100,Sports
+23CS1590,Aditya,Male,19,3.76,0.9,1,1.73,82,99,Volunteer
+23CS1591,Kavya,Female,20,2.01,0.88,1,2.46,100,93,None
+23CS1592,Farida,Female,20,2.97,0.65,0,0.29,96,95,Sports
+23CS1593,Ekansh,Female,20,2.63,0.94,3,2.53,100,100,None
+23CS1594,Yatindra,Male,19,3.92,0.63,3,1.61,81,90,Arts
+23CS1595,Anjali,Female,21,3.87,0.89,3,2.3,83,69,STEM Club
+23CS1596,Rakesh,Female,21,2.68,0.59,2,2.12,100,100,Sports
+23CS1597,Ayush,Male,19,3.46,0.8,2,0.34,90,68,Sports
+23CS1598,Bhavesh,Female,22,2.36,0.9,1,2.55,100,87,STEM Club
+23CS1599,Uday,Male,22,3.16,0.89,2,2.16,100,95,None
+23CS1600,Sanjana,Female,20,3.81,0.74,4,2.48,87,93,None
+23CS1601,Shalini,Female,20,3.01,0.83,5,2.59,100,94,Volunteer
+23CS1602,Waris,Male,22,2.12,0.88,4,1.58,91,70,Volunteer
+23CS1603,Yogita,Female,22,3.11,0.97,2,1.99,100,85,None
+23CS1604,Nivedita,Female,21,3.29,0.52,0,2.16,100,100,Arts
+23CS1605,Omkar,Female,22,3.08,0.96,3,1.87,88,68,Arts
+23CS1606,Kamala,Female,22,3.01,0.91,0,1.71,100,96,Volunteer
+23CS1607,Pooja,Female,22,2.84,0.65,0,1.01,76,74,None
+23CS1608,Arvind,Female,22,3.74,0.94,2,1.9,87,89,Sports
+23CS1609,Pankaj,Male,21,3.6,0.72,1,1.83,97,80,None
+23CS1610,Hemal,Male,19,3.63,0.66,2,1.16,88,100,Arts
+23CS1611,Feroz,Male,19,3.64,0.73,1,2.92,100,98,Sports
+23CS1612,Yuvraj,Male,19,2.87,0.95,2,1.21,88,89,Sports
+23CS1613,Kanta,Female,22,3.29,0.58,1,1.17,85,79,Sports
+23CS1614,Vikrant,Female,20,3.23,0.75,1,2.05,100,88,Arts
+23CS1615,Vandana,Female,21,3.77,0.85,3,3.09,89,100,Volunteer
+23CS1616,Pooja,Male,21,3.28,0.76,0,2.64,88,90,STEM Club
+23CS1617,Tanvi,Male,20,2.5,0.79,1,2.26,90,100,None
+23CS1618,Garima,Male,22,2.39,0.62,1,0,94,92,None
+23CS1619,Namratha,Female,22,2.03,0.69,1,1.43,89,95,Arts
+23CS1620,Dharitri,Female,21,2.28,0.8,0,1.66,96,100,Volunteer
+23CS1621,Ramesh,Male,19,3.91,0.94,1,2.76,100,100,Sports
+23CS1622,Chitra,Female,22,3.74,0.78,3,0.38,73,73,Sports
+23CS1623,Ananya,Female,20,3.03,0.95,3,0,94,76,Arts
+23CS1624,Eesha,Male,21,2.97,0.69,1,0.56,76,80,None
+23CS1625,Ayush,Male,20,3.94,0.85,0,0.98,89,86,Arts
+23CS1626,Ashok,Male,19,2.45,0.99,1,1.53,100,98,Arts
+23CS1627,Harshita,Female,21,2.64,0.91,7,2.35,100,100,None
+23CS1628,Taraksh,Female,20,3.71,0.85,0,1.45,100,93,Volunteer
+23CS1629,Nandini,Female,19,2.33,0.71,2,1.59,99,90,Arts
+23CS1630,Suhas,Female,20,2.78,0.9,2,1.22,84,94,Volunteer
+23CS1631,Basanti,Female,20,2.6,0.87,6,0,91,78,Arts
+23CS1632,Nagma,Female,20,3.41,0.8,2,1.52,93,82,Volunteer
+23CS1633,Amar,Male,22,3.97,0.73,1,2.34,100,98,Arts
+23CS1634,Nivedita,Male,19,2.37,0.79,4,2.27,86,89,Arts
+23CS1635,Zohra,Male,20,2.39,0.97,3,1.89,93,85,Volunteer
+23CS1636,Varun,Female,19,2.26,0.83,2,1.81,97,100,Volunteer
+23CS1637,Jeevan,Male,19,3.45,0.71,2,1.56,95,91,Volunteer
+23CS1638,Nagma,Male,20,3.04,0.82,2,1.34,68,90,Sports
+23CS1639,Feroz,Nonbinary,22,2.7,0.7,1,1.49,80,76,Sports
+23CS1640,Taraksh,Male,19,2.74,1,1,0.32,92,76,Sports
+23CS1641,Waris,Male,21,3,0.68,2,1.3,89,100,Sports
+23CS1642,Harshita,Male,20,2.89,0.9,3,0,89,91,STEM Club
+23CS1643,Kanta,Nonbinary,22,3.45,0.97,1,2.88,81,100,Volunteer
+23CS1644,Bindu,Female,20,2.34,0.8,1,0.03,100,100,STEM Club
+23CS1645,Harsh,Male,22,2.5,0.79,2,2.91,97,98,None
+23CS1646,Waliullah,Male,22,2.25,0.67,0,2.08,100,86,STEM Club
+23CS1647,Vikrant,Female,21,3.11,0.8,2,2.45,100,100,None
+23CS1648,Tanvi,Male,22,3.53,0.88,1,2.39,100,85,STEM Club
+23CS1649,Imran,Female,20,2.05,0.98,2,1.12,63,80,STEM Club
+23CS1650,Sachin,Male,20,2.5,0.9,3,0.24,86,80,STEM Club
+23CS1651,Satyam,Male,22,2.66,0.62,1,2.42,100,100,Sports
+23CS1652,Waris,Female,20,3.58,1,3,1.8,100,79,STEM Club
+23CS1653,Mahesh,Female,22,3.16,0.78,3,1.86,100,88,Volunteer
+23CS1654,Shyam,Male,22,3.46,1,1,0.45,64,67,Sports
+23CS1655,Pritam,Female,22,2.43,0.8,2,0.92,76,81,None
+23CS1656,Riya,Male,20,3.37,1,2,1.13,56,74,None
+23CS1657,Vikrant,Female,20,2.33,0.78,2,2.63,97,100,Volunteer
+23CS1658,Vikrant,Male,21,3.89,0.9,3,1.54,100,99,None
+23CS1659,Charan,Female,19,2.74,0.95,2,0.77,79,89,STEM Club
+23CS1660,Elina,Male,22,2.41,0.95,5,1.9,97,95,Arts
+23CS1661,Nirmala,Male,19,3.55,0.95,4,1.2,100,86,None
+23CS1662,Rajendra,Male,20,3.08,0.56,2,1.56,80,100,None
+23CS1663,Manoj,Female,21,3.59,0.76,3,2.83,96,79,Sports
+23CS1664,Waliullah,Male,21,2.25,0.85,3,1.61,100,98,Arts
+23CS1665,Yashoda,Female,20,2.01,0.73,2,1.1,83,100,None
+23CS1666,Ranjit,Female,20,2.87,0.63,2,1.42,86,86,Arts
+23CS1667,Namita,Female,22,2.82,0.94,1,1.88,100,92,Sports
+23CS1668,Wasim,Female,19,3.05,0.7,3,1.65,86,95,Sports
+23CS1669,Tanu,Female,22,3.42,0.76,2,0,98,80,Arts
+23CS1670,Rituraj,Male,21,3.63,0.92,1,0.24,80,84,STEM Club
+23CS1671,Darshan,Female,21,2.49,0.96,5,3.36,100,100,None
+23CS1672,Tejas,Female,19,3.95,0.87,2,1.03,95,80,Arts
+23CS1673,Bhargavi,Male,21,2.74,0.82,2,0.61,80,86,Arts
+23CS1674,Kunal,Female,22,3.7,0.99,3,0.61,99,79,STEM Club
+23CS1675,Amar,Female,21,2.51,0.69,4,1.36,88,91,None
+23CS1676,Bhanu,Male,22,2.82,0.82,6,1.6,88,97,Sports
+23CS1677,Manorama,Male,22,2.19,0.8,2,1.9,94,81,Arts
+23CS1678,Usha,Nonbinary,20,2.39,0.95,4,3.07,100,99,None
+23CS1679,Chandrika,Female,19,3.08,0.83,1,1.04,72,87,Volunteer
+23CS1680,Devika,Female,20,3.59,0.8,4,1.18,93,84,None
+23CS1681,Yuvika,Female,21,2.81,0.67,3,1.9,89,85,None
+23CS1682,Irfan,Female,21,3.55,0.66,2,0.44,100,96,Sports
+23CS1683,Kalpana,Female,19,3.95,0.75,1,2.52,100,93,None
+23CS1684,Veena,Female,21,2.95,0.98,1,1.34,100,87,Arts
+23CS1685,Vikram,Female,21,2.17,0.83,1,1.67,100,92,Volunteer
+23CS1686,Hema,Female,21,3.8,0.66,5,0.41,58,85,None
+23CS1687,Gopal,Female,20,2.76,0.75,1,2.71,100,98,Arts
+23CS1688,Chandrika,Female,22,3.48,0.84,4,1.8,98,96,None
+23CS1689,Elina,Male,21,2.52,0.71,1,2.3,100,90,STEM Club
+23CS1690,Vinod,Female,21,2.93,0.97,1,1.7,100,80,Arts
+23CS1691,Dharam,Male,20,3.13,0.98,2,1.1,91,77,STEM Club
+23CS1692,Nagma,Male,22,2.3,0.83,3,1.4,80,96,STEM Club
+23CS1693,Nikhil,Female,20,3.58,0.68,2,1.09,94,100,Sports
+23CS1694,Dharani,Nonbinary,22,3.87,0.76,0,0.76,100,91,None
+23CS1695,Himanshi,Female,22,2.45,0.89,4,1.69,89,92,Volunteer
+23CS1696,Pranati,Male,21,2.4,0.97,3,0.49,75,89,STEM Club
+23CS1697,Rameshwar,Female,22,3.72,0.98,1,3.79,100,100,None
+23CS1698,Chandresh,Male,20,3.7,0.59,2,2.17,100,100,Sports
+23CS1699,Bina,Nonbinary,20,3.94,0.75,2,2.5,94,82,Sports
+23CS1700,Harsha,Female,22,2.48,0.78,4,1.56,87,74,Volunteer
+23CS1701,Prakash,Male,19,2.62,0.97,2,0.88,82,69,Arts
+23CS1702,Dharam,Male,19,3.38,0.81,3,2.46,100,100,Arts
+23CS1703,Siddharth,Nonbinary,22,2.14,0.6,3,1.56,100,82,Arts
+23CS1704,Karthik,Male,20,3.65,0.99,5,1.62,100,79,None
+23CS1705,Chaitanya,Male,20,3.84,0.96,1,0.32,80,90,Volunteer
+23CS1706,Amar,Female,20,2.86,0.91,2,1.52,100,100,Arts
+23CS1707,Hemant,Male,22,3.12,0.79,1,1.91,95,100,Volunteer
+23CS1708,Eshita,Female,22,2.83,0.8,0,1.95,100,92,Volunteer
+23CS1709,Chandrika,Male,20,2.38,0.67,3,0.74,92,96,None
+23CS1710,Vandana,Nonbinary,19,3.19,0.84,3,1.5,86,94,Arts
+23CS1711,Faiyaz,Female,19,3.38,0.93,2,3.51,100,100,Volunteer
+23CS1712,Akhil,Male,22,3.74,0.99,1,0.94,93,100,Volunteer
+23CS1713,Sunita,Female,22,3.7,0.94,5,0.46,94,92,Sports
+23CS1714,Anup,Male,22,2.32,0.96,3,1.91,100,98,Volunteer
+23CS1715,Waman,Male,22,2.66,0.9,0,1.78,100,95,None
+23CS1716,Nandan,Male,19,2.45,0.92,1,1.49,97,100,STEM Club
+23CS1717,Ranjana,Female,22,2.74,0.78,2,2.45,88,79,Arts
+23CS1718,Nivedita,Female,20,3.43,0.76,1,1.72,100,76,Volunteer
+23CS1719,Nagma,Male,20,2.44,0.83,2,2.22,100,86,STEM Club
+23CS1720,Lalitha,Male,21,2.21,0.79,1,1.36,92,80,None
+23CS1721,Suresh,Male,19,2.25,0.56,4,0.84,86,77,Arts
+23CS1722,Charan,Female,20,2.03,0.71,0,2.39,96,94,None
+23CS1723,Oorja,Male,21,2.82,0.99,5,3.22,98,91,STEM Club
+23CS1724,Namratha,Female,19,2.99,0.88,1,3.84,100,100,Arts
+23CS1725,Pranitha,Female,21,2.03,0.75,2,1.09,100,100,Sports
+23CS1726,Ranjana,Female,21,2.86,0.63,0,2.25,92,86,None
+23CS1727,Keshav,Male,21,2.51,0.83,3,2.51,100,100,Arts
+23CS1728,Harish,Male,22,3.44,0.74,1,1.77,100,78,Volunteer
+23CS1729,Jagdish,Male,19,2.42,0.92,0,1.27,90,95,Volunteer
+23CS1730,Rohan,Male,19,3.8,0.97,2,1.93,92,88,None
+23CS1731,Feroza,Male,22,3.29,0.91,2,0.96,79,82,Sports
+23CS1732,Shyam,Female,20,2.38,0.98,2,3.48,100,92,None
+23CS1733,Kalyani,Male,20,3.69,0.99,2,0.66,100,81,None
+23CS1734,Chandrika,Nonbinary,19,3.18,0.76,1,1.82,86,88,Arts
+23CS1735,Radhika,Male,20,3.91,1,1,0.85,83,79,Sports
+23CS1736,Hemant,Nonbinary,20,3.9,0.7,4,0.43,88,71,Sports
+23CS1737,Jagruti,Female,21,2.46,0.81,3,2.3,94,84,Sports
+23CS1738,Leela,Male,20,3.93,0.65,3,2.96,100,100,Sports
+23CS1739,Dinesh,Female,22,2.72,0.85,2,2.09,96,97,None
+23CS1740,Yamini,Female,20,2.05,0.82,4,0.81,91,85,None
+23CS1741,Ayush,Male,22,3.59,0.9,4,0.8,96,84,Arts
+23CS1742,Bhavesh,Male,22,3.6,0.71,1,3.61,100,94,Arts
+23CS1743,Kalpana,Female,19,3.5,0.97,3,3.95,86,97,Volunteer
+23CS1744,Vandana,Male,19,2.72,0.76,2,2.53,92,86,STEM Club
+23CS1745,Prakash,Female,22,3.85,0.85,1,2.5,89,100,None
+23CS1746,Anjali,Female,19,3.16,0.94,1,3.13,100,100,Arts
+23CS1747,Ranjani,Male,19,3,0.84,4,1.29,92,77,None
+23CS1748,Mahesh,Male,20,2.96,0.78,3,3.13,100,100,None
+23CS1749,Madhuri,Male,22,2.26,0.95,5,1.34,93,86,None
+23CS1750,Omkar,Female,22,3.47,0.97,1,2.36,100,86,Arts
+23CS1751,Waris,Female,22,3.24,0.93,5,3.54,92,88,Volunteer
+23CS1752,Farida,Female,22,2.03,0.67,1,1.45,82,83,Arts
+23CS1753,Rahul,Female,19,3.14,0.79,3,1.17,100,85,STEM Club
+23CS1754,Ramesh,Female,22,3.03,0.86,2,1,94,79,STEM Club
+23CS1755,Umesh,Female,19,3.68,0.86,1,1.85,94,81,Arts
+23CS1756,Isha,Male,22,3.97,0.65,2,1.1,98,100,Arts
+23CS1757,Pranav,Female,19,2.89,0.84,2,0.68,90,100,Volunteer
+23CS1758,Rakesh,Female,19,3.17,0.89,1,1.36,94,100,None
+23CS1759,Usha,Male,22,2.24,0.98,0,1.78,99,100,STEM Club
+23CS1760,Vandita,Female,21,3.95,0.93,5,1.86,100,98,Arts
+23CS1761,Lalith,Male,19,3.7,0.93,1,2.3,100,85,Sports
+23CS1762,Harini,Male,19,2.06,0.83,0,1.67,91,82,Arts
+23CS1763,Farhan,Female,20,3.88,0.96,3,1.49,100,87,Arts
+23CS1764,Madhukar,Male,19,2.82,0.92,3,0.75,77,81,Volunteer
+23CS1765,Yuvika,Female,21,2.07,0.98,0,1.6,100,88,STEM Club
+23CS1766,Nitin,Male,21,2.21,0.84,5,0.99,77,70,Sports
+23CS1767,Rajeev,Nonbinary,19,3.11,0.91,3,2.63,90,100,STEM Club
+23CS1768,Eesha,Female,21,3.65,0.72,3,1.16,100,86,Sports
+23CS1769,Bharti,Female,20,2.03,0.77,1,0.75,100,87,None
+23CS1770,Madhukar,Male,21,3.99,0.92,3,0.66,81,95,Sports
+23CS1771,Chandni,Male,21,3.91,0.85,2,3.13,100,100,Sports
+23CS1772,Yogita,Male,19,2.28,0.68,0,0.74,88,99,Sports
+23CS1773,Sunita,Male,22,3.21,0.78,1,1.28,93,89,Arts
+23CS1774,Urmila,Female,20,3.64,0.95,1,1.29,99,90,STEM Club
+23CS1775,Vandita,Male,21,2.03,0.91,1,1.85,92,89,Volunteer
+23CS1776,Lalitha,Nonbinary,19,2.46,0.75,1,1.03,84,67,Arts
+23CS1777,Usha,Male,21,3.33,0.58,2,2.97,94,100,None
+23CS1778,Kiranmayi,Male,19,2.45,0.8,3,0.25,92,74,Volunteer
+23CS1779,Chitra,Male,20,3.23,0.95,3,2.42,91,100,STEM Club
+23CS1780,Triveni,Nonbinary,20,2.73,0.84,2,1.06,100,84,Arts
+23CS1781,Ishwar,Female,21,2.81,0.64,4,1.32,87,99,Sports
+23CS1782,Eesha,Female,22,2.77,0.95,1,1.98,98,99,Arts
+23CS1783,Sachin,Male,22,2.3,0.99,3,1.49,100,79,None
+23CS1784,Leela,Female,19,3.3,0.9,2,1.62,100,89,Arts
+23CS1785,Madhukar,Male,22,2.1,0.57,3,0.99,100,97,Sports
+23CS1786,Fazal,Female,19,3.12,0.88,4,1.45,80,100,None
+23CS1787,Ekta,Male,22,3.72,0.88,0,2.07,86,89,None
+23CS1788,Eshan,Female,20,2.75,0.92,2,1.96,100,100,Volunteer
+23CS1789,Manoj,Female,20,2.23,1,0,2.44,85,78,Arts
+23CS1790,Bhavesh,Female,19,2.22,0.62,4,2.22,99,96,STEM Club
+23CS1791,Imran,Male,21,3.83,0.98,2,2.73,100,100,Sports
+23CS1792,Shweta,Male,19,3.52,0.65,0,1.59,86,97,Sports
+23CS1793,Ravindra,Male,19,3.46,0.65,4,2.58,76,92,STEM Club
+23CS1794,Harshita,Female,22,3.05,0.9,1,1.71,100,83,Volunteer
+23CS1795,Waseem,Female,20,2.06,0.65,5,2.86,92,100,Volunteer
+23CS1796,Rajeev,Female,22,2.01,0.66,3,1.73,90,93,STEM Club
+23CS1797,Sanjay,Male,21,2.34,0.89,2,1.54,85,100,Sports
+23CS1798,Rakesh,Female,22,2.4,0.86,2,2.78,100,84,Arts
+23CS1799,Anup,Female,19,3.32,0.85,3,2.57,100,95,Arts
+23CS1800,Shweta,Male,21,2.4,0.73,3,0.55,68,78,None
+23CS1801,Zulekha,Female,22,3.94,0.88,1,2.83,90,93,STEM Club
+23CS1802,Waliullah,Male,22,3,0.59,2,1.16,83,96,None
+23CS1803,Meera,Male,22,3.07,0.8,0,2.6,100,100,Sports
+23CS1804,Lalith,Female,22,2.93,0.78,5,1.59,87,99,None
+23CS1805,Tarak,Female,22,2.54,0.89,1,1.14,95,86,None
+23CS1806,Omisha,Male,21,2.46,0.78,1,1.75,99,100,Volunteer
+23CS1807,Zoya,Male,20,2.55,0.81,5,2.59,95,76,Volunteer
+23CS1808,Zubin,Male,22,3.36,0.91,2,2.27,100,85,Arts
+23CS1809,Zubeda,Female,22,2.47,0.65,3,1.38,72,97,Volunteer
+23CS1810,Nandan,Male,22,3.48,0.86,3,1.25,86,93,Volunteer
+23CS1811,Rajendra,Female,21,2.92,0.77,5,1.62,92,81,Sports
+23CS1812,Ramesh,Female,20,2.47,0.79,3,2,100,94,Sports
+23CS1813,Ramesh,Female,22,2.71,0.83,1,1.25,80,81,Arts
+23CS1814,Ishita,Female,21,3.59,0.75,1,2.22,100,88,STEM Club
+23CS1815,Yatindra,Male,21,2.6,0.7,3,3.51,100,100,STEM Club
+23CS1816,Leelavati,Male,19,3.19,0.82,2,2.71,100,95,Sports
+23CS1817,Nagma,Male,22,3.26,0.81,5,1.63,97,84,Sports
+23CS1818,Harish,Female,20,3.43,0.71,3,1.25,84,85,STEM Club
+23CS1819,Damini,Female,19,2.93,0.87,2,1.76,94,85,Volunteer
+23CS1820,Gulshan,Male,20,3.58,0.88,3,1.46,100,96,STEM Club
+23CS1821,Sachin,Female,21,2.44,0.81,3,3.87,100,100,STEM Club
+23CS1822,Fazal,Male,19,3.04,0.84,1,2.08,100,100,Sports
+23CS1823,Sunita,Female,20,2.36,0.9,1,1.85,100,95,STEM Club
+23CS1824,Kalyani,Male,22,3.3,0.97,0,3.83,100,99,None
+23CS1825,Pooja,Male,21,2.39,0.64,3,0.29,83,86,Arts
+23CS1826,Lokesh,Female,19,3.16,0.93,2,3.06,98,96,None
+23CS1827,Rohan,Female,20,2.01,0.86,5,0.68,92,90,None
+23CS1828,Rachit,Female,21,2.55,0.86,2,1.11,92,99,Arts
+23CS1829,Gokul,Male,21,3.1,0.68,5,2.05,100,100,None
+23CS1830,Fazal,Female,22,3.43,0.75,1,0.94,100,83,Sports
+23CS1831,Rituraj,Female,20,2.19,0.82,2,2.02,81,67,Arts
+23CS1832,Ayush,Male,19,2.32,0.89,3,1.82,85,75,Sports
+23CS1833,Yatindra,Male,21,2.65,0.93,1,2.83,100,100,None
+23CS1834,Kumari,Male,21,3.52,0.87,4,0.37,100,67,None
+23CS1835,Harsha,Male,20,3.39,0.68,0,2.42,100,98,Arts
+23CS1836,Sharanya,Female,20,2.9,0.69,2,2.2,89,100,Volunteer
+23CS1837,Faiyaz,Female,19,2.24,0.94,1,2.01,81,93,Volunteer
+23CS1838,Suresh,Female,19,2.94,0.65,1,2.56,81,100,Arts
+23CS1839,Poojani,Male,19,2.04,0.98,2,1.27,98,95,STEM Club
+23CS1840,Dinesh,Male,21,2.04,0.68,2,0.97,94,100,None
+23CS1841,Chinmay,Male,22,3.59,0.79,1,3.74,100,100,Volunteer
+23CS1842,Lalith,Female,21,3.91,0.74,2,2.26,92,82,None
+23CS1843,Gopal,Male,19,2.6,0.6,2,0.83,79,82,Sports
+23CS1844,Ravina,Male,21,2.91,0.86,5,1.33,72,100,None
+23CS1845,Omkar,Female,20,2.66,0.89,2,1.58,98,92,STEM Club
+23CS1846,Nagma,Male,20,3.9,0.74,2,1.73,99,100,STEM Club
+23CS1847,Rituparna,Male,20,3.99,0.84,3,1.14,97,87,Sports
+23CS1848,Farida,Female,20,3.03,0.87,4,1.73,100,81,STEM Club
+23CS1849,Pooja,Female,19,2.35,0.87,1,2.36,91,100,Sports
+23CS1850,Meera,Male,22,2.06,0.96,5,1.66,84,81,Sports
+23CS1851,Brijesh,Nonbinary,21,3.58,0.84,0,0.93,100,90,Arts
+23CS1852,Garima,Male,22,2.64,0.98,2,0.35,83,82,Sports
+23CS1853,Jatin,Male,19,2.91,1,3,1.55,99,99,STEM Club
+23CS1854,Bhargavi,Male,21,2.17,0.93,2,1.9,77,100,None
+23CS1855,Maitreyi,Male,22,3.4,0.89,3,2.44,100,100,Sports
+23CS1856,Shabnam,Male,21,2.96,0.77,3,2.15,100,87,None
+23CS1857,Tanya,Female,19,3.04,0.54,2,1.21,73,82,None
+23CS1858,Vijay,Female,19,3.28,0.93,2,0.84,95,73,STEM Club
+23CS1859,Gauri,Female,22,2.66,0.94,2,2.74,100,100,Arts
+23CS1860,Zeba,Female,21,2.31,0.99,4,2.03,76,78,Arts
+23CS1861,Lakshya,Female,20,2.29,0.86,0,1.22,89,90,Arts
+23CS1862,Vandita,Male,22,2.19,0.84,2,0.14,71,85,STEM Club
+23CS1863,Riya,Male,19,3.62,0.65,3,2.43,89,85,None
+23CS1864,Kunal,Female,21,2.89,0.86,0,0.85,90,68,Sports
+23CS1865,Trisha,Female,21,3.37,0.89,4,1.18,73,77,Arts
+23CS1866,Omkar,Male,20,3.05,0.54,2,0.91,91,86,Sports
+23CS1867,Bhavana,Male,20,2.39,0.87,0,2.65,99,94,None
+23CS1868,Malini,Female,22,3.06,0.81,3,0.78,72,71,None
+23CS1869,Smita,Female,22,2.24,0.64,2,2.41,87,100,STEM Club
+23CS1870,Ishaan,Female,20,2.86,0.9,2,1.19,96,96,STEM Club
+23CS1871,Eshwar,Nonbinary,20,3.68,0.85,1,2.77,96,100,Sports
+23CS1872,Bhavana,Female,19,3.6,0.78,3,1.14,91,88,Sports
+23CS1873,Priya,Male,20,3.34,0.9,4,1.96,100,100,None
+23CS1874,Chandrika,Male,21,3.63,0.93,1,1.12,87,67,Arts
+23CS1875,Rahul,Male,22,3.93,0.96,2,2.91,100,100,STEM Club
+23CS1876,Namratha,Female,21,2.89,0.62,0,1.87,100,96,Volunteer
+23CS1877,Saraswati,Male,21,2.29,0.72,4,1.54,85,87,STEM Club
+23CS1878,Eshan,Female,19,2.02,0.98,3,0.87,80,68,None
+23CS1879,Rajendra,Male,21,2.65,0.94,6,0.29,69,91,STEM Club
+23CS1880,Elina,Male,21,2.22,0.96,1,0,69,64,Arts
+23CS1881,Gulshan,Male,22,3.59,0.99,2,3.38,100,93,Sports
+23CS1882,Janardhan,Female,22,3.59,0.92,1,1.13,90,90,STEM Club
+23CS1883,Esha,Female,22,2.99,0.89,1,1.47,91,98,Sports
+23CS1884,Yamini,Male,20,3.74,0.63,6,1.04,100,84,None
+23CS1885,Poojani,Female,20,3.27,0.86,1,1.09,100,94,None
+23CS1886,Karthik,Male,22,3.98,0.99,2,2.25,87,80,Sports
+23CS1887,Janardhan,Male,21,3.09,0.96,1,2.01,100,78,Arts
+23CS1888,Rameshwar,Female,20,2.21,0.97,3,0.95,73,70,Volunteer
+23CS1889,Tanu,Female,19,3.32,1,1,1.24,86,94,Sports
+23CS1890,Chinmay,Male,22,3.93,0.72,1,1.68,100,100,None
+23CS1891,Harsh,Female,22,3.09,0.94,3,2.26,95,89,Arts
+23CS1892,Nikhil,Nonbinary,21,3.73,0.92,1,2.33,100,100,Sports
+23CS1893,Neha,Male,20,2.99,0.93,0,0.26,87,92,Volunteer
+23CS1894,Gulab,Female,21,2.79,0.64,2,2.15,100,100,None
+23CS1895,Lokesh,Male,22,2.55,0.84,0,0.43,89,82,STEM Club
+23CS1896,Pranitha,Male,21,2.02,0.82,2,1.63,99,89,Sports
+23CS1897,Wasim,Female,22,2.19,0.94,4,0.87,100,84,Volunteer
+23CS1898,Rituparna,Male,20,2.8,1,3,2.16,97,84,Arts
+23CS1899,Trilok,Male,21,2.05,0.81,2,0,92,50,None
+23CS1900,Ishwar,Male,20,3.22,0.71,1,1.41,99,94,Arts
+23CS1901,Zeenat,Male,22,2.27,0.64,0,1.97,80,100,None
+23CS1902,Pranav,Male,21,2.42,0.87,2,1.34,97,100,None
+23CS1903,Malini,Female,22,2.26,0.77,6,2.03,95,88,STEM Club
+23CS1904,Sundar,Male,19,2.38,0.84,0,2.75,100,85,Arts
+23CS1905,Ojaswini,Female,20,3.4,0.9,2,2.19,89,100,Volunteer
+23CS1906,Urmila,Male,20,3.24,0.95,0,2.56,100,100,Sports
+23CS1907,Kavya,Female,20,2.4,0.93,2,2.78,100,95,None
+23CS1908,Vishnu,Male,19,3.89,0.53,1,1.98,89,87,STEM Club
+23CS1909,Yuvraj,Female,21,3.25,0.74,3,0.34,72,89,STEM Club
+23CS1910,Qamar,Male,19,3.91,0.82,3,1.73,84,90,STEM Club
+23CS1911,Ekansh,Male,21,3.07,0.99,2,1.95,100,91,Sports
+23CS1912,Tanu,Female,20,2.6,0.57,1,2.31,90,94,Sports
+23CS1913,Meera,Male,22,3.11,0.78,1,0.14,87,78,Arts
+23CS1914,Zubeda,Male,22,3.17,0.91,3,1.18,88,100,Sports
+23CS1915,Nikhil,Male,22,2.88,0.75,1,2.88,100,100,Sports
+23CS1916,Pranati,Male,19,2.52,0.88,1,1.37,91,91,STEM Club
+23CS1917,Eklavya,Female,19,3.06,0.77,0,3.05,100,100,Sports
+23CS1918,Urmil,Female,19,3.56,0.51,1,2.37,100,77,Sports
+23CS1919,Tushar,Female,21,2.83,0.79,0,2.28,100,100,Sports
+23CS1920,Yuvraj,Male,19,2.83,0.93,0,2.7,100,78,None
+23CS1921,Chinmay,Male,20,2.52,0.63,0,1.87,100,88,STEM Club
+23CS1922,Anjali,Male,22,2.99,0.61,1,2.15,99,100,None
+23CS1923,Indira,Female,19,2.49,0.94,0,1.87,88,100,Sports
+23CS1924,Namita,Male,21,3.63,0.82,1,1.92,100,92,Arts
+23CS1925,Urmil,Male,22,3.83,0.68,3,0.57,93,82,Arts
+23CS1926,Zubeda,Female,20,2.98,0.88,4,1.54,84,99,Sports
+23CS1927,Sundar,Male,21,2.19,0.83,5,0,82,89,Sports
+23CS1928,Karthik,Male,20,3.71,0.69,3,3.32,100,100,Volunteer
+23CS1929,Harshal,Male,20,2.76,0.92,0,2.48,93,93,Sports
+23CS1930,Vandana,Female,21,2.98,0.9,1,2.36,100,78,Sports
+23CS1931,Yamini,Female,20,3.28,0.92,0,1.38,90,80,Sports
+23CS1932,Waman,Male,21,3.53,0.92,1,0.8,78,84,Sports
+23CS1933,Kumari,Female,19,2.78,0.76,3,3.94,100,100,Sports
+23CS1934,Imran,Female,19,2.39,0.89,4,1.2,90,71,Sports
+23CS1935,Dinesh,Female,19,2.05,0.92,2,2.15,100,88,Volunteer
+23CS1936,Zainab,Male,20,3.23,0.72,1,1.42,79,97,Sports
+23CS1937,Indira,Female,19,3.82,0.83,1,0.85,91,80,STEM Club
+23CS1938,Bhavesh,Male,21,2.91,0.82,3,1.2,92,100,STEM Club
+23CS1939,Suhas,Female,22,2.51,0.9,0,2.21,90,100,Arts
+23CS1940,Vandana,Male,20,3.15,0.99,4,1.39,70,85,None
+23CS1941,Rohan,Male,21,2.8,0.67,2,1.34,100,98,None
+23CS1942,Fahim,Male,20,2.91,0.91,0,2.32,100,93,Sports
+23CS1943,Akhila,Female,21,2.61,0.7,3,1.36,95,74,Sports
+23CS1944,Uma,Male,21,3.35,0.8,2,3.5,100,100,Arts
+23CS1945,Lalit,Female,19,2.85,0.85,0,2.33,100,98,Sports
+23CS1946,Ovi,Female,20,3.03,0.97,0,2.06,100,91,Volunteer
+23CS1947,Kavya,Male,20,3.17,0.92,0,1.29,100,99,STEM Club
+23CS1948,Jyoti,Male,19,3.16,0.97,3,2.02,89,100,Sports
+23CS1949,Om,Male,19,2.01,0.72,0,0.77,100,91,Sports
+23CS1950,Usha,Male,20,2.02,0.74,1,2.01,96,93,Sports
+23CS1951,Pavitra,Female,22,2.36,0.88,2,1.57,91,100,None
+23CS1952,Bhavana,Female,22,3.18,1,3,3.73,100,100,Sports
+23CS1953,Namratha,Male,21,3.88,0.91,2,1.63,89,88,Sports
+23CS1954,Rakesh,Female,21,3.79,0.97,0,1.95,100,100,Sports
+23CS1955,Varun,Male,19,2.57,0.95,2,2.77,100,98,Sports
+23CS1956,Kiran,Male,19,3.55,0.8,1,2.49,100,100,Volunteer
+23CS1957,Varsha,Male,20,3.74,0.94,2,0.7,95,77,Arts
+23CS1958,Nitin,Male,19,3.18,0.88,1,0.88,99,88,STEM Club
+23CS1959,Falguni,Female,19,3.77,0.97,3,0.94,100,75,Arts
+23CS1960,Nagma,Male,20,2.16,0.68,1,1.98,85,89,Volunteer
+23CS1961,Saira,Male,22,3.39,0.96,0,2.18,100,91,STEM Club
+23CS1962,Zeenat,Female,21,2.59,0.9,2,2.12,100,92,Sports
+23CS1963,Vishnu,Female,21,3.06,0.88,3,1.33,90,98,Sports
+23CS1964,Falguni,Female,21,2.46,0.84,0,1.65,92,100,Arts
+23CS1965,Harshita,Male,19,2.42,0.98,0,1.7,94,98,STEM Club
+23CS1966,Varsha,Male,21,2.71,0.77,3,0.78,86,83,Arts
+23CS1967,Hitesh,Female,21,3.14,0.83,1,2.67,100,100,STEM Club
+23CS1968,Hemal,Female,22,3.25,0.82,4,2.36,83,100,None
+23CS1969,Dinesh,Female,22,2.75,0.9,5,1.61,100,100,STEM Club
+23CS1970,Nivedita,Male,19,3.83,0.83,0,1.67,100,89,Volunteer
+23CS1971,Varun,Female,22,3.44,0.77,1,2.48,79,92,Sports
+23CS1972,Waman,Male,21,3.23,0.59,3,3.28,88,100,STEM Club
+23CS1973,Neelam,Female,20,3.92,0.97,1,1.42,100,97,Arts
+23CS1974,Kanta,Male,20,3.89,0.96,2,2.14,100,94,None
+23CS1975,Zohra,Male,20,2.42,0.87,1,2.7,97,88,None
+23CS1976,Ishita,Female,22,2.37,0.84,1,0.61,100,92,Volunteer
+23CS1977,Maitreyi,Female,22,2.92,1,2,0.01,70,69,None
+23CS1978,Ragini,Nonbinary,21,3.53,0.72,3,1.49,85,91,None
+23CS1979,Anjali,Male,19,2.27,0.87,4,0.59,78,87,None
+23CS1980,Manorama,Female,19,3.52,0.94,2,2.82,96,74,Sports
+23CS1981,Fazila,Male,22,2.71,0.81,1,1.2,99,96,Arts
+23CS1982,Om,Female,22,2.39,0.9,4,0.21,90,76,Sports
+23CS1983,Charan,Male,20,3.36,0.93,2,4.15,100,100,Volunteer
+23CS1984,Oorja,Male,19,3.17,0.73,1,1.67,100,86,None
+23CS1985,Sakshi,Female,20,3.55,0.74,0,2.62,100,94,Sports
+23CS1986,Trilok,Female,21,3.84,0.84,0,2.43,94,92,STEM Club
+23CS1987,Uma,Female,19,2.54,0.74,3,2.04,100,89,STEM Club
+23CS1988,Manisha,Male,20,2.57,0.61,1,2.24,100,81,Volunteer
+23CS1989,Ramesh,Male,19,3.37,0.83,2,1.25,78,79,Sports
+23CS1990,Shyam,Female,20,3.94,0.89,2,1.35,86,82,STEM Club
+23CS1991,Ramesh,Male,21,2.75,0.97,1,2.4,100,100,STEM Club
+23CS1992,Harini,Female,22,2.43,0.93,2,1.6,86,85,STEM Club
+23CS1993,Eshita,Female,19,2.76,0.69,1,1.3,100,86,None
+23CS1994,Yogesh,Female,22,3.73,0.89,4,3.02,100,98,STEM Club
+23CS1995,Manorama,Male,21,3.94,1,2,0.13,73,60,Arts
+23CS1996,Uday,Male,19,3.24,0.84,0,2.42,100,100,Sports
+23CS1997,Darshan,Female,19,2.02,0.72,2,1.47,76,89,STEM Club
+23CS1998,Vibha,Female,22,3.59,0.82,2,1.91,100,83,None
+23CS1999,Asha,Male,22,2.35,0.77,1,0.8,87,79,None
+23CS2000,Meenal,Female,21,2.07,0.91,5,2.27,100,95,Arts

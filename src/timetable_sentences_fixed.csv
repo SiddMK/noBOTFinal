@@ -1,0 +1,186 @@
+Section,Day,Period_No,Time,Subject,Faculty,Room_No,Subject Code,Sentence
+A,Monday,1.0,9:00–9:50,Discrete Mathematics,Bhagat Raj,CSE block 201,BCS304,"On Monday, Section A has Discrete Mathematics (subject code BCS304) during period 1 at 9:00-9:50, taught by Bhagat Raj in room CSE block 201."
+A,Monday,2.0,9:50–10:40,Data Structures,Priya Gupta,CSE block 201,BCS301,"On Monday, Section A has Data Structures (subject code BCS301) during period 2 at 9:50-10:40, taught by Priya Gupta in room CSE block 201."
+,,,,SHORT BREAK,,,,SHORT BREAK
+A,Monday,3.0,11:00–11:50,OOP with C++,Kiran Sharma,CSE block 201,BCS303,"On Monday, Section A has OOP with C++ (subject code BCS303) during period 3 at 11:00-11:50, taught by Kiran Sharma in room CSE block 201."
+A,Monday,4.0,12:00–12:50,Operating Systems,Neha Singh,CSE block 201,BCS302,"On Monday, Section A has Operating Systems (subject code BCS302) during period 4 at 12:00-12:50, taught by Neha Singh in room CSE block 201."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+A,Tuesday,1.0,9:00–9:50,Computer Networks,Arjun Mehta,CSE block 201,BCS305,"On Tuesday, Section A has Computer Networks (subject code BCS305) during period 1 at 9:00-9:50, taught by Arjun Mehta in room CSE block 201."
+A,Tuesday,2.0,9:50–10:40,Python Lab,Anjali Patel,CSE block 201,BLS310,"On Tuesday, Section A has Python Lab (subject code BLS310) during period 2 at 9:50-10:40, taught by Anjali Patel in room CSE block 201."
+,,,,SHORT BREAK,,,,SHORT BREAK
+A,Tuesday,3.0,11:00–11:50,Data Structures,Rajeev Kumar,CSE block 201,BCS301,"On Tuesday, Section A has Data Structures (subject code BCS301) during period 3 at 11:00-11:50, taught by Rajeev Kumar in room CSE block 201."
+A,Tuesday,4.0,12:00–12:50,Communication Skills,Meena Rao,CSE block 201,BCSL311,"On Tuesday, Section A has Communication Skills (subject code BCSL311) during period 4 at 12:00-12:50, taught by Meena Rao in room CSE block 201."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+A,Wednesday,1.0,9:00–9:50,Digital Logic Design,Srushti Kulkarni,CSE block 201,BCS306,"On Wednesday, Section A has Digital Logic Design (subject code BCS306) during period 1 at 9:00-9:50, taught by Srushti Kulkarni in room CSE block 201."
+A,Wednesday,2.0,9:50–10:40,Operating Systems,Neha Singh,CSE block 201,BCS302,"On Wednesday, Section A has Operating Systems (subject code BCS302) during period 2 at 9:50-10:40, taught by Neha Singh in room CSE block 201."
+,,,,SHORT BREAK,,,,SHORT BREAK
+A,Wednesday,3.0,11:00–11:50,Computer Networks,Arjun Mehta,CSE block 201,BCS305,"On Wednesday, Section A has Computer Networks (subject code BCS305) during period 3 at 11:00-11:50, taught by Arjun Mehta in room CSE block 201."
+A,Wednesday,4.0,12:00–12:50,Discrete Mathematics,Bhagat Raj,CSE block 201,BCS304,"On Wednesday, Section A has Discrete Mathematics (subject code BCS304) during period 4 at 12:00-12:50, taught by Bhagat Raj in room CSE block 201."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+A,Thursday,1.0,9:00–9:50,OOP with C++,Kiran Sharma,CSE block 201,BCS303,"On Thursday, Section A has OOP with C++ (subject code BCS303) during period 1 at 9:00-9:50, taught by Kiran Sharma in room CSE block 201."
+A,Thursday,2.0,9:50–10:40,Digital Logic Design,Srushti Kulkarni,CSE block 201,BCS306,"On Thursday, Section A has Digital Logic Design (subject code BCS306) during period 2 at 9:50-10:40, taught by Srushti Kulkarni in room CSE block 201."
+,,,,SHORT BREAK,,,,SHORT BREAK
+A,Thursday,3.0,11:00–11:50,Operating Systems,Neha Singh,CSE block 201,BCS302,"On Thursday, Section A has Operating Systems (subject code BCS302) during period 3 at 11:00-11:50, taught by Neha Singh in room CSE block 201."
+A,Thursday,4.0,12:00–12:50,Communication Skills,Meena Rao,CSE block 201,BCSL311,"On Thursday, Section A has Communication Skills (subject code BCSL311) during period 4 at 12:00-12:50, taught by Meena Rao in room CSE block 201."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+A,Friday,1.0,9:00–9:50,Data Structures,Priya Gupta,CSE block 201,BCS301,"On Friday, Section A has Data Structures (subject code BCS301) during period 1 at 9:00-9:50, taught by Priya Gupta in room CSE block 201."
+A,Friday,2.0,9:50–10:40,Computer Networks,Arjun Mehta,CSE block 201,BCS305,"On Friday, Section A has Computer Networks (subject code BCS305) during period 2 at 9:50-10:40, taught by Arjun Mehta in room CSE block 201."
+,,,,SHORT BREAK,,,,SHORT BREAK
+A,Friday,3.0,11:00–11:50,OOP with C++,Kiran Sharma,CSE block 201,BCS303,"On Friday, Section A has OOP with C++ (subject code BCS303) during period 3 at 11:00-11:50, taught by Kiran Sharma in room CSE block 201."
+A,Friday,4.0,12:00–12:50,Discrete Mathematics,Bhagat Raj,CSE block 201,BCS304,"On Friday, Section A has Discrete Mathematics (subject code BCS304) during period 4 at 12:00-12:50, taught by Bhagat Raj in room CSE block 201."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+,,,,,,,,
+B,Monday,1.0,9:00–9:50,Digital Logic Design,Kiran Sharma,CSE block 202,BCS306,"On Monday, Section B has Digital Logic Design (subject code BCS306) during period 1 at 9:00-9:50, taught by Kiran Sharma in room CSE block 202."
+B,Monday,2.0,9:50–10:40,Data Structures,Arjun Mehta,CSE block 202,BCS301,"On Monday, Section B has Data Structures (subject code BCS301) during period 2 at 9:50-10:40, taught by Arjun Mehta in room CSE block 202."
+,,,,SHORT BREAK,,,,SHORT BREAK
+B,Monday,3.0,11:00–11:50,OOP with C++,Neha Singh,CSE block 202,BCS303,"On Monday, Section B has OOP with C++ (subject code BCS303) during period 3 at 11:00-11:50, taught by Neha Singh in room CSE block 202."
+B,Monday,4.0,12:00–12:50,Computer Networks,Rajeev Kumar,CSE block 202,BCS305,"On Monday, Section B has Computer Networks (subject code BCS305) during period 4 at 12:00-12:50, taught by Rajeev Kumar in room CSE block 202."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+B,Tuesday,1.0,9:00–9:50,Discrete Mathematics,Bhagat Raj,CSE block 202,BCS304,"On Tuesday, Section B has Discrete Mathematics (subject code BCS304) during period 1 at 9:00-9:50, taught by Bhagat Raj in room CSE block 202."
+B,Tuesday,2.0,9:50–10:40,Operating Systems,Srushti Kulkarni,CSE block 202,BCS302,"On Tuesday, Section B has Operating Systems (subject code BCS302) during period 2 at 9:50-10:40, taught by Srushti Kulkarni in room CSE block 202."
+,,,,SHORT BREAK,,,,SHORT BREAK
+B,Tuesday,3.0,11:00–11:50,Python Lab,Anjali Patel,CSE block 202,BLS310,"On Tuesday, Section B has Python Lab (subject code BLS310) during period 3 at 11:00-11:50, taught by Anjali Patel in room CSE block 202."
+B,Tuesday,4.0,12:00–12:50,Digital Logic Design,Kiran Sharma,CSE block 202,BCS306,"On Tuesday, Section B has Digital Logic Design (subject code BCS306) during period 4 at 12:00-12:50, taught by Kiran Sharma in room CSE block 202."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+B,Wednesday,1.0,9:00–9:50,Communication Skills,Meena Rao,CSE block 202,BCSL311,"On Wednesday, Section B has Communication Skills (subject code BCSL311) during period 1 at 9:00-9:50, taught by Meena Rao in room CSE block 202."
+B,Wednesday,2.0,9:50–10:40,Data Structures,Arjun Mehta,CSE block 202,BCS301,"On Wednesday, Section B has Data Structures (subject code BCS301) during period 2 at 9:50-10:40, taught by Arjun Mehta in room CSE block 202."
+,,,,SHORT BREAK,,,,SHORT BREAK
+B,Wednesday,3.0,11:00–11:50,OOP with C++,Neha Singh,CSE block 202,BCS303,"On Wednesday, Section B has OOP with C++ (subject code BCS303) during period 3 at 11:00-11:50, taught by Neha Singh in room CSE block 202."
+B,Wednesday,4.0,12:00–12:50,Operating Systems,Srushti Kulkarni,CSE block 202,BCS302,"On Wednesday, Section B has Operating Systems (subject code BCS302) during period 4 at 12:00-12:50, taught by Srushti Kulkarni in room CSE block 202."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+B,Thursday,1.0,9:00–9:50,Operating Systems,Srushti Kulkarni,CSE block 202,BCS302,"On Thursday, Section B has Operating Systems (subject code BCS302) during period 1 at 9:00-9:50, taught by Srushti Kulkarni in room CSE block 202."
+B,Thursday,2.0,9:50–10:40,Discrete Mathematics,Bhagat Raj,CSE block 202,BCS304,"On Thursday, Section B has Discrete Mathematics (subject code BCS304) during period 2 at 9:50-10:40, taught by Bhagat Raj in room CSE block 202."
+,,,,SHORT BREAK,,,,SHORT BREAK
+B,Thursday,3.0,11:00–11:50,Computer Networks,Rajeev Kumar,CSE block 202,BCS305,"On Thursday, Section B has Computer Networks (subject code BCS305) during period 3 at 11:00-11:50, taught by Rajeev Kumar in room CSE block 202."
+B,Thursday,4.0,12:00–12:50,Data Structures,Arjun Mehta,CSE block 202,BCS301,"On Thursday, Section B has Data Structures (subject code BCS301) during period 4 at 12:00-12:50, taught by Arjun Mehta in room CSE block 202."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+B,Friday,1.0,9:00–9:50,OOP with C++,Neha Singh,CSE block 202,BCS303,"On Friday, Section B has OOP with C++ (subject code BCS303) during period 1 at 9:00-9:50, taught by Neha Singh in room CSE block 202."
+B,Friday,2.0,9:50–10:40,Operating Systems,Srushti Kulkarni,CSE block 202,BCS302,"On Friday, Section B has Operating Systems (subject code BCS302) during period 2 at 9:50-10:40, taught by Srushti Kulkarni in room CSE block 202."
+,,,,SHORT BREAK,,,,SHORT BREAK
+B,Friday,3.0,11:00–11:50,Data Structures,Arjun Mehta,CSE block 202,BCS301,"On Friday, Section B has Data Structures (subject code BCS301) during period 3 at 11:00-11:50, taught by Arjun Mehta in room CSE block 202."
+B,Friday,4.0,12:00–12:50,Communication Skills,Meena Rao,CSE block 202,BCSL311,"On Friday, Section B has Communication Skills (subject code BCSL311) during period 4 at 12:00-12:50, taught by Meena Rao in room CSE block 202."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+,,,,,,,,
+C,Monday,1.0,9:00–9:50,Communication Skills,Meena Rao,CSE block 203,BCSL311,"On Monday, Section C has Communication Skills (subject code BCSL311) during period 1 at 9:00-9:50, taught by Meena Rao in room CSE block 203."
+C,Monday,2.0,9:50–10:40,OOP with C++,Rajeev Kumar,CSE block 203,BCS303,"On Monday, Section C has OOP with C++ (subject code BCS303) during period 2 at 9:50-10:40, taught by Rajeev Kumar in room CSE block 203."
+,,,,SHORT BREAK,,,,SHORT BREAK
+C,Monday,3.0,11:00–11:50,Data Structures,Arjun Mehta,CSE block 203,BCS301,"On Monday, Section C has Data Structures (subject code BCS301) during period 3 at 11:00-11:50, taught by Arjun Mehta in room CSE block 203."
+C,Monday,4.0,12:00–12:50,Discrete Mathematics,Kiran Sharma,CSE block 203,BCS304,"On Monday, Section C has Discrete Mathematics (subject code BCS304) during period 4 at 12:00-12:50, taught by Kiran Sharma in room CSE block 203."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+C,Tuesday,1.0,9:00–9:50,Python lab,Bhagat Raj,CSE block 203,BLS310,"On Tuesday, Section C has Python lab (subject code BLS310) during period 1 at 9:00-9:50, taught by Bhagat Raj in room CSE block 203."
+C,Tuesday,2.0,9:50–10:40,Operating Systems,Srushti Kulkarni,CSE block 203,BCS302,"On Tuesday, Section C has Operating Systems (subject code BCS302) during period 2 at 9:50-10:40, taught by Srushti Kulkarni in room CSE block 203."
+,,,,SHORT BREAK,,,,SHORT BREAK
+C,Tuesday,3.0,11:00–11:50,Computer Networks,Neha Singh,CSE block 203,BCS305,"On Tuesday, Section C has Computer Networks (subject code BCS305) during period 3 at 11:00-11:50, taught by Neha Singh in room CSE block 203."
+C,Tuesday,4.0,12:00–12:50,Digital Logic Design,Anjali Patel,CSE block 203,BCS306,"On Tuesday, Section C has Digital Logic Design (subject code BCS306) during period 4 at 12:00-12:50, taught by Anjali Patel in room CSE block 203."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+C,Wednesday,1.0,9:00–9:50,OOP with C++,Rajeev Kumar,CSE block 203,BCS303,"On Wednesday, Section C has OOP with C++ (subject code BCS303) during period 1 at 9:00-9:50, taught by Rajeev Kumar in room CSE block 203."
+C,Wednesday,2.0,9:50–10:40,Discrete Mathematics,Kiran Sharma,CSE block 203,BCS304,"On Wednesday, Section C has Discrete Mathematics (subject code BCS304) during period 2 at 9:50-10:40, taught by Kiran Sharma in room CSE block 203."
+,,,,SHORT BREAK,,,,SHORT BREAK
+C,Wednesday,3.0,11:00–11:50,Computer Networks,Neha Singh,CSE block 203,BCS305,"On Wednesday, Section C has Computer Networks (subject code BCS305) during period 3 at 11:00-11:50, taught by Neha Singh in room CSE block 203."
+C,Wednesday,4.0,12:00–12:50,Digital Logic Design,Anjali Patel,CSE block 203,BCS306,"On Wednesday, Section C has Digital Logic Design (subject code BCS306) during period 4 at 12:00-12:50, taught by Anjali Patel in room CSE block 203."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+C,Thursday,1.0,9:00–9:50,Communication Skills,Meena Rao,CSE block 203,BCSL311,"On Thursday, Section C has Communication Skills (subject code BCSL311) during period 1 at 9:00-9:50, taught by Meena Rao in room CSE block 203."
+C,Thursday,2.0,9:50–10:40,Operating Systems,Srushti Kulkarni,CSE block 203,BCS302,"On Thursday, Section C has Operating Systems (subject code BCS302) during period 2 at 9:50-10:40, taught by Srushti Kulkarni in room CSE block 203."
+,,,,SHORT BREAK,,,,SHORT BREAK
+C,Thursday,3.0,11:00–11:50,Data Structures,Arjun Mehta,CSE block 203,BCS301,"On Thursday, Section C has Data Structures (subject code BCS301) during period 3 at 11:00-11:50, taught by Arjun Mehta in room CSE block 203."
+C,Thursday,4.0,12:00–12:50,OOP with C++,Rajeev Kumar,CSE block 203,BCS303,"On Thursday, Section C has OOP with C++ (subject code BCS303) during period 4 at 12:00-12:50, taught by Rajeev Kumar in room CSE block 203."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+C,Friday,1.0,9:00–9:50,Computer Networks,Neha Singh,CSE block 203,BCS305,"On Friday, Section C has Computer Networks (subject code BCS305) during period 1 at 9:00-9:50, taught by Neha Singh in room CSE block 203."
+C,Friday,2.0,9:50–10:40,Discrete Mathematics,Kiran Sharma,CSE block 203,BCS304,"On Friday, Section C has Discrete Mathematics (subject code BCS304) during period 2 at 9:50-10:40, taught by Kiran Sharma in room CSE block 203."
+,,,,SHORT BREAK,,,,SHORT BREAK
+C,Friday,3.0,11:00–11:50,Digital Logic Design,Anjali Patel,CSE block 203,BCS306,"On Friday, Section C has Digital Logic Design (subject code BCS306) during period 3 at 11:00-11:50, taught by Anjali Patel in room CSE block 203."
+C,Friday,4.0,12:00–12:50,Data Structures,Arjun Mehta,CSE block 203,BCS301,"On Friday, Section C has Data Structures (subject code BCS301) during period 4 at 12:00-12:50, taught by Arjun Mehta in room CSE block 203."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+,,,,,,,,
+D,Monday,1.0,9:00–9:50,Data Structures,Rajeev Kumar,CSE block 204,BCS301,"On Monday, Section D has Data Structures (subject code BCS301) during period 1 at 9:00-9:50, taught by Rajeev Kumar in room CSE block 204."
+D,Monday,2.0,9:50–10:40,OOP with C++,Neha Singh,CSE block 204,BCS303,"On Monday, Section D has OOP with C++ (subject code BCS303) during period 2 at 9:50-10:40, taught by Neha Singh in room CSE block 204."
+,,,,SHORT BREAK,,,,SHORT BREAK
+D,Monday,3.0,11:00–11:50,Communication Skills,Meena Rao,CSE block 204,BCSL311,"On Monday, Section D has Communication Skills (subject code BCSL311) during period 3 at 11:00-11:50, taught by Meena Rao in room CSE block 204."
+D,Monday,4.0,12:00–12:50,Computer Networks,Priya Gupta,CSE block 204,BCS305,"On Monday, Section D has Computer Networks (subject code BCS305) during period 4 at 12:00-12:50, taught by Priya Gupta in room CSE block 204."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+D,Tuesday,1.0,9:00–9:50,Discrete Mathematics,Bhagat Raj,CSE block 204,BCS304,"On Tuesday, Section D has Discrete Mathematics (subject code BCS304) during period 1 at 9:00-9:50, taught by Bhagat Raj in room CSE block 204."
+D,Tuesday,2.0,9:50–10:40,Operating Systems,Arjun Mehta,CSE block 204,BCS302,"On Tuesday, Section D has Operating Systems (subject code BCS302) during period 2 at 9:50-10:40, taught by Arjun Mehta in room CSE block 204."
+,,,,SHORT BREAK,,,,SHORT BREAK
+D,Tuesday,3.0,11:00–11:50,Python Lab,Srushti Kulkarni,CSE block 204,BLS310,"On Tuesday, Section D has Python Lab (subject code BLS310) during period 3 at 11:00-11:50, taught by Srushti Kulkarni in room CSE block 204."
+D,Tuesday,4.0,12:00–12:50,Digital Logic Design,Anjali Patel,CSE block 204,BCS306,"On Tuesday, Section D has Digital Logic Design (subject code BCS306) during period 4 at 12:00-12:50, taught by Anjali Patel in room CSE block 204."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+D,Wednesday,1.0,9:00–9:50,Data Structures,Rajeev Kumar,CSE block 204,BCS301,"On Wednesday, Section D has Data Structures (subject code BCS301) during period 1 at 9:00-9:50, taught by Rajeev Kumar in room CSE block 204."
+D,Wednesday,2.0,9:50–10:40,Computer Networks,Priya Gupta,CSE block 204,BCS305,"On Wednesday, Section D has Computer Networks (subject code BCS305) during period 2 at 9:50-10:40, taught by Priya Gupta in room CSE block 204."
+,,,,SHORT BREAK,,,,SHORT BREAK
+D,Wednesday,3.0,11:00–11:50,Discrete Mathematics,Bhagat Raj,CSE block 204,BCS304,"On Wednesday, Section D has Discrete Mathematics (subject code BCS304) during period 3 at 11:00-11:50, taught by Bhagat Raj in room CSE block 204."
+D,Wednesday,4.0,12:00–12:50,Digital Logic Design,Anjali Patel,CSE block 204,BCS306,"On Wednesday, Section D has Digital Logic Design (subject code BCS306) during period 4 at 12:00-12:50, taught by Anjali Patel in room CSE block 204."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+D,Thursday,1.0,9:00–9:50,Communication Skills,Kiran Sharma,CSE block 204,BCSL311,"On Thursday, Section D has Communication Skills (subject code BCSL311) during period 1 at 9:00-9:50, taught by Kiran Sharma in room CSE block 204."
+D,Thursday,2.0,9:50–10:40,Operating Systems,Arjun Mehta,CSE block 204,BCS302,"On Thursday, Section D has Operating Systems (subject code BCS302) during period 2 at 9:50-10:40, taught by Arjun Mehta in room CSE block 204."
+,,,,SHORT BREAK,,,,SHORT BREAK
+D,Thursday,3.0,11:00–11:50,Data Structures,Rajeev Kumar,CSE block 204,BCS301,"On Thursday, Section D has Data Structures (subject code BCS301) during period 3 at 11:00-11:50, taught by Rajeev Kumar in room CSE block 204."
+D,Thursday,4.0,12:00–12:50,Computer Networks,Priya Gupta,CSE block 204,BCS305,"On Thursday, Section D has Computer Networks (subject code BCS305) during period 4 at 12:00-12:50, taught by Priya Gupta in room CSE block 204."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+D,Friday,1.0,9:00–9:50,Data Structures,Rajeev Kumar,CSE block 204,BCS301,"On Friday, Section D has Data Structures (subject code BCS301) during period 1 at 9:00-9:50, taught by Rajeev Kumar in room CSE block 204."
+D,Friday,2.0,9:50–10:40,OOP with C++,Neha Singh,CSE block 204,BCS303,"On Friday, Section D has OOP with C++ (subject code BCS303) during period 2 at 9:50-10:40, taught by Neha Singh in room CSE block 204."
+,,,,SHORT BREAK,,,,SHORT BREAK
+D,Friday,3.0,11:00–11:50,OOP with C++,Neha Singh,CSE block 204,BCS303,"On Friday, Section D has OOP with C++ (subject code BCS303) during period 3 at 11:00-11:50, taught by Neha Singh in room CSE block 204."
+D,Friday,4.0,12:00–12:50,Digital Logic Design,Anjali Patel,CSE block 204,BCS306,"On Friday, Section D has Digital Logic Design (subject code BCS306) during period 4 at 12:00-12:50, taught by Anjali Patel in room CSE block 204."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+,,,,,,,,
+E,Monday,1.0,9:00–9:50,OOP with C++,Srushti Kulkarni,CSE block 205,BCS303,"On Monday, Section E has OOP with C++ (subject code BCS303) during period 1 at 9:00-9:50, taught by Srushti Kulkarni in room CSE block 205."
+E,Monday,2.0,9:50–10:40,Data Structutres,Priya Gupta,CSE block 205,BCS301,"On Monday, Section E has Data Structutres (subject code BCS301) during period 2 at 9:50-10:40, taught by Priya Gupta in room CSE block 205."
+,,,,SHORT BREAK,,,,SHORT BREAK
+E,Monday,3.0,11:00–11:50,Operating Systems,Neha Singh,CSE block 205,BCS302,"On Monday, Section E has Operating Systems (subject code BCS302) during period 3 at 11:00-11:50, taught by Neha Singh in room CSE block 205."
+E,Monday,4.0,12:00–12:50,Computer Networks,Kiran Sharma,CSE block 205,BCS305,"On Monday, Section E has Computer Networks (subject code BCS305) during period 4 at 12:00-12:50, taught by Kiran Sharma in room CSE block 205."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+E,Tuesday,1.0,9:00–9:50,Discrete Mathematics,Kiran Sharma,CSE block 205,BCS304,"On Tuesday, Section E has Discrete Mathematics (subject code BCS304) during period 1 at 9:00-9:50, taught by Kiran Sharma in room CSE block 205."
+E,Tuesday,2.0,9:50–10:40,Digital Logic Design,Anjali Patel,CSE block 205,BCS306,"On Tuesday, Section E has Digital Logic Design (subject code BCS306) during period 2 at 9:50-10:40, taught by Anjali Patel in room CSE block 205."
+,,,,SHORT BREAK,,,,SHORT BREAK
+E,Tuesday,3.0,11:00–11:50,Communication Skills,Meena Rao,CSE block 205,BCSL311,"On Tuesday, Section E has Communication Skills (subject code BCSL311) during period 3 at 11:00-11:50, taught by Meena Rao in room CSE block 205."
+E,Tuesday,4.0,12:00–12:50,Python Lab,Rajeev Kumar,CSE block 205,BLS310,"On Tuesday, Section E has Python Lab (subject code BLS310) during period 4 at 12:00-12:50, taught by Rajeev Kumar in room CSE block 205."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+E,Wednesday,1.0,9:00–9:50,Data Structutres,Priya Gupta,CSE block 205,BCS301,"On Wednesday, Section E has Data Structutres (subject code BCS301) during period 1 at 9:00-9:50, taught by Priya Gupta in room CSE block 205."
+E,Wednesday,2.0,9:50–10:40,OOP with C++,Srushti Kulkarni,CSE block 205,BCS303,"On Wednesday, Section E has OOP with C++ (subject code BCS303) during period 2 at 9:50-10:40, taught by Srushti Kulkarni in room CSE block 205."
+,,,,SHORT BREAK,,,,SHORT BREAK
+E,Wednesday,3.0,11:00–11:50,Discrete Mathematics,Kiran Sharma,CSE block 205,BCS304,"On Wednesday, Section E has Discrete Mathematics (subject code BCS304) during period 3 at 11:00-11:50, taught by Kiran Sharma in room CSE block 205."
+E,Wednesday,4.0,12:00–12:50,Communication Skills,Meena Rao,CSE block 205,BCSL311,"On Wednesday, Section E has Communication Skills (subject code BCSL311) during period 4 at 12:00-12:50, taught by Meena Rao in room CSE block 205."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+E,Thursday,1.0,9:00–9:50,Computer Networks,Kiran Sharma,CSE block 205,BCS305,"On Thursday, Section E has Computer Networks (subject code BCS305) during period 1 at 9:00-9:50, taught by Kiran Sharma in room CSE block 205."
+E,Thursday,2.0,9:50–10:40,Data Structutres,Priya Gupta,CSE block 205,BCS301,"On Thursday, Section E has Data Structutres (subject code BCS301) during period 2 at 9:50-10:40, taught by Priya Gupta in room CSE block 205."
+,,,,SHORT BREAK,,,,SHORT BREAK
+E,Thursday,3.0,11:00–11:50,Digital Logic Design,Anjali Patel,CSE block 205,BCS306,"On Thursday, Section E has Digital Logic Design (subject code BCS306) during period 3 at 11:00-11:50, taught by Anjali Patel in room CSE block 205."
+E,Thursday,4.0,12:00–12:50,Communication Skills,Meena Rao,CSE block 205,BCSL311,"On Thursday, Section E has Communication Skills (subject code BCSL311) during period 4 at 12:00-12:50, taught by Meena Rao in room CSE block 205."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+E,Friday,1.0,9:00–9:50,Data Structutres,Priya Gupta,CSE block 205,BCS301,"On Friday, Section E has Data Structutres (subject code BCS301) during period 1 at 9:00-9:50, taught by Priya Gupta in room CSE block 205."
+E,Friday,2.0,9:50–10:40,OOP with C++,Srushti Kulkarni,CSE block 205,BCS303,"On Friday, Section E has OOP with C++ (subject code BCS303) during period 2 at 9:50-10:40, taught by Srushti Kulkarni in room CSE block 205."
+,,,,SHORT BREAK,,,,SHORT BREAK
+E,Friday,3.0,11:00–11:50,Operating Systems,Neha Singh,CSE block 205,BCS302,"On Friday, Section E has Operating Systems (subject code BCS302) during period 3 at 11:00-11:50, taught by Neha Singh in room CSE block 205."
+E,Friday,4.0,12:00–12:50,Operating Systems,Neha Singh,CSE block 205,BCS302,"On Friday, Section E has Operating Systems (subject code BCS302) during period 4 at 12:00-12:50, taught by Neha Singh in room CSE block 205."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+,,,,,,,,
+F,Monday,1.0,9:00–9:50,Discrete Mathematics,Bhagat Raj,CSE block 206,BCS304,"On Monday, Section F has Discrete Mathematics (subject code BCS304) during period 1 at 9:00-9:50, taught by Bhagat Raj in room CSE block 206."
+F,Monday,2.0,9:50–10:40,Computer Networks,Srushti Kulkarni,CSE block 206,BCS305,"On Monday, Section F has Computer Networks (subject code BCS305) during period 2 at 9:50-10:40, taught by Srushti Kulkarni in room CSE block 206."
+,,,,SHORT BREAK,,,,SHORT BREAK
+F,Monday,3.0,11:00–11:50,Operating Systems,Priya Gupta,CSE block 206,BCS302,"On Monday, Section F has Operating Systems (subject code BCS302) during period 3 at 11:00-11:50, taught by Priya Gupta in room CSE block 206."
+F,Monday,4.0,12:00–12:50,Data Structures,Neha Singh,CSE block 206,BCS301,"On Monday, Section F has Data Structures (subject code BCS301) during period 4 at 12:00-12:50, taught by Neha Singh in room CSE block 206."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+F,Tuesday,1.0,9:00–9:50,Digital Logic Design,Anjali Patel,CSE block 206,BCS306,"On Tuesday, Section F has Digital Logic Design (subject code BCS306) during period 1 at 9:00-9:50, taught by Anjali Patel in room CSE block 206."
+F,Tuesday,2.0,9:50–10:40,Communication Skills,Kiran Sharma,CSE block 206,BCSL311,"On Tuesday, Section F has Communication Skills (subject code BCSL311) during period 2 at 9:50-10:40, taught by Kiran Sharma in room CSE block 206."
+,,,,SHORT BREAK,,,,SHORT BREAK
+F,Tuesday,3.0,11:00–11:50,Python Lab,Rajeev Kumar,CSE block 206,BLS310,"On Tuesday, Section F has Python Lab (subject code BLS310) during period 3 at 11:00-11:50, taught by Rajeev Kumar in room CSE block 206."
+F,Tuesday,4.0,12:00–12:50,OOP with C++,Arjun Mehta,CSE block 206,BCS303,"On Tuesday, Section F has OOP with C++ (subject code BCS303) during period 4 at 12:00-12:50, taught by Arjun Mehta in room CSE block 206."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+F,Wednesday,1.0,9:00–9:50,OOP with C++,Arjun Mehta,CSE block 206,BCS303,"On Wednesday, Section F has OOP with C++ (subject code BCS303) during period 1 at 9:00-9:50, taught by Arjun Mehta in room CSE block 206."
+F,Wednesday,2.0,9:50–10:40,Data Structures,Neha Singh,CSE block 206,BCS301,"On Wednesday, Section F has Data Structures (subject code BCS301) during period 2 at 9:50-10:40, taught by Neha Singh in room CSE block 206."
+,,,,SHORT BREAK,,,,SHORT BREAK
+F,Wednesday,3.0,11:00–11:50,Digital Logic Design,Anjali Patel,CSE block 206,BCS306,"On Wednesday, Section F has Digital Logic Design (subject code BCS306) during period 3 at 11:00-11:50, taught by Anjali Patel in room CSE block 206."
+F,Wednesday,4.0,12:00–12:50,Operating Systems,Priya Gupta,CSE block 206,BCS302,"On Wednesday, Section F has Operating Systems (subject code BCS302) during period 4 at 12:00-12:50, taught by Priya Gupta in room CSE block 206."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+F,Thursday,1.0,9:00–9:50,Computer Networks,Priya Gupta,CSE block 206,BCS305,"On Thursday, Section F has Computer Networks (subject code BCS305) during period 1 at 9:00-9:50, taught by Priya Gupta in room CSE block 206."
+F,Thursday,2.0,9:50–10:40,Communication Skills,Kiran Sharma,CSE block 206,BCSL311,"On Thursday, Section F has Communication Skills (subject code BCSL311) during period 2 at 9:50-10:40, taught by Kiran Sharma in room CSE block 206."
+,,,,SHORT BREAK,,,,SHORT BREAK
+F,Thursday,3.0,11:00–11:50,Discrete Mathematics,Bhagat Raj,CSE block 206,BCS304,"On Thursday, Section F has Discrete Mathematics (subject code BCS304) during period 3 at 11:00-11:50, taught by Bhagat Raj in room CSE block 206."
+F,Thursday,4.0,12:00–12:50,Data Structures,Neha Singh,CSE block 206,BCS301,"On Thursday, Section F has Data Structures (subject code BCS301) during period 4 at 12:00-12:50, taught by Neha Singh in room CSE block 206."
+,,,,LUNCH BREAK,,,,LUNCH BREAK
+F,Friday,1.0,9:00–9:50,OOP with C++,Arjun Mehta,CSE block 206,BCS303,"On Friday, Section F has OOP with C++ (subject code BCS303) during period 1 at 9:00-9:50, taught by Arjun Mehta in room CSE block 206."
+F,Friday,2.0,9:50–10:40,Digital Logic Design,Anjali Patel,CSE block 206,BCS306,"On Friday, Section F has Digital Logic Design (subject code BCS306) during period 2 at 9:50-10:40, taught by Anjali Patel in room CSE block 206."
+,,,,SHORT BREAK,,,,SHORT BREAK
+F,Friday,3.0,11:00–11:50,Operating Systems,Priya Gupta,CSE block 206,BCS302,"On Friday, Section F has Operating Systems (subject code BCS302) during period 3 at 11:00-11:50, taught by Priya Gupta in room CSE block 206."
+F,Friday,4.0,12:00–12:50,Data Structures,Neha Singh,CSE block 206,BCS301,"On Friday, Section F has Data Structures (subject code BCS301) during period 4 at 12:00-12:50, taught by Neha Singh in room CSE block 206."
+,,,,LUNCH BREAK,,,,LUNCH BREAK

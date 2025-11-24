@@ -1,0 +1,239 @@
+import streamlit as st
+from pathlib import Path
+import sys
+
+# Add your code path
+sys.path.append("C:\\Users\\ADMIN\\OneDrive\\Desktop\\SQL\\noBOT")
+
+# Import your classes (replace with your actual filename)
+from your_file_name import UnifiedRetriever, RAGPipeline
+
+# Page config
+st.set_page_config(
+    page_title="noBOT - RNS Institute of Technology",
+    page_icon="🎓",
+    layout="centered"
+)
+
+# Custom CSS with RNS branding
+st.markdown("""
+<style>
+    .main {
+        background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+        padding: 20px;
+    }
+    .header-container {
+        background: white;
+        padding: 20px;
+        border-radius: 15px;
+        text-align: center;
+        margin-bottom: 20px;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    }
+    .college-name {
+        font-size: 28px;
+        font-weight: bold;
+        color: #1e3c72;
+        margin: 0;
+    }
+    .tagline {
+        font-size: 14px;
+        color: #666;
+        margin-top: 5px;
+    }
+    .stTextInput>div>div>input {
+        background-color: white;
+        border-radius: 25px;
+        padding: 15px 20px;
+        border: 2px solid #e0e0e0;
+        font-size: 16px;
+    }
+    .stTextInput>div>div>input:focus {
+        border-color: #1e3c72;
+        box-shadow: 0 0 0 2px rgba(30,60,114,0.1);
+    }
+    .chat-container {
+        background: white;
+        border-radius: 15px;
+        padding: 20px;
+        min-height: 400px;
+        max-height: 500px;
+        overflow-y: auto;
+        margin-bottom: 20px;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    }
+    .chat-message {
+        padding: 12px 18px;
+        border-radius: 18px;
+        margin: 8px 0;
+        animation: fadeIn 0.5s;
+        max-width: 80%;
+        word-wrap: break-word;
+    }
+    @keyframes fadeIn {
+        from {opacity: 0; transform: translateY(10px);}
+        to {opacity: 1; transform: translateY(0);}
+    }
+    .user-message {
+        background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+        color: white;
+        margin-left: auto;
+        text-align: right;
+        float: right;
+        clear: both;
+    }
+    .bot-message {
+        background: #f8f9fa;
+        color: #333;
+        margin-right: auto;
+        border: 1px solid #e9ecef;
+        float: left;
+        clear: both;
+    }
+    .stButton>button {
+        background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+        color: white;
+        border-radius: 25px;
+        border: none;
+        padding: 12px 30px;
+        font-weight: bold;
+        width: 100%;
+    }
+    .stButton>button:hover {
+        background: linear-gradient(135deg, #2a5298 0%, #1e3c72 100%);
+        box-shadow: 0 4px 12px rgba(30,60,114,0.3);
+    }
+    .sidebar .stButton>button {
+        background: white;
+        color: #1e3c72;
+        border: 2px solid #1e3c72;
+        padding: 8px 15px;
+        font-size: 14px;
+        margin: 5px 0;
+    }
+    .sidebar .stButton>button:hover {
+        background: #1e3c72;
+        color: white;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+# Initialize system
+@st.cache_resource
+def load_system():
+    base_path = "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SQL\\noBOT"
+    retriever = UnifiedRetriever(base_path)
+    return RAGPipeline(retriever)
+
+# Header with RNS branding
+st.markdown("""
+<div class="header-container">
+    <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+        <div style="font-size: 48px;">🎓</div>
+        <div>
+            <p class="college-name">RNS INSTITUTE OF TECHNOLOGY</p>
+            <p class="tagline">Channasandra, Bangalore</p>
+        </div>
+    </div>
+    <div style="margin-top: 15px; padding-top: 15px; border-top: 2px solid #e0e0e0;">
+        <h2 style="color: #1e3c72; margin: 0;">🤖 noBOT - Your Campus Assistant</h2>
+    </div>
+</div>
+""", unsafe_allow_html=True)
+
+# Initialize chat history
+if 'messages' not in st.session_state:
+    st.session_state.messages = [
+        {"role": "assistant", "content": "Hello! I'm noBOT, your virtual assistant for RNS Institute of Technology. How can I help you today?"}
+    ]
+
+# Chat display
+st.markdown('<div class="chat-container">', unsafe_allow_html=True)
+for message in st.session_state.messages:
+    role = message["role"]
+    content = message["content"]
+    
+    if role == "user":
+        st.markdown(f'<div class="chat-message user-message">👤 {content}</div><div style="clear:both;"></div>', 
+                   unsafe_allow_html=True)
+    else:
+        st.markdown(f'<div class="chat-message bot-message">🤖 {content}</div><div style="clear:both;"></div>', 
+                   unsafe_allow_html=True)
+st.markdown('</div>', unsafe_allow_html=True)
+
+# Input area
+st.markdown("### Ask me anything about campus...")
+col1, col2 = st.columns([5, 1])
+
+with col1:
+    user_input = st.text_input("", placeholder="Type your question here...", key="user_input", label_visibility="collapsed")
+
+with col2:
+    send_button = st.button("Send →")
+
+# Handle input
+if (send_button or user_input) and user_input:
+    st.session_state.messages.append({"role": "user", "content": user_input})
+    
+    with st.spinner("🔍 Searching campus database..."):
+        rag = load_system()
+        response = rag.ask(user_input)
+    
+    st.session_state.messages.append({"role": "assistant", "content": response})
+    st.rerun()
+
+# Sidebar
+with st.sidebar:
+    st.markdown("### 🎓 RNS Institute of Technology")
+    st.markdown("**noBOT** - AI-Powered Campus Assistant")
+    
+    st.markdown("---")
+    
+    st.markdown("### ℹ️ What can I help with?")
+    st.markdown("""
+    - 📍 **Campus Locations**  
+      Find buildings, labs, offices
+    
+    - 📅 **Events & Programs**  
+      Upcoming fests, competitions
+    
+    - 🗓️ **Class Schedules**  
+      Timetables, timings
+    
+    - 🎯 **Student Clubs**  
+      Activities, meetings
+    
+    - 🍽️ **Dining Options**  
+      Cafeteria, timings
+    """)
+    
+    st.markdown("---")
+    st.markdown("### 💡 Quick Questions")
+    
+    example_questions = [
+        ("📍", "Where is the principal's office?"),
+        ("📅", "What events are happening?"),
+        ("🗓️", "Show Monday schedule"),
+        ("🎯", "What clubs can I join?"),
+        ("🍽️", "Where is the cafeteria?")
+    ]
+    
+    for icon, question in example_questions:
+        if st.button(f"{icon} {question}", key=question):
+            st.session_state.messages.append({"role": "user", "content": question})
+            rag = load_system()
+            response = rag.ask(question)
+            st.session_state.messages.append({"role": "assistant", "content": response})
+            st.rerun()
+    
+    st.markdown("---")
+    if st.button("🗑️ Clear Chat"):
+        st.session_state.messages = [
+            {"role": "assistant", "content": "Hello! I'm noBOT. How can I help you?"}
+        ]
+        st.rerun()
+    
+    st.markdown("---")
+    st.markdown("##### 📊 Powered by")
+    st.markdown("RAG + Gemini AI")
+    st.markdown("Semantic Search")

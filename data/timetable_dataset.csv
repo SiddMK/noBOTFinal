@@ -1,0 +1,186 @@
+Section,Day,Period_No,Time,Subject,Faculty,Room_No,Subject Code
+A,Monday,1,9:00–9:50,Discrete Mathematics,Bhagat Raj,CSE block 201,BCS304
+A,Monday,2,9:50–10:40,Data Structures,Priya Gupta,CSE block 201,BCS301
+,,,,SHORT BREAK,,,
+A,Monday,3,11:00–11:50,OOP with C++,Kiran Sharma,CSE block 201,BCS303
+A,Monday,4,12:00–12:50,Operating Systems,Neha Singh,CSE block 201,BCS302
+,,,,LUNCH BREAK,,,
+A,Tuesday,1,9:00–9:50,Computer Networks,Arjun Mehta,CSE block 201,BCS305
+A,Tuesday,2,9:50–10:40,Python Lab,Anjali Patel,CSE block 201,BLS310
+,,,,SHORT BREAK,,,
+A,Tuesday,3,11:00–11:50,Data Structures,Rajeev Kumar,CSE block 201,BCS301
+A,Tuesday,4,12:00–12:50,Communication Skills,Meena Rao,CSE block 201,BCSL311
+,,,,LUNCH BREAK,,,
+A,Wednesday,1,9:00–9:50,Digital Logic Design,Srushti Kulkarni,CSE block 201,BCS306
+A,Wednesday,2,9:50–10:40,Operating Systems,Neha Singh,CSE block 201,BCS302
+,,,,SHORT BREAK,,,
+A,Wednesday,3,11:00–11:50,Computer Networks,Arjun Mehta,CSE block 201,BCS305
+A,Wednesday,4,12:00–12:50,Discrete Mathematics,Bhagat Raj,CSE block 201,BCS304
+,,,,LUNCH BREAK,,,
+A,Thursday,1,9:00–9:50,OOP with C++,Kiran Sharma,CSE block 201,BCS303
+A,Thursday,2,9:50–10:40,Digital Logic Design,Srushti Kulkarni,CSE block 201,BCS306
+,,,,SHORT BREAK,,,
+A,Thursday,3,11:00–11:50,Operating Systems,Neha Singh,CSE block 201,BCS302
+A,Thursday,4,12:00–12:50,Communication Skills,Meena Rao,CSE block 201,BCSL311
+,,,,LUNCH BREAK,,,
+A,Friday,1,9:00–9:50,Data Structures,Priya Gupta,CSE block 201,BCS301
+A,Friday,2,9:50–10:40,Computer Networks,Arjun Mehta,CSE block 201,BCS305
+,,,,SHORT BREAK,,,
+A,Friday,3,11:00–11:50,OOP with C++,Kiran Sharma,CSE block 201,BCS303
+A,Friday,4,12:00–12:50,Discrete Mathematics,Bhagat Raj,CSE block 201,BCS304
+,,,,LUNCH BREAK,,,
+,,,,,,,
+B,Monday,1,9:00–9:50,Digital Logic Design,Kiran Sharma ,CSE block 202,BCS306
+B,Monday,2,9:50–10:40,Data Structures ,Arjun Mehta ,CSE block 202,BCS301
+,,,,SHORT BREAK ,,,
+B,Monday,3,11:00–11:50,OOP with C++,Neha Singh ,CSE block 202,BCS303
+B,Monday,4,12:00–12:50,Computer Networks ,Rajeev Kumar,CSE block 202,BCS305
+,,,,LUNCH BREAK,,,
+B,Tuesday,1,9:00–9:50,Discrete Mathematics,Bhagat Raj ,CSE block 202,BCS304
+B,Tuesday,2,9:50–10:40,Operating Systems ,Srushti Kulkarni ,CSE block 202,BCS302
+,,,,SHORT BREAK ,,,
+B,Tuesday,3,11:00–11:50,Python Lab ,Anjali Patel ,CSE block 202,BLS310
+B,Tuesday,4,12:00–12:50,Digital Logic Design,Kiran Sharma ,CSE block 202,BCS306
+,,,,LUNCH BREAK,,,
+B,Wednesday,1,9:00–9:50,Communication Skills ,Meena Rao ,CSE block 202,BCSL311
+B,Wednesday,2,9:50–10:40,Data Structures ,Arjun Mehta ,CSE block 202,BCS301
+,,,,SHORT BREAK ,,,
+B,Wednesday,3,11:00–11:50,OOP with C++,Neha Singh ,CSE block 202,BCS303
+B,Wednesday,4,12:00–12:50,Operating Systems ,Srushti Kulkarni ,CSE block 202,BCS302
+,,,,LUNCH BREAK,,,
+B,Thursday,1,9:00–9:50,Operating Systems ,Srushti Kulkarni ,CSE block 202,BCS302
+B,Thursday,2,9:50–10:40,Discrete Mathematics,Bhagat Raj ,CSE block 202,BCS304
+,,,,SHORT BREAK ,,,
+B,Thursday,3,11:00–11:50,Computer Networks ,Rajeev Kumar,CSE block 202,BCS305
+B,Thursday,4,12:00–12:50,Data Structures ,Arjun Mehta ,CSE block 202,BCS301
+,,,,LUNCH BREAK,,,
+B,Friday,1,9:00–9:50,OOP with C++,Neha Singh ,CSE block 202,BCS303
+B,Friday,2,9:50–10:40,Operating Systems ,Srushti Kulkarni ,CSE block 202,BCS302
+,,,,SHORT BREAK ,,,
+B,Friday,3,11:00–11:50,Data Structures ,Arjun Mehta ,CSE block 202,BCS301
+B,Friday,4,12:00–12:50,Communication Skills ,Meena Rao ,CSE block 202,BCSL311
+,,,,LUNCH BREAK,,,
+,,,,,,,
+C,Monday,1,9:00–9:50,Communication Skills ,Meena Rao ,CSE block 203,BCSL311
+C,Monday,2,9:50–10:40,OOP with C++,Rajeev Kumar ,CSE block 203,BCS303
+,,,,SHORT BREAK,,,
+C,Monday,3,11:00–11:50,Data Structures,Arjun Mehta ,CSE block 203,BCS301
+C,Monday,4,12:00–12:50,Discrete Mathematics,Kiran Sharma,CSE block 203,BCS304
+,,,,LUNCH BREAK ,,,
+C,Tuesday,1,9:00–9:50,Python lab ,Bhagat Raj ,CSE block 203,BLS310
+C,Tuesday,2,9:50–10:40,Operating Systems,Srushti Kulkarni,CSE block 203,BCS302
+,,,,SHORT BREAK,,,
+C,Tuesday,3,11:00–11:50,Computer Networks,Neha Singh ,CSE block 203,BCS305
+C,Tuesday,4,12:00–12:50,Digital Logic Design ,Anjali Patel ,CSE block 203,BCS306
+,,,,LUNCH BREAK ,,,
+C,Wednesday,1,9:00–9:50,OOP with C++,Rajeev Kumar,CSE block 203,BCS303
+C,Wednesday,2,9:50–10:40,Discrete Mathematics,Kiran Sharma,CSE block 203,BCS304
+,,,,SHORT BREAK,,,
+C,Wednesday,3,11:00–11:50,Computer Networks,Neha Singh ,CSE block 203,BCS305
+C,Wednesday,4,12:00–12:50,Digital Logic Design ,Anjali Patel ,CSE block 203,BCS306
+,,,,LUNCH BREAK ,,,
+C,Thursday,1,9:00–9:50,Communication Skills ,Meena Rao ,CSE block 203,BCSL311
+C,Thursday,2,9:50–10:40,Operating Systems,Srushti Kulkarni,CSE block 203,BCS302
+,,,,SHORT BREAK,,,
+C,Thursday,3,11:00–11:50,Data Structures,Arjun Mehta ,CSE block 203,BCS301
+C,Thursday,4,12:00–12:50,OOP with C++,Rajeev Kumar,CSE block 203,BCS303
+,,,,LUNCH BREAK ,,,
+C,Friday,1,9:00–9:50,Computer Networks,Neha Singh ,CSE block 203,BCS305
+C,Friday,2,9:50–10:40,Discrete Mathematics,Kiran Sharma,CSE block 203,BCS304
+,,,,SHORT BREAK,,,
+C,Friday,3,11:00–11:50,Digital Logic Design ,Anjali Patel ,CSE block 203,BCS306
+C,Friday,4,12:00–12:50,Data Structures,Arjun Mehta ,CSE block 203,BCS301
+,,,,LUNCH BREAK ,,,
+,,,,,,,
+D,Monday,1,9:00–9:50,Data Structures ,Rajeev Kumar,CSE block 204,BCS301
+D,Monday,2,9:50–10:40,OOP with C++,Neha Singh ,CSE block 204,BCS303
+,,,,SHORT BREAK,,,
+D,Monday,3,11:00–11:50,Communication Skills,Meena Rao ,CSE block 204,BCSL311
+D,Monday,4,12:00–12:50,Computer Networks ,Priya Gupta ,CSE block 204,BCS305
+,,,,LUNCH BREAK,,,
+D,Tuesday,1,9:00–9:50,Discrete Mathematics ,Bhagat Raj ,CSE block 204,BCS304
+D,Tuesday,2,9:50–10:40,Operating Systems ,Arjun Mehta,CSE block 204,BCS302
+,,,,SHORT BREAK,,,
+D,Tuesday,3,11:00–11:50,Python Lab,Srushti Kulkarni,CSE block 204,BLS310
+D,Tuesday,4,12:00–12:50,Digital Logic Design,Anjali Patel,CSE block 204,BCS306
+,,,,LUNCH BREAK,,,
+D,Wednesday,1,9:00–9:50,Data Structures ,Rajeev Kumar,CSE block 204,BCS301
+D,Wednesday,2,9:50–10:40,Computer Networks ,Priya Gupta ,CSE block 204,BCS305
+,,,,SHORT BREAK,,,
+D,Wednesday,3,11:00–11:50,Discrete Mathematics ,Bhagat Raj ,CSE block 204,BCS304
+D,Wednesday,4,12:00–12:50,Digital Logic Design,Anjali Patel,CSE block 204,BCS306
+,,,,LUNCH BREAK,,,
+D,Thursday,1,9:00–9:50,Communication Skills,Kiran Sharma ,CSE block 204,BCSL311
+D,Thursday,2,9:50–10:40,Operating Systems ,Arjun Mehta,CSE block 204,BCS302
+,,,,SHORT BREAK,,,
+D,Thursday,3,11:00–11:50,Data Structures ,Rajeev Kumar,CSE block 204,BCS301
+D,Thursday,4,12:00–12:50,Computer Networks ,Priya Gupta ,CSE block 204,BCS305
+,,,,LUNCH BREAK,,,
+D,Friday,1,9:00–9:50,Data Structures ,Rajeev Kumar,CSE block 204,BCS301
+D,Friday,2,9:50–10:40,OOP with C++,Neha Singh ,CSE block 204,BCS303
+,,,,SHORT BREAK,,,
+D,Friday,3,11:00–11:50,OOP with C++,Neha Singh ,CSE block 204,BCS303
+D,Friday,4,12:00–12:50,Digital Logic Design,Anjali Patel,CSE block 204,BCS306
+,,,,LUNCH BREAK,,,
+,,,,,,,
+E,Monday,1,9:00–9:50,OOP with C++,Srushti Kulkarni ,CSE block 205,BCS303
+E,Monday,2,9:50–10:40,Data Structutres ,Priya Gupta ,CSE block 205,BCS301
+,,,,SHORT BREAK,,,
+E,Monday,3,11:00–11:50,Operating Systems,Neha Singh ,CSE block 205,BCS302
+E,Monday,4,12:00–12:50,Computer Networks,Kiran Sharma ,CSE block 205,BCS305
+,,,,LUNCH BREAK,,,
+E,Tuesday,1,9:00–9:50,Discrete Mathematics ,Kiran Sharma ,CSE block 205,BCS304
+E,Tuesday,2,9:50–10:40,Digital Logic Design ,Anjali Patel ,CSE block 205,BCS306
+,,,,SHORT BREAK,,,
+E,Tuesday,3,11:00–11:50,Communication Skills,Meena Rao ,CSE block 205,BCSL311
+E,Tuesday,4,12:00–12:50,Python Lab ,Rajeev Kumar ,CSE block 205,BLS310
+,,,,LUNCH BREAK,,,
+E,Wednesday,1,9:00–9:50,Data Structutres ,Priya Gupta ,CSE block 205,BCS301
+E,Wednesday,2,9:50–10:40,OOP with C++,Srushti Kulkarni ,CSE block 205,BCS303
+,,,,SHORT BREAK,,,
+E,Wednesday,3,11:00–11:50,Discrete Mathematics ,Kiran Sharma ,CSE block 205,BCS304
+E,Wednesday,4,12:00–12:50,Communication Skills,Meena Rao ,CSE block 205,BCSL311
+,,,,LUNCH BREAK,,,
+E,Thursday,1,9:00–9:50,Computer Networks,Kiran Sharma ,CSE block 205,BCS305
+E,Thursday,2,9:50–10:40,Data Structutres ,Priya Gupta ,CSE block 205,BCS301
+,,,,SHORT BREAK,,,
+E,Thursday,3,11:00–11:50,Digital Logic Design ,Anjali Patel ,CSE block 205,BCS306
+E,Thursday,4,12:00–12:50,Communication Skills,Meena Rao ,CSE block 205,BCSL311
+,,,,LUNCH BREAK,,,
+E,Friday,1,9:00–9:50,Data Structutres ,Priya Gupta ,CSE block 205,BCS301
+E,Friday,2,9:50–10:40,OOP with C++,Srushti Kulkarni ,CSE block 205,BCS303
+,,,,SHORT BREAK,,,
+E,Friday,3,11:00–11:50,Operating Systems,Neha Singh ,CSE block 205,BCS302
+E,Friday,4,12:00–12:50,Operating Systems,Neha Singh ,CSE block 205,BCS302
+,,,,LUNCH BREAK,,,
+,,,,,,,
+F,Monday,1,9:00–9:50,Discrete Mathematics ,Bhagat Raj ,CSE block 206,BCS304
+F,Monday,2,9:50–10:40,Computer Networks ,Srushti Kulkarni,CSE block 206,BCS305
+,,,,SHORT BREAK ,,,
+F,Monday,3,11:00–11:50,Operating Systems ,Priya Gupta ,CSE block 206,BCS302
+F,Monday,4,12:00–12:50,Data Structures ,Neha Singh ,CSE block 206,BCS301
+,,,,LUNCH BREAK,,,
+F,Tuesday,1,9:00–9:50,Digital Logic Design ,Anjali Patel ,CSE block 206,BCS306
+F,Tuesday,2,9:50–10:40,Communication Skills ,Kiran Sharma ,CSE block 206,BCSL311
+,,,,SHORT BREAK ,,,
+F,Tuesday,3,11:00–11:50,Python Lab ,Rajeev Kumar ,CSE block 206,BLS310
+F,Tuesday,4,12:00–12:50,OOP with C++,Arjun Mehta ,CSE block 206,BCS303
+,,,,LUNCH BREAK,,,
+F,Wednesday,1,9:00–9:50,OOP with C++,Arjun Mehta ,CSE block 206,BCS303
+F,Wednesday,2,9:50–10:40,Data Structures ,Neha Singh ,CSE block 206,BCS301
+,,,,SHORT BREAK ,,,
+F,Wednesday,3,11:00–11:50,Digital Logic Design ,Anjali Patel ,CSE block 206,BCS306
+F,Wednesday,4,12:00–12:50,Operating Systems ,Priya Gupta ,CSE block 206,BCS302
+,,,,LUNCH BREAK,,,
+F,Thursday,1,9:00–9:50,Computer Networks ,Priya Gupta ,CSE block 206,BCS305
+F,Thursday,2,9:50–10:40,Communication Skills ,Kiran Sharma ,CSE block 206,BCSL311
+,,,,SHORT BREAK ,,,
+F,Thursday,3,11:00–11:50,Discrete Mathematics ,Bhagat Raj ,CSE block 206,BCS304
+F,Thursday,4,12:00–12:50,Data Structures ,Neha Singh ,CSE block 206,BCS301
+,,,,LUNCH BREAK,,,
+F,Friday,1,9:00–9:50,OOP with C++,Arjun Mehta ,CSE block 206,BCS303
+F,Friday,2,9:50–10:40,Digital Logic Design ,Anjali Patel ,CSE block 206,BCS306
+,,,,SHORT BREAK ,,,
+F,Friday,3,11:00–11:50,Operating Systems ,Priya Gupta ,CSE block 206,BCS302
+F,Friday ,4,12:00–12:50,Data Structures ,Neha Singh ,CSE block 206,BCS301
+,,,,LUNCH BREAK,,,
