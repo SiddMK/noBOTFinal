@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/SiddMK/noBOTFinal)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 # 🎓 noBOT – Smart AI Campus Assistant  
 **An AI-powered student assistant built using RAG + semantic search**
 
